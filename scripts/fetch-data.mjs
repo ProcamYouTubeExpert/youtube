@@ -25,6 +25,7 @@ const CLIENT_ID = env.GOOGLE_CLIENT_ID?.trim();
 const CLIENT_SECRET = env.GOOGLE_CLIENT_SECRET?.trim();
 const REFRESH_TOKEN = env.GOOGLE_REFRESH_TOKEN?.trim();
 const FORCE_ANALYTICS = env.FORCE_ANALYTICS === "true";
+const FORCE_BACKFILL = env.BACKFILL === "true";
 const MAX_VIDEOS = Number(env.MAX_VIDEOS) || 1500;
 
 const DAY = 864e5;
@@ -33,6 +34,7 @@ const RECENT_N = 12;
 const ANALYTICS_MAX_AGE_MS = 6 * 3600e3;
 const ANALYTICS_DAYS = 28;
 const FULL_HISTORY_MS = 7 * DAY; // keep every point this recent; older history keeps one point per day
+const BACKFILL_DAYS = 3 * 365;
 
 async function main() {
   const hasOAuth = Boolean(CLIENT_ID && CLIENT_SECRET && REFRESH_TOKEN);
@@ -62,6 +64,7 @@ async function main() {
   await appendHistory({ t: now, subscribers: channel.subscribers, views: channel.views, videos: channel.videos });
 
   if (token) {
+    await maybeBackfillHistory(token, channel, now);
     await maybeUpdateAnalytics(token, now);
   } else {
     console.log("No OAuth credentials; skipping YouTube Analytics (watch time, traffic, audience).");
@@ -202,6 +205,58 @@ function prune(points, now) {
 
 // ---------- YouTube Analytics API ----------
 
+async function analyticsRows(token, params) {
+  const url = new URL("https://youtubeanalytics.googleapis.com/v2/reports");
+  url.search = new URLSearchParams({ ids: "channel==MINE", ...params }).toString();
+  const body = await getJson(url, { Authorization: `Bearer ${token}` });
+  const cols = (body.columnHeaders || []).map((h) => h.name);
+  return (body.rows || []).map((r) => Object.fromEntries(cols.map((c, i) => [c, r[i]])));
+}
+
+// The Data API only reports current totals, so growth history would otherwise
+// start on the day tracking began. Rebuild one point per day from Analytics by
+// walking back from today's totals and subtracting each day's net change.
+// Runs when history is younger than 3 days, or when BACKFILL=true.
+async function maybeBackfillHistory(token, channel, now) {
+  const hist = await readJson("history.json", { points: [] });
+  const tracked = (hist.points || []).filter((p) => !p.backfilled);
+  const firstTracked = tracked.length ? tracked[0].t : now;
+  if (!FORCE_BACKFILL && firstTracked < now - 3 * DAY) return;
+
+  let rows;
+  try {
+    rows = await analyticsRows(token, {
+      startDate: isoDate(now - BACKFILL_DAYS * DAY),
+      endDate: isoDate(now),
+      metrics: "views,subscribersGained,subscribersLost",
+      dimensions: "day",
+      sort: "-day",
+    });
+  } catch (err) {
+    console.warn(`::warning::History backfill failed: ${err.message}`);
+    return;
+  }
+
+  let subs = channel.subscribers;
+  let views = channel.views;
+  const backfilled = [];
+  for (const r of rows) {
+    const t = Date.parse(`${r.day}T23:59:59Z`);
+    if (t < firstTracked && views >= 0) {
+      backfilled.push({ t, subscribers: subs != null ? Math.max(0, subs) : null, views, videos: null, backfilled: true });
+    }
+    if (subs != null) subs -= r.subscribersGained - r.subscribersLost;
+    views -= r.views;
+  }
+
+  await writeJson("history.json", {
+    sample: false,
+    updatedAt: hist.updatedAt || new Date(now).toISOString(),
+    points: prune([...backfilled, ...tracked], now),
+  });
+  console.log(`Backfilled ${backfilled.length} daily history points from YouTube Analytics`);
+}
+
 async function maybeUpdateAnalytics(token, now) {
   const existing = await readJson("analytics.json", null);
   const age = existing && !existing.sample ? now - Date.parse(existing.generatedAt) : Infinity;
@@ -216,11 +271,7 @@ async function maybeUpdateAnalytics(token, now) {
 
   const report = async (name, params) => {
     try {
-      const url = new URL("https://youtubeanalytics.googleapis.com/v2/reports");
-      url.search = new URLSearchParams({ ids: "channel==MINE", startDate, endDate, ...params }).toString();
-      const body = await getJson(url, { Authorization: `Bearer ${token}` });
-      const cols = (body.columnHeaders || []).map((h) => h.name);
-      return (body.rows || []).map((r) => Object.fromEntries(cols.map((c, i) => [c, r[i]])));
+      return await analyticsRows(token, { startDate, endDate, ...params });
     } catch (err) {
       errors.push(`${name}: ${err.message}`);
       console.warn(`::warning::Analytics report "${name}" failed: ${err.message}`);

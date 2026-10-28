@@ -302,6 +302,19 @@
       pts.push({ t: state.live.at, subscribers: ch.subscribers, views: ch.views, videos: ch.videos, live: true });
     }
     const end = pts.length ? pts[pts.length - 1].t : Date.now();
+
+    // With under 30 minutes of history there is nothing to draw: hide the
+    // section and leave a short note in the footer instead of empty boxes.
+    const tooShort = pts.length < 2 || end - pts[0].t < 30 * 60e3;
+    $("growth").hidden = tooShort;
+    $("growth-note").hidden = !tooShort;
+    if (tooShort) {
+      $("growth-note").textContent = pts.length
+        ? `Growth charts will appear here once a little history has been recorded (tracking started ${dateTimeFmt.format(pts[0].t)}).`
+        : "Growth charts will appear here once a little history has been recorded.";
+      return;
+    }
+
     const span = RANGES[state.range];
     const shown = span === Infinity ? pts : pts.filter((p) => p.t >= end - span);
     // Start the axis at the first snapshot when history is shorter than the range.

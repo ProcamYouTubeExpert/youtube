@@ -10,6 +10,10 @@ on:
         description: "Refresh YouTube Analytics now (normally every 6 hours)"
         type: boolean
         default: false
+      backfill:
+        description: "Rebuild growth history from YouTube Analytics"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -38,6 +42,7 @@ jobs:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
           YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
           FORCE_ANALYTICS: ${{ inputs.refresh_analytics || 'false' }}
+          BACKFILL: ${{ inputs.backfill || 'false' }}
 
       - name: Commit updated data
         run: |
