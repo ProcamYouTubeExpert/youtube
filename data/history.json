@@ -1,7 +1,7658 @@
 {
  "sample": false,
- "updatedAt": "2026-10-28T13:27:45.527Z",
+ "updatedAt": "2026-10-28T13:29:14.288Z",
  "points": [
+  {
+   "t": 1698623999000,
+   "subscribers": 5123,
+   "views": 1932460,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1698710399000,
+   "subscribers": 5121,
+   "views": 1932555,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1698796799000,
+   "subscribers": 5122,
+   "views": 1932648,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1698883199000,
+   "subscribers": 5121,
+   "views": 1932735,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1698969599000,
+   "subscribers": 5121,
+   "views": 1932826,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699055999000,
+   "subscribers": 5123,
+   "views": 1932909,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699142399000,
+   "subscribers": 5122,
+   "views": 1933015,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699228799000,
+   "subscribers": 5122,
+   "views": 1933097,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699315199000,
+   "subscribers": 5122,
+   "views": 1933171,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699401599000,
+   "subscribers": 5122,
+   "views": 1933264,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699487999000,
+   "subscribers": 5121,
+   "views": 1933340,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699574399000,
+   "subscribers": 5121,
+   "views": 1933428,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699660799000,
+   "subscribers": 5121,
+   "views": 1933480,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699747199000,
+   "subscribers": 5122,
+   "views": 1933557,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699833599000,
+   "subscribers": 5124,
+   "views": 1933616,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1699919999000,
+   "subscribers": 5125,
+   "views": 1933670,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700006399000,
+   "subscribers": 5125,
+   "views": 1933717,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700092799000,
+   "subscribers": 5126,
+   "views": 1933769,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700179199000,
+   "subscribers": 5126,
+   "views": 1933827,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700265599000,
+   "subscribers": 5126,
+   "views": 1933918,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700351999000,
+   "subscribers": 5126,
+   "views": 1934014,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700438399000,
+   "subscribers": 5127,
+   "views": 1934068,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700524799000,
+   "subscribers": 5127,
+   "views": 1934137,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700611199000,
+   "subscribers": 5127,
+   "views": 1934212,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700697599000,
+   "subscribers": 5126,
+   "views": 1934299,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700783999000,
+   "subscribers": 5126,
+   "views": 1934372,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700870399000,
+   "subscribers": 5126,
+   "views": 1934454,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1700956799000,
+   "subscribers": 5126,
+   "views": 1934530,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701043199000,
+   "subscribers": 5126,
+   "views": 1934601,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701129599000,
+   "subscribers": 5126,
+   "views": 1934668,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701215999000,
+   "subscribers": 5126,
+   "views": 1934732,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701302399000,
+   "subscribers": 5126,
+   "views": 1934800,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701388799000,
+   "subscribers": 5124,
+   "views": 1934852,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701475199000,
+   "subscribers": 5122,
+   "views": 1934965,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701561599000,
+   "subscribers": 5124,
+   "views": 1935049,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701647999000,
+   "subscribers": 5126,
+   "views": 1935128,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701734399000,
+   "subscribers": 5125,
+   "views": 1935203,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701820799000,
+   "subscribers": 5126,
+   "views": 1935306,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701907199000,
+   "subscribers": 5126,
+   "views": 1935358,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1701993599000,
+   "subscribers": 5126,
+   "views": 1935427,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702079999000,
+   "subscribers": 5126,
+   "views": 1935500,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702166399000,
+   "subscribers": 5130,
+   "views": 1935705,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702252799000,
+   "subscribers": 5130,
+   "views": 1935806,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702339199000,
+   "subscribers": 5130,
+   "views": 1935898,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702425599000,
+   "subscribers": 5130,
+   "views": 1935977,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702511999000,
+   "subscribers": 5130,
+   "views": 1936079,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702598399000,
+   "subscribers": 5131,
+   "views": 1936159,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702684799000,
+   "subscribers": 5132,
+   "views": 1936250,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702771199000,
+   "subscribers": 5175,
+   "views": 1938963,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702857599000,
+   "subscribers": 5196,
+   "views": 1941181,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1702943999000,
+   "subscribers": 5205,
+   "views": 1942144,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703030399000,
+   "subscribers": 5209,
+   "views": 1942610,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703116799000,
+   "subscribers": 5212,
+   "views": 1942939,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703203199000,
+   "subscribers": 5217,
+   "views": 1943316,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703289599000,
+   "subscribers": 5219,
+   "views": 1943617,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703375999000,
+   "subscribers": 5220,
+   "views": 1943821,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703462399000,
+   "subscribers": 5220,
+   "views": 1944005,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703548799000,
+   "subscribers": 5225,
+   "views": 1944154,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703635199000,
+   "subscribers": 5226,
+   "views": 1944267,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703721599000,
+   "subscribers": 5229,
+   "views": 1944398,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703807999000,
+   "subscribers": 5230,
+   "views": 1944502,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703894399000,
+   "subscribers": 5232,
+   "views": 1944652,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1703980799000,
+   "subscribers": 5232,
+   "views": 1944783,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704067199000,
+   "subscribers": 5232,
+   "views": 1944879,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704153599000,
+   "subscribers": 5231,
+   "views": 1944961,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704239999000,
+   "subscribers": 5230,
+   "views": 1945039,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704326399000,
+   "subscribers": 5231,
+   "views": 1945132,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704412799000,
+   "subscribers": 5230,
+   "views": 1945194,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704499199000,
+   "subscribers": 5231,
+   "views": 1945257,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704585599000,
+   "subscribers": 5233,
+   "views": 1945339,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704671999000,
+   "subscribers": 5233,
+   "views": 1945394,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704758399000,
+   "subscribers": 5235,
+   "views": 1945452,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704844799000,
+   "subscribers": 5235,
+   "views": 1945515,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1704931199000,
+   "subscribers": 5236,
+   "views": 1945657,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705017599000,
+   "subscribers": 5237,
+   "views": 1945750,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705103999000,
+   "subscribers": 5237,
+   "views": 1945804,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705190399000,
+   "subscribers": 5238,
+   "views": 1945885,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705276799000,
+   "subscribers": 5239,
+   "views": 1945931,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705363199000,
+   "subscribers": 5239,
+   "views": 1945987,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705449599000,
+   "subscribers": 5239,
+   "views": 1946058,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705535999000,
+   "subscribers": 5239,
+   "views": 1946131,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705622399000,
+   "subscribers": 5241,
+   "views": 1946286,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705708799000,
+   "subscribers": 5247,
+   "views": 1946483,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705795199000,
+   "subscribers": 5367,
+   "views": 1961637,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705881599000,
+   "subscribers": 5388,
+   "views": 1962348,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1705967999000,
+   "subscribers": 5395,
+   "views": 1962674,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706054399000,
+   "subscribers": 5400,
+   "views": 1962948,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706140799000,
+   "subscribers": 5402,
+   "views": 1963138,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706227199000,
+   "subscribers": 5403,
+   "views": 1963330,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706313599000,
+   "subscribers": 5405,
+   "views": 1963461,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706399999000,
+   "subscribers": 5408,
+   "views": 1963603,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706486399000,
+   "subscribers": 5410,
+   "views": 1963741,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706572799000,
+   "subscribers": 5411,
+   "views": 1963875,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706659199000,
+   "subscribers": 5412,
+   "views": 1964019,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706745599000,
+   "subscribers": 5412,
+   "views": 1964118,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706831999000,
+   "subscribers": 5409,
+   "views": 1964233,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1706918399000,
+   "subscribers": 5411,
+   "views": 1964346,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707004799000,
+   "subscribers": 5412,
+   "views": 1964469,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707091199000,
+   "subscribers": 5412,
+   "views": 1964579,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707177599000,
+   "subscribers": 5411,
+   "views": 1964668,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707263999000,
+   "subscribers": 5412,
+   "views": 1964769,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707350399000,
+   "subscribers": 5412,
+   "views": 1964865,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707436799000,
+   "subscribers": 5412,
+   "views": 1964937,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707523199000,
+   "subscribers": 5414,
+   "views": 1965028,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707609599000,
+   "subscribers": 5413,
+   "views": 1965145,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707695999000,
+   "subscribers": 5413,
+   "views": 1965239,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707782399000,
+   "subscribers": 5413,
+   "views": 1965332,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707868799000,
+   "subscribers": 5415,
+   "views": 1965405,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1707955199000,
+   "subscribers": 5414,
+   "views": 1965503,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708041599000,
+   "subscribers": 5416,
+   "views": 1965630,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708127999000,
+   "subscribers": 5417,
+   "views": 1965725,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708214399000,
+   "subscribers": 5415,
+   "views": 1965834,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708300799000,
+   "subscribers": 5415,
+   "views": 1965942,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708387199000,
+   "subscribers": 5417,
+   "views": 1966053,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708473599000,
+   "subscribers": 5417,
+   "views": 1966129,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708559999000,
+   "subscribers": 5416,
+   "views": 1966231,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708646399000,
+   "subscribers": 5416,
+   "views": 1966295,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708732799000,
+   "subscribers": 5418,
+   "views": 1966344,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708819199000,
+   "subscribers": 5418,
+   "views": 1966469,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708905599000,
+   "subscribers": 5418,
+   "views": 1966570,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1708991999000,
+   "subscribers": 5418,
+   "views": 1966641,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709078399000,
+   "subscribers": 5418,
+   "views": 1966716,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709164799000,
+   "subscribers": 5419,
+   "views": 1966781,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709251199000,
+   "subscribers": 5420,
+   "views": 1966845,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709337599000,
+   "subscribers": 5421,
+   "views": 1966890,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709423999000,
+   "subscribers": 5422,
+   "views": 1966976,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709510399000,
+   "subscribers": 5424,
+   "views": 1967048,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709596799000,
+   "subscribers": 5425,
+   "views": 1967114,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709683199000,
+   "subscribers": 5424,
+   "views": 1967194,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709769599000,
+   "subscribers": 5424,
+   "views": 1967251,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709855999000,
+   "subscribers": 5424,
+   "views": 1967310,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1709942399000,
+   "subscribers": 5424,
+   "views": 1967369,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710028799000,
+   "subscribers": 5423,
+   "views": 1967416,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710115199000,
+   "subscribers": 5424,
+   "views": 1967471,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710201599000,
+   "subscribers": 5424,
+   "views": 1967545,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710287999000,
+   "subscribers": 5425,
+   "views": 1967613,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710374399000,
+   "subscribers": 5424,
+   "views": 1967683,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710460799000,
+   "subscribers": 5424,
+   "views": 1967750,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710547199000,
+   "subscribers": 5424,
+   "views": 1967802,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710633599000,
+   "subscribers": 5424,
+   "views": 1967853,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710719999000,
+   "subscribers": 5422,
+   "views": 1967910,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710806399000,
+   "subscribers": 5422,
+   "views": 1967960,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710892799000,
+   "subscribers": 5423,
+   "views": 1968019,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1710979199000,
+   "subscribers": 5425,
+   "views": 1968089,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711065599000,
+   "subscribers": 5424,
+   "views": 1968144,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711151999000,
+   "subscribers": 5425,
+   "views": 1968196,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711238399000,
+   "subscribers": 5425,
+   "views": 1968259,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711324799000,
+   "subscribers": 5426,
+   "views": 1968322,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711411199000,
+   "subscribers": 5426,
+   "views": 1968399,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711497599000,
+   "subscribers": 5425,
+   "views": 1968452,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711583999000,
+   "subscribers": 5425,
+   "views": 1968503,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711670399000,
+   "subscribers": 5428,
+   "views": 1968570,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711756799000,
+   "subscribers": 5430,
+   "views": 1968649,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711843199000,
+   "subscribers": 5430,
+   "views": 1968702,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1711929599000,
+   "subscribers": 5431,
+   "views": 1968817,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712015999000,
+   "subscribers": 5431,
+   "views": 1968876,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712102399000,
+   "subscribers": 5431,
+   "views": 1968924,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712188799000,
+   "subscribers": 5430,
+   "views": 1968973,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712275199000,
+   "subscribers": 5431,
+   "views": 1969046,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712361599000,
+   "subscribers": 5430,
+   "views": 1969110,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712447999000,
+   "subscribers": 5430,
+   "views": 1969179,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712534399000,
+   "subscribers": 5432,
+   "views": 1969256,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712620799000,
+   "subscribers": 5432,
+   "views": 1969341,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712707199000,
+   "subscribers": 5432,
+   "views": 1969398,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712793599000,
+   "subscribers": 5431,
+   "views": 1969478,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712879999000,
+   "subscribers": 5430,
+   "views": 1969543,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1712966399000,
+   "subscribers": 5429,
+   "views": 1969608,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713052799000,
+   "subscribers": 5431,
+   "views": 1969676,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713139199000,
+   "subscribers": 5431,
+   "views": 1969746,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713225599000,
+   "subscribers": 5431,
+   "views": 1969808,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713311999000,
+   "subscribers": 5431,
+   "views": 1969881,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713398399000,
+   "subscribers": 5430,
+   "views": 1969977,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713484799000,
+   "subscribers": 5431,
+   "views": 1970052,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713571199000,
+   "subscribers": 5433,
+   "views": 1970133,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713657599000,
+   "subscribers": 5433,
+   "views": 1970182,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713743999000,
+   "subscribers": 5433,
+   "views": 1970240,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713830399000,
+   "subscribers": 5434,
+   "views": 1970310,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1713916799000,
+   "subscribers": 5435,
+   "views": 1970372,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714003199000,
+   "subscribers": 5434,
+   "views": 1970472,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714089599000,
+   "subscribers": 5434,
+   "views": 1970583,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714175999000,
+   "subscribers": 5438,
+   "views": 1970726,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714262399000,
+   "subscribers": 5483,
+   "views": 1974201,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714348799000,
+   "subscribers": 5495,
+   "views": 1976196,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714435199000,
+   "subscribers": 5502,
+   "views": 1977201,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714521599000,
+   "subscribers": 5503,
+   "views": 1977767,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714607999000,
+   "subscribers": 5506,
+   "views": 1978047,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714694399000,
+   "subscribers": 5507,
+   "views": 1978265,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714780799000,
+   "subscribers": 5509,
+   "views": 1978409,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714867199000,
+   "subscribers": 5508,
+   "views": 1978544,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1714953599000,
+   "subscribers": 5508,
+   "views": 1978653,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715039999000,
+   "subscribers": 5508,
+   "views": 1978752,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715126399000,
+   "subscribers": 5509,
+   "views": 1978856,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715212799000,
+   "subscribers": 5511,
+   "views": 1978967,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715299199000,
+   "subscribers": 5513,
+   "views": 1979056,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715385599000,
+   "subscribers": 5513,
+   "views": 1979129,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715471999000,
+   "subscribers": 5515,
+   "views": 1979214,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715558399000,
+   "subscribers": 5517,
+   "views": 1979279,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715644799000,
+   "subscribers": 5517,
+   "views": 1979351,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715731199000,
+   "subscribers": 5519,
+   "views": 1979400,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715817599000,
+   "subscribers": 5520,
+   "views": 1979494,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715903999000,
+   "subscribers": 5521,
+   "views": 1979572,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1715990399000,
+   "subscribers": 5521,
+   "views": 1979650,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716076799000,
+   "subscribers": 5521,
+   "views": 1979815,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716163199000,
+   "subscribers": 5521,
+   "views": 1979874,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716249599000,
+   "subscribers": 5521,
+   "views": 1979937,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716335999000,
+   "subscribers": 5523,
+   "views": 1980069,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716422399000,
+   "subscribers": 5523,
+   "views": 1980166,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716508799000,
+   "subscribers": 5524,
+   "views": 1980206,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716595199000,
+   "subscribers": 5523,
+   "views": 1980260,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716681599000,
+   "subscribers": 5524,
+   "views": 1980309,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716767999000,
+   "subscribers": 5524,
+   "views": 1980367,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716854399000,
+   "subscribers": 5524,
+   "views": 1980417,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1716940799000,
+   "subscribers": 5526,
+   "views": 1980459,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717027199000,
+   "subscribers": 5526,
+   "views": 1980503,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717113599000,
+   "subscribers": 5526,
+   "views": 1980548,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717199999000,
+   "subscribers": 5526,
+   "views": 1980608,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717286399000,
+   "subscribers": 5527,
+   "views": 1980669,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717372799000,
+   "subscribers": 5529,
+   "views": 1980730,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717459199000,
+   "subscribers": 5526,
+   "views": 1980793,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717545599000,
+   "subscribers": 5526,
+   "views": 1980840,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717631999000,
+   "subscribers": 5526,
+   "views": 1980879,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717718399000,
+   "subscribers": 5526,
+   "views": 1980931,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717804799000,
+   "subscribers": 5527,
+   "views": 1980987,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717891199000,
+   "subscribers": 5526,
+   "views": 1981040,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1717977599000,
+   "subscribers": 5526,
+   "views": 1981071,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718063999000,
+   "subscribers": 5526,
+   "views": 1981108,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718150399000,
+   "subscribers": 5526,
+   "views": 1981147,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718236799000,
+   "subscribers": 5525,
+   "views": 1981216,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718323199000,
+   "subscribers": 5525,
+   "views": 1981250,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718409599000,
+   "subscribers": 5525,
+   "views": 1981296,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718495999000,
+   "subscribers": 5525,
+   "views": 1981331,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718582399000,
+   "subscribers": 5525,
+   "views": 1981386,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718668799000,
+   "subscribers": 5524,
+   "views": 1981449,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718755199000,
+   "subscribers": 5523,
+   "views": 1981502,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718841599000,
+   "subscribers": 5524,
+   "views": 1981557,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1718927999000,
+   "subscribers": 5524,
+   "views": 1981612,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719014399000,
+   "subscribers": 5524,
+   "views": 1981660,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719100799000,
+   "subscribers": 5524,
+   "views": 1981708,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719187199000,
+   "subscribers": 5524,
+   "views": 1981791,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719273599000,
+   "subscribers": 5525,
+   "views": 1981893,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719359999000,
+   "subscribers": 5525,
+   "views": 1981979,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719446399000,
+   "subscribers": 5525,
+   "views": 1982033,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719532799000,
+   "subscribers": 5523,
+   "views": 1982092,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719619199000,
+   "subscribers": 5523,
+   "views": 1982140,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719705599000,
+   "subscribers": 5523,
+   "views": 1982177,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719791999000,
+   "subscribers": 5523,
+   "views": 1982251,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719878399000,
+   "subscribers": 5523,
+   "views": 1982295,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1719964799000,
+   "subscribers": 5523,
+   "views": 1982345,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720051199000,
+   "subscribers": 5524,
+   "views": 1982397,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720137599000,
+   "subscribers": 5524,
+   "views": 1982455,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720223999000,
+   "subscribers": 5525,
+   "views": 1982513,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720310399000,
+   "subscribers": 5526,
+   "views": 1982592,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720396799000,
+   "subscribers": 5529,
+   "views": 1982656,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720483199000,
+   "subscribers": 5529,
+   "views": 1982711,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720569599000,
+   "subscribers": 5529,
+   "views": 1982766,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720655999000,
+   "subscribers": 5528,
+   "views": 1982851,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720742399000,
+   "subscribers": 5529,
+   "views": 1982924,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720828799000,
+   "subscribers": 5530,
+   "views": 1982994,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1720915199000,
+   "subscribers": 5530,
+   "views": 1983056,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721001599000,
+   "subscribers": 5531,
+   "views": 1983150,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721087999000,
+   "subscribers": 5532,
+   "views": 1983217,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721174399000,
+   "subscribers": 5532,
+   "views": 1983276,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721260799000,
+   "subscribers": 5532,
+   "views": 1983351,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721347199000,
+   "subscribers": 5532,
+   "views": 1983412,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721433599000,
+   "subscribers": 5530,
+   "views": 1983522,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721519999000,
+   "subscribers": 5530,
+   "views": 1983614,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721606399000,
+   "subscribers": 5529,
+   "views": 1983741,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721692799000,
+   "subscribers": 5529,
+   "views": 1983836,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721779199000,
+   "subscribers": 5530,
+   "views": 1983944,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721865599000,
+   "subscribers": 5530,
+   "views": 1984085,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1721951999000,
+   "subscribers": 5530,
+   "views": 1984170,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722038399000,
+   "subscribers": 5530,
+   "views": 1984264,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722124799000,
+   "subscribers": 5530,
+   "views": 1984348,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722211199000,
+   "subscribers": 5531,
+   "views": 1984427,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722297599000,
+   "subscribers": 5532,
+   "views": 1984496,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722383999000,
+   "subscribers": 5533,
+   "views": 1984568,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722470399000,
+   "subscribers": 5534,
+   "views": 1984646,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722556799000,
+   "subscribers": 5534,
+   "views": 1984721,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722643199000,
+   "subscribers": 5535,
+   "views": 1984826,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722729599000,
+   "subscribers": 5535,
+   "views": 1984907,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722815999000,
+   "subscribers": 5535,
+   "views": 1984973,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722902399000,
+   "subscribers": 5536,
+   "views": 1985037,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1722988799000,
+   "subscribers": 5536,
+   "views": 1985112,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723075199000,
+   "subscribers": 5537,
+   "views": 1985185,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723161599000,
+   "subscribers": 5538,
+   "views": 1985269,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723247999000,
+   "subscribers": 5539,
+   "views": 1985340,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723334399000,
+   "subscribers": 5540,
+   "views": 1985419,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723420799000,
+   "subscribers": 5540,
+   "views": 1985517,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723507199000,
+   "subscribers": 5541,
+   "views": 1985598,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723593599000,
+   "subscribers": 5542,
+   "views": 1985669,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723679999000,
+   "subscribers": 5544,
+   "views": 1985751,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723766399000,
+   "subscribers": 5545,
+   "views": 1985811,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723852799000,
+   "subscribers": 5545,
+   "views": 1985888,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1723939199000,
+   "subscribers": 5545,
+   "views": 1985959,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724025599000,
+   "subscribers": 5544,
+   "views": 1986028,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724111999000,
+   "subscribers": 5544,
+   "views": 1986088,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724198399000,
+   "subscribers": 5546,
+   "views": 1986166,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724284799000,
+   "subscribers": 5545,
+   "views": 1986232,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724371199000,
+   "subscribers": 5545,
+   "views": 1986335,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724457599000,
+   "subscribers": 5546,
+   "views": 1986414,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724543999000,
+   "subscribers": 5547,
+   "views": 1986504,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724630399000,
+   "subscribers": 5547,
+   "views": 1986569,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724716799000,
+   "subscribers": 5548,
+   "views": 1986655,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724803199000,
+   "subscribers": 5549,
+   "views": 1986731,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724889599000,
+   "subscribers": 5550,
+   "views": 1986800,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1724975999000,
+   "subscribers": 5550,
+   "views": 1986866,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725062399000,
+   "subscribers": 5549,
+   "views": 1986942,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725148799000,
+   "subscribers": 5551,
+   "views": 1987009,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725235199000,
+   "subscribers": 5552,
+   "views": 1987075,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725321599000,
+   "subscribers": 5552,
+   "views": 1987138,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725407999000,
+   "subscribers": 5552,
+   "views": 1987203,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725494399000,
+   "subscribers": 5553,
+   "views": 1987313,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725580799000,
+   "subscribers": 5554,
+   "views": 1987426,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725667199000,
+   "subscribers": 5553,
+   "views": 1987516,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725753599000,
+   "subscribers": 5553,
+   "views": 1987566,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725839999000,
+   "subscribers": 5554,
+   "views": 1987637,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1725926399000,
+   "subscribers": 5555,
+   "views": 1987711,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726012799000,
+   "subscribers": 5556,
+   "views": 1987788,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726099199000,
+   "subscribers": 5555,
+   "views": 1987871,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726185599000,
+   "subscribers": 5555,
+   "views": 1987979,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726271999000,
+   "subscribers": 5555,
+   "views": 1988071,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726358399000,
+   "subscribers": 5555,
+   "views": 1988191,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726444799000,
+   "subscribers": 5555,
+   "views": 1988280,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726531199000,
+   "subscribers": 5557,
+   "views": 1988380,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726617599000,
+   "subscribers": 5555,
+   "views": 1988430,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726703999000,
+   "subscribers": 5555,
+   "views": 1988516,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726790399000,
+   "subscribers": 5556,
+   "views": 1988618,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726876799000,
+   "subscribers": 5556,
+   "views": 1988724,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1726963199000,
+   "subscribers": 5556,
+   "views": 1988828,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727049599000,
+   "subscribers": 5557,
+   "views": 1988908,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727135999000,
+   "subscribers": 5558,
+   "views": 1989017,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727222399000,
+   "subscribers": 5559,
+   "views": 1989114,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727308799000,
+   "subscribers": 5560,
+   "views": 1989181,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727395199000,
+   "subscribers": 5560,
+   "views": 1989268,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727481599000,
+   "subscribers": 5561,
+   "views": 1989344,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727567999000,
+   "subscribers": 5564,
+   "views": 1989423,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727654399000,
+   "subscribers": 5567,
+   "views": 1989526,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727740799000,
+   "subscribers": 5568,
+   "views": 1989620,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727827199000,
+   "subscribers": 5568,
+   "views": 1989707,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727913599000,
+   "subscribers": 5568,
+   "views": 1989787,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1727999999000,
+   "subscribers": 5571,
+   "views": 1989873,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728086399000,
+   "subscribers": 5571,
+   "views": 1989960,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728172799000,
+   "subscribers": 5570,
+   "views": 1990051,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728259199000,
+   "subscribers": 5572,
+   "views": 1990140,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728345599000,
+   "subscribers": 5571,
+   "views": 1990242,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728431999000,
+   "subscribers": 5572,
+   "views": 1990334,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728518399000,
+   "subscribers": 5571,
+   "views": 1990437,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728604799000,
+   "subscribers": 5572,
+   "views": 1990543,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728691199000,
+   "subscribers": 5574,
+   "views": 1990734,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728777599000,
+   "subscribers": 5574,
+   "views": 1990850,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728863999000,
+   "subscribers": 5575,
+   "views": 1990962,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1728950399000,
+   "subscribers": 5577,
+   "views": 1991092,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729036799000,
+   "subscribers": 5579,
+   "views": 1991259,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729123199000,
+   "subscribers": 5582,
+   "views": 1991394,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729209599000,
+   "subscribers": 5582,
+   "views": 1991544,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729295999000,
+   "subscribers": 5586,
+   "views": 1991761,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729382399000,
+   "subscribers": 5720,
+   "views": 2000283,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729468799000,
+   "subscribers": 5752,
+   "views": 2004376,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729555199000,
+   "subscribers": 5757,
+   "views": 2004716,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729641599000,
+   "subscribers": 5759,
+   "views": 2004871,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729727999000,
+   "subscribers": 5759,
+   "views": 2005003,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729814399000,
+   "subscribers": 5760,
+   "views": 2005124,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729900799000,
+   "subscribers": 5765,
+   "views": 2005265,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1729987199000,
+   "subscribers": 5765,
+   "views": 2005383,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730073599000,
+   "subscribers": 5769,
+   "views": 2005529,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730159999000,
+   "subscribers": 5771,
+   "views": 2005848,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730246399000,
+   "subscribers": 5773,
+   "views": 2006043,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730332799000,
+   "subscribers": 5772,
+   "views": 2006180,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730419199000,
+   "subscribers": 5775,
+   "views": 2006235,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730505599000,
+   "subscribers": 5776,
+   "views": 2006323,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730591999000,
+   "subscribers": 5774,
+   "views": 2006418,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730678399000,
+   "subscribers": 5774,
+   "views": 2006506,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730764799000,
+   "subscribers": 5774,
+   "views": 2006587,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730851199000,
+   "subscribers": 5774,
+   "views": 2006667,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1730937599000,
+   "subscribers": 5774,
+   "views": 2006728,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731023999000,
+   "subscribers": 5773,
+   "views": 2006789,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731110399000,
+   "subscribers": 5773,
+   "views": 2006870,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731196799000,
+   "subscribers": 5774,
+   "views": 2006937,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731283199000,
+   "subscribers": 5774,
+   "views": 2006999,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731369599000,
+   "subscribers": 5775,
+   "views": 2007044,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731455999000,
+   "subscribers": 5777,
+   "views": 2007134,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731542399000,
+   "subscribers": 5779,
+   "views": 2007198,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731628799000,
+   "subscribers": 5778,
+   "views": 2007266,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731715199000,
+   "subscribers": 5779,
+   "views": 2007336,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731801599000,
+   "subscribers": 5780,
+   "views": 2007422,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731887999000,
+   "subscribers": 5781,
+   "views": 2007480,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1731974399000,
+   "subscribers": 5782,
+   "views": 2007579,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732060799000,
+   "subscribers": 5782,
+   "views": 2007636,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732147199000,
+   "subscribers": 5783,
+   "views": 2007721,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732233599000,
+   "subscribers": 5784,
+   "views": 2007838,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732319999000,
+   "subscribers": 5785,
+   "views": 2007945,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732406399000,
+   "subscribers": 5786,
+   "views": 2008035,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732492799000,
+   "subscribers": 5786,
+   "views": 2008105,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732579199000,
+   "subscribers": 5783,
+   "views": 2008187,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732665599000,
+   "subscribers": 5785,
+   "views": 2008257,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732751999000,
+   "subscribers": 5786,
+   "views": 2008337,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732838399000,
+   "subscribers": 5786,
+   "views": 2008414,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1732924799000,
+   "subscribers": 5788,
+   "views": 2008574,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733011199000,
+   "subscribers": 5789,
+   "views": 2008658,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733097599000,
+   "subscribers": 5790,
+   "views": 2008731,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733183999000,
+   "subscribers": 5789,
+   "views": 2008803,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733270399000,
+   "subscribers": 5788,
+   "views": 2008880,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733356799000,
+   "subscribers": 5789,
+   "views": 2008960,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733443199000,
+   "subscribers": 5791,
+   "views": 2009045,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733529599000,
+   "subscribers": 5789,
+   "views": 2009131,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733615999000,
+   "subscribers": 5788,
+   "views": 2009196,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733702399000,
+   "subscribers": 5790,
+   "views": 2009295,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733788799000,
+   "subscribers": 5790,
+   "views": 2009428,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733875199000,
+   "subscribers": 5794,
+   "views": 2009538,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1733961599000,
+   "subscribers": 5793,
+   "views": 2009640,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734047999000,
+   "subscribers": 5795,
+   "views": 2009783,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734134399000,
+   "subscribers": 5797,
+   "views": 2009944,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734220799000,
+   "subscribers": 5850,
+   "views": 2014802,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734307199000,
+   "subscribers": 5885,
+   "views": 2018277,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734393599000,
+   "subscribers": 5895,
+   "views": 2019553,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734479999000,
+   "subscribers": 5897,
+   "views": 2020362,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734566399000,
+   "subscribers": 5904,
+   "views": 2020942,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734652799000,
+   "subscribers": 5907,
+   "views": 2021336,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734739199000,
+   "subscribers": 5911,
+   "views": 2021653,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734825599000,
+   "subscribers": 5917,
+   "views": 2021952,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734911999000,
+   "subscribers": 5917,
+   "views": 2022132,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1734998399000,
+   "subscribers": 5916,
+   "views": 2022309,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735084799000,
+   "subscribers": 5918,
+   "views": 2022451,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735171199000,
+   "subscribers": 5919,
+   "views": 2022554,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735257599000,
+   "subscribers": 5921,
+   "views": 2022680,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735343999000,
+   "subscribers": 5919,
+   "views": 2022776,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735430399000,
+   "subscribers": 5918,
+   "views": 2022868,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735516799000,
+   "subscribers": 5918,
+   "views": 2022946,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735603199000,
+   "subscribers": 5919,
+   "views": 2023007,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735689599000,
+   "subscribers": 5920,
+   "views": 2023100,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735775999000,
+   "subscribers": 5920,
+   "views": 2023190,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735862399000,
+   "subscribers": 5921,
+   "views": 2023260,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1735948799000,
+   "subscribers": 5921,
+   "views": 2023321,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736035199000,
+   "subscribers": 5921,
+   "views": 2023424,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736121599000,
+   "subscribers": 5921,
+   "views": 2023533,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736207999000,
+   "subscribers": 5922,
+   "views": 2023612,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736294399000,
+   "subscribers": 5922,
+   "views": 2023748,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736380799000,
+   "subscribers": 5922,
+   "views": 2023878,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736467199000,
+   "subscribers": 5922,
+   "views": 2023953,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736553599000,
+   "subscribers": 5924,
+   "views": 2024084,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736639999000,
+   "subscribers": 5930,
+   "views": 2024208,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736726399000,
+   "subscribers": 5932,
+   "views": 2024311,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736812799000,
+   "subscribers": 5933,
+   "views": 2024386,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736899199000,
+   "subscribers": 5933,
+   "views": 2024484,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1736985599000,
+   "subscribers": 5932,
+   "views": 2024566,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737071999000,
+   "subscribers": 5929,
+   "views": 2024662,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737158399000,
+   "subscribers": 5931,
+   "views": 2024740,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737244799000,
+   "subscribers": 6138,
+   "views": 2044776,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737331199000,
+   "subscribers": 6165,
+   "views": 2045586,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737417599000,
+   "subscribers": 6172,
+   "views": 2045914,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737503999000,
+   "subscribers": 6171,
+   "views": 2046106,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737590399000,
+   "subscribers": 6171,
+   "views": 2046265,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737676799000,
+   "subscribers": 6172,
+   "views": 2046401,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737763199000,
+   "subscribers": 6172,
+   "views": 2046554,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737849599000,
+   "subscribers": 6172,
+   "views": 2046711,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1737935999000,
+   "subscribers": 6174,
+   "views": 2046848,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738022399000,
+   "subscribers": 6174,
+   "views": 2046974,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738108799000,
+   "subscribers": 6173,
+   "views": 2047089,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738195199000,
+   "subscribers": 6173,
+   "views": 2047186,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738281599000,
+   "subscribers": 6174,
+   "views": 2047264,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738367999000,
+   "subscribers": 6174,
+   "views": 2047371,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738454399000,
+   "subscribers": 6174,
+   "views": 2047488,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738540799000,
+   "subscribers": 6174,
+   "views": 2047594,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738627199000,
+   "subscribers": 6176,
+   "views": 2047709,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738713599000,
+   "subscribers": 6175,
+   "views": 2047775,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738799999000,
+   "subscribers": 6177,
+   "views": 2047871,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738886399000,
+   "subscribers": 6177,
+   "views": 2047969,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1738972799000,
+   "subscribers": 6176,
+   "views": 2048057,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739059199000,
+   "subscribers": 6177,
+   "views": 2048163,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739145599000,
+   "subscribers": 6180,
+   "views": 2048248,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739231999000,
+   "subscribers": 6181,
+   "views": 2048335,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739318399000,
+   "subscribers": 6180,
+   "views": 2048419,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739404799000,
+   "subscribers": 6180,
+   "views": 2048504,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739491199000,
+   "subscribers": 6180,
+   "views": 2048608,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739577599000,
+   "subscribers": 6179,
+   "views": 2048680,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739663999000,
+   "subscribers": 6181,
+   "views": 2048820,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739750399000,
+   "subscribers": 6182,
+   "views": 2048927,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739836799000,
+   "subscribers": 6184,
+   "views": 2048999,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1739923199000,
+   "subscribers": 6183,
+   "views": 2049096,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740009599000,
+   "subscribers": 6183,
+   "views": 2049199,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740095999000,
+   "subscribers": 6181,
+   "views": 2049331,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740182399000,
+   "subscribers": 6183,
+   "views": 2049426,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740268799000,
+   "subscribers": 6184,
+   "views": 2049518,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740355199000,
+   "subscribers": 6185,
+   "views": 2049608,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740441599000,
+   "subscribers": 6184,
+   "views": 2049682,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740527999000,
+   "subscribers": 6190,
+   "views": 2049772,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740614399000,
+   "subscribers": 6185,
+   "views": 2049843,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740700799000,
+   "subscribers": 6186,
+   "views": 2049928,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740787199000,
+   "subscribers": 6188,
+   "views": 2049992,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740873599000,
+   "subscribers": 6189,
+   "views": 2050054,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1740959999000,
+   "subscribers": 6190,
+   "views": 2050139,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741046399000,
+   "subscribers": 6193,
+   "views": 2050232,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741132799000,
+   "subscribers": 6193,
+   "views": 2050285,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741219199000,
+   "subscribers": 6192,
+   "views": 2050344,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741305599000,
+   "subscribers": 6192,
+   "views": 2050438,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741391999000,
+   "subscribers": 6192,
+   "views": 2050544,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741478399000,
+   "subscribers": 6192,
+   "views": 2050666,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741564799000,
+   "subscribers": 6193,
+   "views": 2050778,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741651199000,
+   "subscribers": 6193,
+   "views": 2050882,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741737599000,
+   "subscribers": 6194,
+   "views": 2050983,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741823999000,
+   "subscribers": 6196,
+   "views": 2051060,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741910399000,
+   "subscribers": 6197,
+   "views": 2051134,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1741996799000,
+   "subscribers": 6197,
+   "views": 2051204,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742083199000,
+   "subscribers": 6197,
+   "views": 2051282,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742169599000,
+   "subscribers": 6197,
+   "views": 2051381,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742255999000,
+   "subscribers": 6197,
+   "views": 2051461,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742342399000,
+   "subscribers": 6197,
+   "views": 2051530,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742428799000,
+   "subscribers": 6197,
+   "views": 2051599,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742515199000,
+   "subscribers": 6196,
+   "views": 2051651,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742601599000,
+   "subscribers": 6196,
+   "views": 2051723,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742687999000,
+   "subscribers": 6196,
+   "views": 2051790,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742774399000,
+   "subscribers": 6196,
+   "views": 2051838,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742860799000,
+   "subscribers": 6197,
+   "views": 2051915,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1742947199000,
+   "subscribers": 6197,
+   "views": 2051996,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743033599000,
+   "subscribers": 6197,
+   "views": 2052076,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743119999000,
+   "subscribers": 6197,
+   "views": 2052162,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743206399000,
+   "subscribers": 6197,
+   "views": 2052226,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743292799000,
+   "subscribers": 6198,
+   "views": 2052293,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743379199000,
+   "subscribers": 6199,
+   "views": 2052333,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743465599000,
+   "subscribers": 6200,
+   "views": 2052405,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743551999000,
+   "subscribers": 6202,
+   "views": 2052483,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743638399000,
+   "subscribers": 6203,
+   "views": 2052657,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743724799000,
+   "subscribers": 6203,
+   "views": 2052745,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743811199000,
+   "subscribers": 6203,
+   "views": 2052831,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743897599000,
+   "subscribers": 6202,
+   "views": 2052906,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1743983999000,
+   "subscribers": 6205,
+   "views": 2052991,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744070399000,
+   "subscribers": 6204,
+   "views": 2053055,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744156799000,
+   "subscribers": 6206,
+   "views": 2053132,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744243199000,
+   "subscribers": 6206,
+   "views": 2053243,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744329599000,
+   "subscribers": 6205,
+   "views": 2053323,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744415999000,
+   "subscribers": 6207,
+   "views": 2053402,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744502399000,
+   "subscribers": 6208,
+   "views": 2053509,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744588799000,
+   "subscribers": 6208,
+   "views": 2053626,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744675199000,
+   "subscribers": 6208,
+   "views": 2053697,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744761599000,
+   "subscribers": 6209,
+   "views": 2053789,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744847999000,
+   "subscribers": 6211,
+   "views": 2053876,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1744934399000,
+   "subscribers": 6211,
+   "views": 2053959,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745020799000,
+   "subscribers": 6211,
+   "views": 2054045,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745107199000,
+   "subscribers": 6212,
+   "views": 2054154,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745193599000,
+   "subscribers": 6215,
+   "views": 2054240,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745279999000,
+   "subscribers": 6215,
+   "views": 2054348,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745366399000,
+   "subscribers": 6216,
+   "views": 2054454,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745452799000,
+   "subscribers": 6216,
+   "views": 2054654,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745539199000,
+   "subscribers": 6217,
+   "views": 2054803,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745625599000,
+   "subscribers": 6216,
+   "views": 2055035,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745711999000,
+   "subscribers": 6277,
+   "views": 2061550,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745798399000,
+   "subscribers": 6287,
+   "views": 2062276,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745884799000,
+   "subscribers": 6290,
+   "views": 2062556,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1745971199000,
+   "subscribers": 6291,
+   "views": 2062713,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746057599000,
+   "subscribers": 6293,
+   "views": 2062859,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746143999000,
+   "subscribers": 6294,
+   "views": 2062937,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746230399000,
+   "subscribers": 6294,
+   "views": 2063028,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746316799000,
+   "subscribers": 6296,
+   "views": 2063133,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746403199000,
+   "subscribers": 6297,
+   "views": 2063213,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746489599000,
+   "subscribers": 6297,
+   "views": 2063277,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746575999000,
+   "subscribers": 6297,
+   "views": 2063336,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746662399000,
+   "subscribers": 6297,
+   "views": 2063397,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746748799000,
+   "subscribers": 6297,
+   "views": 2063456,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746835199000,
+   "subscribers": 6298,
+   "views": 2063526,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1746921599000,
+   "subscribers": 6298,
+   "views": 2063605,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747007999000,
+   "subscribers": 6298,
+   "views": 2063701,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747094399000,
+   "subscribers": 6298,
+   "views": 2063754,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747180799000,
+   "subscribers": 6300,
+   "views": 2063825,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747267199000,
+   "subscribers": 6300,
+   "views": 2063886,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747353599000,
+   "subscribers": 6301,
+   "views": 2063971,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747439999000,
+   "subscribers": 6302,
+   "views": 2064050,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747526399000,
+   "subscribers": 6301,
+   "views": 2064112,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747612799000,
+   "subscribers": 6302,
+   "views": 2064196,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747699199000,
+   "subscribers": 6302,
+   "views": 2064240,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747785599000,
+   "subscribers": 6302,
+   "views": 2064312,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747871999000,
+   "subscribers": 6302,
+   "views": 2064377,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1747958399000,
+   "subscribers": 6302,
+   "views": 2064427,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748044799000,
+   "subscribers": 6302,
+   "views": 2064480,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748131199000,
+   "subscribers": 6302,
+   "views": 2064569,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748217599000,
+   "subscribers": 6301,
+   "views": 2064623,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748303999000,
+   "subscribers": 6302,
+   "views": 2064675,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748390399000,
+   "subscribers": 6303,
+   "views": 2064721,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748476799000,
+   "subscribers": 6305,
+   "views": 2064772,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748563199000,
+   "subscribers": 6306,
+   "views": 2064809,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748649599000,
+   "subscribers": 6309,
+   "views": 2064869,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748735999000,
+   "subscribers": 6309,
+   "views": 2064947,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748822399000,
+   "subscribers": 6309,
+   "views": 2065002,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748908799000,
+   "subscribers": 6307,
+   "views": 2065036,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1748995199000,
+   "subscribers": 6307,
+   "views": 2065090,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749081599000,
+   "subscribers": 6307,
+   "views": 2065144,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749167999000,
+   "subscribers": 6307,
+   "views": 2065194,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749254399000,
+   "subscribers": 6306,
+   "views": 2065273,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749340799000,
+   "subscribers": 6306,
+   "views": 2065341,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749427199000,
+   "subscribers": 6306,
+   "views": 2065401,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749513599000,
+   "subscribers": 6307,
+   "views": 2065463,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749599999000,
+   "subscribers": 6307,
+   "views": 2065525,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749686399000,
+   "subscribers": 6307,
+   "views": 2065601,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749772799000,
+   "subscribers": 6307,
+   "views": 2065672,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749859199000,
+   "subscribers": 6309,
+   "views": 2065727,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1749945599000,
+   "subscribers": 6310,
+   "views": 2065776,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750031999000,
+   "subscribers": 6310,
+   "views": 2065821,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750118399000,
+   "subscribers": 6310,
+   "views": 2065884,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750204799000,
+   "subscribers": 6310,
+   "views": 2065948,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750291199000,
+   "subscribers": 6311,
+   "views": 2066000,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750377599000,
+   "subscribers": 6311,
+   "views": 2066064,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750463999000,
+   "subscribers": 6311,
+   "views": 2066130,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750550399000,
+   "subscribers": 6311,
+   "views": 2066216,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750636799000,
+   "subscribers": 6311,
+   "views": 2066276,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750723199000,
+   "subscribers": 6311,
+   "views": 2066337,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750809599000,
+   "subscribers": 6311,
+   "views": 2066401,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750895999000,
+   "subscribers": 6311,
+   "views": 2066481,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1750982399000,
+   "subscribers": 6312,
+   "views": 2066555,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751068799000,
+   "subscribers": 6312,
+   "views": 2066617,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751155199000,
+   "subscribers": 6312,
+   "views": 2066680,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751241599000,
+   "subscribers": 6313,
+   "views": 2066743,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751327999000,
+   "subscribers": 6312,
+   "views": 2066801,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751414399000,
+   "subscribers": 6314,
+   "views": 2066863,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751500799000,
+   "subscribers": 6315,
+   "views": 2066943,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751587199000,
+   "subscribers": 6314,
+   "views": 2067013,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751673599000,
+   "subscribers": 6315,
+   "views": 2067082,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751759999000,
+   "subscribers": 6315,
+   "views": 2067149,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751846399000,
+   "subscribers": 6316,
+   "views": 2067202,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1751932799000,
+   "subscribers": 6316,
+   "views": 2067260,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752019199000,
+   "subscribers": 6315,
+   "views": 2067322,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752105599000,
+   "subscribers": 6315,
+   "views": 2067375,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752191999000,
+   "subscribers": 6315,
+   "views": 2067430,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752278399000,
+   "subscribers": 6315,
+   "views": 2067501,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752364799000,
+   "subscribers": 6314,
+   "views": 2067588,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752451199000,
+   "subscribers": 6314,
+   "views": 2067639,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752537599000,
+   "subscribers": 6316,
+   "views": 2067706,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752623999000,
+   "subscribers": 6316,
+   "views": 2067763,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752710399000,
+   "subscribers": 6316,
+   "views": 2067837,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752796799000,
+   "subscribers": 6316,
+   "views": 2067895,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752883199000,
+   "subscribers": 6314,
+   "views": 2067970,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1752969599000,
+   "subscribers": 6313,
+   "views": 2068024,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753055999000,
+   "subscribers": 6313,
+   "views": 2068077,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753142399000,
+   "subscribers": 6314,
+   "views": 2068152,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753228799000,
+   "subscribers": 6316,
+   "views": 2068214,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753315199000,
+   "subscribers": 6317,
+   "views": 2068278,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753401599000,
+   "subscribers": 6317,
+   "views": 2068326,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753487999000,
+   "subscribers": 6317,
+   "views": 2068386,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753574399000,
+   "subscribers": 6318,
+   "views": 2068463,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753660799000,
+   "subscribers": 6318,
+   "views": 2068518,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753747199000,
+   "subscribers": 6316,
+   "views": 2068577,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753833599000,
+   "subscribers": 6315,
+   "views": 2068664,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1753919999000,
+   "subscribers": 6316,
+   "views": 2068721,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754006399000,
+   "subscribers": 6318,
+   "views": 2068826,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754092799000,
+   "subscribers": 6318,
+   "views": 2068890,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754179199000,
+   "subscribers": 6318,
+   "views": 2068952,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754265599000,
+   "subscribers": 6319,
+   "views": 2068998,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754351999000,
+   "subscribers": 6318,
+   "views": 2069064,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754438399000,
+   "subscribers": 6318,
+   "views": 2069126,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754524799000,
+   "subscribers": 6319,
+   "views": 2069209,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754611199000,
+   "subscribers": 6319,
+   "views": 2069264,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754697599000,
+   "subscribers": 6319,
+   "views": 2069331,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754783999000,
+   "subscribers": 6316,
+   "views": 2069422,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754870399000,
+   "subscribers": 6316,
+   "views": 2069504,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1754956799000,
+   "subscribers": 6316,
+   "views": 2069587,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755043199000,
+   "subscribers": 6317,
+   "views": 2069645,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755129599000,
+   "subscribers": 6318,
+   "views": 2069707,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755215999000,
+   "subscribers": 6317,
+   "views": 2069768,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755302399000,
+   "subscribers": 6318,
+   "views": 2069852,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755388799000,
+   "subscribers": 6317,
+   "views": 2069959,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755475199000,
+   "subscribers": 6318,
+   "views": 2070094,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755561599000,
+   "subscribers": 6319,
+   "views": 2070167,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755647999000,
+   "subscribers": 6319,
+   "views": 2070255,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755734399000,
+   "subscribers": 6319,
+   "views": 2070353,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755820799000,
+   "subscribers": 6320,
+   "views": 2070436,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755907199000,
+   "subscribers": 6320,
+   "views": 2070508,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1755993599000,
+   "subscribers": 6319,
+   "views": 2070572,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756079999000,
+   "subscribers": 6318,
+   "views": 2070646,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756166399000,
+   "subscribers": 6319,
+   "views": 2070721,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756252799000,
+   "subscribers": 6319,
+   "views": 2070784,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756339199000,
+   "subscribers": 6321,
+   "views": 2070840,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756425599000,
+   "subscribers": 6320,
+   "views": 2070908,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756511999000,
+   "subscribers": 6323,
+   "views": 2070969,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756598399000,
+   "subscribers": 6322,
+   "views": 2071048,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756684799000,
+   "subscribers": 6323,
+   "views": 2071118,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756771199000,
+   "subscribers": 6325,
+   "views": 2071169,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756857599000,
+   "subscribers": 6326,
+   "views": 2071229,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1756943999000,
+   "subscribers": 6325,
+   "views": 2071288,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757030399000,
+   "subscribers": 6323,
+   "views": 2071325,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757116799000,
+   "subscribers": 6323,
+   "views": 2071369,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757203199000,
+   "subscribers": 6323,
+   "views": 2071417,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757289599000,
+   "subscribers": 6322,
+   "views": 2071480,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757375999000,
+   "subscribers": 6322,
+   "views": 2071523,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757462399000,
+   "subscribers": 6322,
+   "views": 2071565,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757548799000,
+   "subscribers": 6323,
+   "views": 2071622,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757635199000,
+   "subscribers": 6323,
+   "views": 2071691,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757721599000,
+   "subscribers": 6325,
+   "views": 2071806,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757807999000,
+   "subscribers": 6324,
+   "views": 2071867,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757894399000,
+   "subscribers": 6325,
+   "views": 2071942,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1757980799000,
+   "subscribers": 6325,
+   "views": 2072013,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758067199000,
+   "subscribers": 6327,
+   "views": 2072072,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758153599000,
+   "subscribers": 6327,
+   "views": 2072145,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758239999000,
+   "subscribers": 6326,
+   "views": 2072226,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758326399000,
+   "subscribers": 6325,
+   "views": 2072305,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758412799000,
+   "subscribers": 6326,
+   "views": 2072385,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758499199000,
+   "subscribers": 6327,
+   "views": 2072445,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758585599000,
+   "subscribers": 6326,
+   "views": 2072501,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758671999000,
+   "subscribers": 6325,
+   "views": 2072561,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758758399000,
+   "subscribers": 6324,
+   "views": 2072657,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758844799000,
+   "subscribers": 6322,
+   "views": 2072703,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1758931199000,
+   "subscribers": 6323,
+   "views": 2072777,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759017599000,
+   "subscribers": 6324,
+   "views": 2072841,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759103999000,
+   "subscribers": 6323,
+   "views": 2072908,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759190399000,
+   "subscribers": 6324,
+   "views": 2072970,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759276799000,
+   "subscribers": 6326,
+   "views": 2073046,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759363199000,
+   "subscribers": 6326,
+   "views": 2073131,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759449599000,
+   "subscribers": 6328,
+   "views": 2073179,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759535999000,
+   "subscribers": 6329,
+   "views": 2073283,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759622399000,
+   "subscribers": 6330,
+   "views": 2073355,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759708799000,
+   "subscribers": 6329,
+   "views": 2073421,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759795199000,
+   "subscribers": 6329,
+   "views": 2073504,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759881599000,
+   "subscribers": 6330,
+   "views": 2073584,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1759967999000,
+   "subscribers": 6333,
+   "views": 2073664,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760054399000,
+   "subscribers": 6338,
+   "views": 2073736,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760140799000,
+   "subscribers": 6343,
+   "views": 2073863,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760227199000,
+   "subscribers": 6458,
+   "views": 2083088,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760313599000,
+   "subscribers": 6502,
+   "views": 2087845,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760399999000,
+   "subscribers": 6519,
+   "views": 2089562,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760486399000,
+   "subscribers": 6528,
+   "views": 2090364,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760572799000,
+   "subscribers": 6534,
+   "views": 2090921,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760659199000,
+   "subscribers": 6534,
+   "views": 2091249,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760745599000,
+   "subscribers": 6536,
+   "views": 2091483,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760831999000,
+   "subscribers": 6536,
+   "views": 2091673,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1760918399000,
+   "subscribers": 6536,
+   "views": 2091788,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761004799000,
+   "subscribers": 6536,
+   "views": 2091883,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761091199000,
+   "subscribers": 6537,
+   "views": 2092020,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761177599000,
+   "subscribers": 6537,
+   "views": 2092159,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761263999000,
+   "subscribers": 6538,
+   "views": 2092264,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761350399000,
+   "subscribers": 6540,
+   "views": 2092354,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761436799000,
+   "subscribers": 6540,
+   "views": 2092493,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761523199000,
+   "subscribers": 6540,
+   "views": 2092599,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761609599000,
+   "subscribers": 6540,
+   "views": 2092691,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761695999000,
+   "subscribers": 6540,
+   "views": 2092766,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761782399000,
+   "subscribers": 6541,
+   "views": 2092861,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761868799000,
+   "subscribers": 6540,
+   "views": 2092939,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1761955199000,
+   "subscribers": 6540,
+   "views": 2093013,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762041599000,
+   "subscribers": 6540,
+   "views": 2093105,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762127999000,
+   "subscribers": 6539,
+   "views": 2093211,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762214399000,
+   "subscribers": 6540,
+   "views": 2093284,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762300799000,
+   "subscribers": 6540,
+   "views": 2093357,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762387199000,
+   "subscribers": 6541,
+   "views": 2093432,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762473599000,
+   "subscribers": 6541,
+   "views": 2093498,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762559999000,
+   "subscribers": 6541,
+   "views": 2093569,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762646399000,
+   "subscribers": 6542,
+   "views": 2093639,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762732799000,
+   "subscribers": 6542,
+   "views": 2093709,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762819199000,
+   "subscribers": 6541,
+   "views": 2093773,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762905599000,
+   "subscribers": 6541,
+   "views": 2093847,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1762991999000,
+   "subscribers": 6543,
+   "views": 2093903,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763078399000,
+   "subscribers": 6541,
+   "views": 2093966,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763164799000,
+   "subscribers": 6541,
+   "views": 2094053,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763251199000,
+   "subscribers": 6539,
+   "views": 2094128,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763337599000,
+   "subscribers": 6538,
+   "views": 2094195,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763423999000,
+   "subscribers": 6538,
+   "views": 2094257,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763510399000,
+   "subscribers": 6539,
+   "views": 2094338,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763596799000,
+   "subscribers": 6538,
+   "views": 2094396,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763683199000,
+   "subscribers": 6538,
+   "views": 2094473,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763769599000,
+   "subscribers": 6540,
+   "views": 2094541,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763855999000,
+   "subscribers": 6540,
+   "views": 2094673,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1763942399000,
+   "subscribers": 6541,
+   "views": 2094788,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764028799000,
+   "subscribers": 6541,
+   "views": 2094904,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764115199000,
+   "subscribers": 6545,
+   "views": 2094998,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764201599000,
+   "subscribers": 6545,
+   "views": 2095117,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764287999000,
+   "subscribers": 6546,
+   "views": 2095183,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764374399000,
+   "subscribers": 6547,
+   "views": 2095331,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764460799000,
+   "subscribers": 6548,
+   "views": 2095465,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764547199000,
+   "subscribers": 6549,
+   "views": 2095545,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764633599000,
+   "subscribers": 6549,
+   "views": 2095652,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764719999000,
+   "subscribers": 6550,
+   "views": 2095734,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764806399000,
+   "subscribers": 6550,
+   "views": 2095829,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764892799000,
+   "subscribers": 6550,
+   "views": 2095910,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1764979199000,
+   "subscribers": 6549,
+   "views": 2096010,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765065599000,
+   "subscribers": 6548,
+   "views": 2096069,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765151999000,
+   "subscribers": 6548,
+   "views": 2096142,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765238399000,
+   "subscribers": 6548,
+   "views": 2096217,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765324799000,
+   "subscribers": 6547,
+   "views": 2096285,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765411199000,
+   "subscribers": 6548,
+   "views": 2096366,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765497599000,
+   "subscribers": 6548,
+   "views": 2096434,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765583999000,
+   "subscribers": 6549,
+   "views": 2096547,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765670399000,
+   "subscribers": 6549,
+   "views": 2096652,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765756799000,
+   "subscribers": 6550,
+   "views": 2096702,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765843199000,
+   "subscribers": 6550,
+   "views": 2096776,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1765929599000,
+   "subscribers": 6550,
+   "views": 2096853,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766015999000,
+   "subscribers": 6550,
+   "views": 2096930,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766102399000,
+   "subscribers": 6552,
+   "views": 2097020,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766188799000,
+   "subscribers": 6556,
+   "views": 2097162,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766275199000,
+   "subscribers": 6563,
+   "views": 2097630,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766361599000,
+   "subscribers": 6566,
+   "views": 2097837,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766447999000,
+   "subscribers": 6567,
+   "views": 2097972,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766534399000,
+   "subscribers": 6566,
+   "views": 2098088,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766620799000,
+   "subscribers": 6566,
+   "views": 2098160,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766707199000,
+   "subscribers": 6565,
+   "views": 2098223,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766793599000,
+   "subscribers": 6565,
+   "views": 2098293,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766879999000,
+   "subscribers": 6567,
+   "views": 2098380,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1766966399000,
+   "subscribers": 6568,
+   "views": 2098449,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767052799000,
+   "subscribers": 6569,
+   "views": 2098499,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767139199000,
+   "subscribers": 6569,
+   "views": 2098543,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767225599000,
+   "subscribers": 6568,
+   "views": 2098577,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767311999000,
+   "subscribers": 6567,
+   "views": 2098649,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767398399000,
+   "subscribers": 6567,
+   "views": 2098716,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767484799000,
+   "subscribers": 6566,
+   "views": 2098779,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767571199000,
+   "subscribers": 6565,
+   "views": 2098835,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767657599000,
+   "subscribers": 6565,
+   "views": 2098920,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767743999000,
+   "subscribers": 6565,
+   "views": 2098984,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767830399000,
+   "subscribers": 6566,
+   "views": 2099072,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1767916799000,
+   "subscribers": 6566,
+   "views": 2099152,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768003199000,
+   "subscribers": 6568,
+   "views": 2099243,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768089599000,
+   "subscribers": 6568,
+   "views": 2099350,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768175999000,
+   "subscribers": 6568,
+   "views": 2099437,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768262399000,
+   "subscribers": 6568,
+   "views": 2099526,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768348799000,
+   "subscribers": 6568,
+   "views": 2099655,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768435199000,
+   "subscribers": 6568,
+   "views": 2099771,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768521599000,
+   "subscribers": 6568,
+   "views": 2099883,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768607999000,
+   "subscribers": 6571,
+   "views": 2100022,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768694399000,
+   "subscribers": 6588,
+   "views": 2101824,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768780799000,
+   "subscribers": 6588,
+   "views": 2102074,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768867199000,
+   "subscribers": 6590,
+   "views": 2102248,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1768953599000,
+   "subscribers": 6590,
+   "views": 2102472,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769039999000,
+   "subscribers": 6592,
+   "views": 2102623,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769126399000,
+   "subscribers": 6595,
+   "views": 2102754,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769212799000,
+   "subscribers": 6595,
+   "views": 2102883,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769299199000,
+   "subscribers": 6596,
+   "views": 2102976,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769385599000,
+   "subscribers": 6597,
+   "views": 2103048,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769471999000,
+   "subscribers": 6597,
+   "views": 2103119,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769558399000,
+   "subscribers": 6596,
+   "views": 2103197,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769644799000,
+   "subscribers": 6596,
+   "views": 2103255,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769731199000,
+   "subscribers": 6596,
+   "views": 2103305,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769817599000,
+   "subscribers": 6597,
+   "views": 2103350,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769903999000,
+   "subscribers": 6597,
+   "views": 2103428,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1769990399000,
+   "subscribers": 6598,
+   "views": 2103492,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770076799000,
+   "subscribers": 6599,
+   "views": 2103586,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770163199000,
+   "subscribers": 6598,
+   "views": 2103678,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770249599000,
+   "subscribers": 6598,
+   "views": 2103749,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770335999000,
+   "subscribers": 6598,
+   "views": 2103812,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770422399000,
+   "subscribers": 6600,
+   "views": 2103881,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770508799000,
+   "subscribers": 6602,
+   "views": 2103957,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770595199000,
+   "subscribers": 6603,
+   "views": 2104023,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770681599000,
+   "subscribers": 6603,
+   "views": 2104085,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770767999000,
+   "subscribers": 6604,
+   "views": 2104140,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770854399000,
+   "subscribers": 6605,
+   "views": 2104225,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1770940799000,
+   "subscribers": 6605,
+   "views": 2104343,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771027199000,
+   "subscribers": 6605,
+   "views": 2104481,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771113599000,
+   "subscribers": 6604,
+   "views": 2104587,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771199999000,
+   "subscribers": 6604,
+   "views": 2104659,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771286399000,
+   "subscribers": 6606,
+   "views": 2104733,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771372799000,
+   "subscribers": 6607,
+   "views": 2104800,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771459199000,
+   "subscribers": 6606,
+   "views": 2104868,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771545599000,
+   "subscribers": 6607,
+   "views": 2104920,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771631999000,
+   "subscribers": 6607,
+   "views": 2104998,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771718399000,
+   "subscribers": 6607,
+   "views": 2105209,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771804799000,
+   "subscribers": 6609,
+   "views": 2105270,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771891199000,
+   "subscribers": 6610,
+   "views": 2105343,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1771977599000,
+   "subscribers": 6612,
+   "views": 2105413,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772063999000,
+   "subscribers": 6614,
+   "views": 2105470,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772150399000,
+   "subscribers": 6615,
+   "views": 2105553,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772236799000,
+   "subscribers": 6617,
+   "views": 2105623,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772323199000,
+   "subscribers": 6617,
+   "views": 2105678,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772409599000,
+   "subscribers": 6618,
+   "views": 2105738,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772495999000,
+   "subscribers": 6619,
+   "views": 2105811,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772582399000,
+   "subscribers": 6620,
+   "views": 2105866,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772668799000,
+   "subscribers": 6620,
+   "views": 2105906,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772755199000,
+   "subscribers": 6620,
+   "views": 2105975,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772841599000,
+   "subscribers": 6621,
+   "views": 2106035,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1772927999000,
+   "subscribers": 6621,
+   "views": 2106103,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773014399000,
+   "subscribers": 6621,
+   "views": 2106131,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773100799000,
+   "subscribers": 6620,
+   "views": 2106200,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773187199000,
+   "subscribers": 6621,
+   "views": 2106260,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773273599000,
+   "subscribers": 6621,
+   "views": 2106302,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773359999000,
+   "subscribers": 6620,
+   "views": 2106354,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773446399000,
+   "subscribers": 6618,
+   "views": 2106409,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773532799000,
+   "subscribers": 6621,
+   "views": 2106473,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773619199000,
+   "subscribers": 6620,
+   "views": 2106521,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773705599000,
+   "subscribers": 6620,
+   "views": 2106553,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773791999000,
+   "subscribers": 6619,
+   "views": 2106604,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773878399000,
+   "subscribers": 6619,
+   "views": 2106660,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1773964799000,
+   "subscribers": 6619,
+   "views": 2106692,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774051199000,
+   "subscribers": 6618,
+   "views": 2106734,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774137599000,
+   "subscribers": 6617,
+   "views": 2106793,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774223999000,
+   "subscribers": 6619,
+   "views": 2106844,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774310399000,
+   "subscribers": 6618,
+   "views": 2106880,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774396799000,
+   "subscribers": 6618,
+   "views": 2106931,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774483199000,
+   "subscribers": 6618,
+   "views": 2106964,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774569599000,
+   "subscribers": 6618,
+   "views": 2107018,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774655999000,
+   "subscribers": 6619,
+   "views": 2107064,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774742399000,
+   "subscribers": 6619,
+   "views": 2107127,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774828799000,
+   "subscribers": 6620,
+   "views": 2107169,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1774915199000,
+   "subscribers": 6621,
+   "views": 2107215,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775001599000,
+   "subscribers": 6622,
+   "views": 2107269,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775087999000,
+   "subscribers": 6621,
+   "views": 2107317,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775174399000,
+   "subscribers": 6622,
+   "views": 2107356,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775260799000,
+   "subscribers": 6622,
+   "views": 2107418,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775347199000,
+   "subscribers": 6621,
+   "views": 2107460,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775433599000,
+   "subscribers": 6620,
+   "views": 2107507,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775519999000,
+   "subscribers": 6621,
+   "views": 2107548,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775606399000,
+   "subscribers": 6620,
+   "views": 2107588,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775692799000,
+   "subscribers": 6622,
+   "views": 2107623,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775779199000,
+   "subscribers": 6622,
+   "views": 2107677,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775865599000,
+   "subscribers": 6622,
+   "views": 2107742,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1775951999000,
+   "subscribers": 6623,
+   "views": 2107814,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776038399000,
+   "subscribers": 6622,
+   "views": 2107876,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776124799000,
+   "subscribers": 6622,
+   "views": 2107937,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776211199000,
+   "subscribers": 6621,
+   "views": 2107983,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776297599000,
+   "subscribers": 6622,
+   "views": 2108039,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776383999000,
+   "subscribers": 6622,
+   "views": 2108099,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776470399000,
+   "subscribers": 6622,
+   "views": 2108163,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776556799000,
+   "subscribers": 6622,
+   "views": 2108222,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776643199000,
+   "subscribers": 6623,
+   "views": 2108288,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776729599000,
+   "subscribers": 6625,
+   "views": 2108373,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776815999000,
+   "subscribers": 6624,
+   "views": 2108455,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776902399000,
+   "subscribers": 6625,
+   "views": 2108552,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1776988799000,
+   "subscribers": 6626,
+   "views": 2108654,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777075199000,
+   "subscribers": 6626,
+   "views": 2108815,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777161599000,
+   "subscribers": 6647,
+   "views": 2109449,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777247999000,
+   "subscribers": 6650,
+   "views": 2109644,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777334399000,
+   "subscribers": 6651,
+   "views": 2109717,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777420799000,
+   "subscribers": 6651,
+   "views": 2109780,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777507199000,
+   "subscribers": 6651,
+   "views": 2109849,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777593599000,
+   "subscribers": 6650,
+   "views": 2109890,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777679999000,
+   "subscribers": 6650,
+   "views": 2109949,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777766399000,
+   "subscribers": 6650,
+   "views": 2110002,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777852799000,
+   "subscribers": 6650,
+   "views": 2110042,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1777939199000,
+   "subscribers": 6650,
+   "views": 2110060,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778025599000,
+   "subscribers": 6650,
+   "views": 2110093,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778111999000,
+   "subscribers": 6651,
+   "views": 2110125,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778198399000,
+   "subscribers": 6651,
+   "views": 2110158,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778284799000,
+   "subscribers": 6650,
+   "views": 2110203,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778371199000,
+   "subscribers": 6651,
+   "views": 2110238,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778457599000,
+   "subscribers": 6653,
+   "views": 2110283,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778543999000,
+   "subscribers": 6653,
+   "views": 2110317,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778630399000,
+   "subscribers": 6653,
+   "views": 2110352,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778716799000,
+   "subscribers": 6654,
+   "views": 2110394,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778803199000,
+   "subscribers": 6654,
+   "views": 2110435,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778889599000,
+   "subscribers": 6655,
+   "views": 2110471,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1778975999000,
+   "subscribers": 6655,
+   "views": 2110524,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779062399000,
+   "subscribers": 6656,
+   "views": 2110562,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779148799000,
+   "subscribers": 6655,
+   "views": 2110605,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779235199000,
+   "subscribers": 6655,
+   "views": 2110641,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779321599000,
+   "subscribers": 6655,
+   "views": 2110675,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779407999000,
+   "subscribers": 6654,
+   "views": 2110707,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779494399000,
+   "subscribers": 6653,
+   "views": 2110733,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779580799000,
+   "subscribers": 6653,
+   "views": 2110756,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779667199000,
+   "subscribers": 6654,
+   "views": 2110806,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779753599000,
+   "subscribers": 6654,
+   "views": 2110840,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779839999000,
+   "subscribers": 6654,
+   "views": 2110885,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1779926399000,
+   "subscribers": 6655,
+   "views": 2110916,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780012799000,
+   "subscribers": 6653,
+   "views": 2110939,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780099199000,
+   "subscribers": 6653,
+   "views": 2110958,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780185599000,
+   "subscribers": 6653,
+   "views": 2110982,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780271999000,
+   "subscribers": 6654,
+   "views": 2111009,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780358399000,
+   "subscribers": 6653,
+   "views": 2111036,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780444799000,
+   "subscribers": 6653,
+   "views": 2111066,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780531199000,
+   "subscribers": 6653,
+   "views": 2111096,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780617599000,
+   "subscribers": 6653,
+   "views": 2111134,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780703999000,
+   "subscribers": 6651,
+   "views": 2111148,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780790399000,
+   "subscribers": 6650,
+   "views": 2111180,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780876799000,
+   "subscribers": 6650,
+   "views": 2111217,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1780963199000,
+   "subscribers": 6650,
+   "views": 2111252,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781049599000,
+   "subscribers": 6650,
+   "views": 2111284,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781135999000,
+   "subscribers": 6650,
+   "views": 2111330,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781222399000,
+   "subscribers": 6650,
+   "views": 2111371,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781308799000,
+   "subscribers": 6650,
+   "views": 2111410,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781395199000,
+   "subscribers": 6650,
+   "views": 2111490,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781481599000,
+   "subscribers": 6650,
+   "views": 2111515,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781567999000,
+   "subscribers": 6650,
+   "views": 2111556,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781654399000,
+   "subscribers": 6651,
+   "views": 2111583,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781740799000,
+   "subscribers": 6652,
+   "views": 2111614,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781827199000,
+   "subscribers": 6652,
+   "views": 2111661,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781913599000,
+   "subscribers": 6652,
+   "views": 2111692,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1781999999000,
+   "subscribers": 6652,
+   "views": 2111735,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782086399000,
+   "subscribers": 6652,
+   "views": 2111767,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782172799000,
+   "subscribers": 6652,
+   "views": 2111827,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782259199000,
+   "subscribers": 6652,
+   "views": 2111866,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782345599000,
+   "subscribers": 6652,
+   "views": 2111918,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782431999000,
+   "subscribers": 6651,
+   "views": 2111949,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782518399000,
+   "subscribers": 6651,
+   "views": 2111975,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782604799000,
+   "subscribers": 6650,
+   "views": 2112007,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782691199000,
+   "subscribers": 6651,
+   "views": 2112038,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782777599000,
+   "subscribers": 6651,
+   "views": 2112078,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782863999000,
+   "subscribers": 6652,
+   "views": 2112127,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1782950399000,
+   "subscribers": 6652,
+   "views": 2112172,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783036799000,
+   "subscribers": 6652,
+   "views": 2112199,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783123199000,
+   "subscribers": 6652,
+   "views": 2112231,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783209599000,
+   "subscribers": 6652,
+   "views": 2112269,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783295999000,
+   "subscribers": 6652,
+   "views": 2112292,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783382399000,
+   "subscribers": 6652,
+   "views": 2112320,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783468799000,
+   "subscribers": 6653,
+   "views": 2112344,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783555199000,
+   "subscribers": 6653,
+   "views": 2112386,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783641599000,
+   "subscribers": 6652,
+   "views": 2112437,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783727999000,
+   "subscribers": 6651,
+   "views": 2112462,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783814399000,
+   "subscribers": 6651,
+   "views": 2112489,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783900799000,
+   "subscribers": 6652,
+   "views": 2112523,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1783987199000,
+   "subscribers": 6651,
+   "views": 2112559,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784073599000,
+   "subscribers": 6652,
+   "views": 2112589,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784159999000,
+   "subscribers": 6652,
+   "views": 2112622,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784246399000,
+   "subscribers": 6653,
+   "views": 2112666,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784332799000,
+   "subscribers": 6653,
+   "views": 2112715,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784419199000,
+   "subscribers": 6653,
+   "views": 2112745,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784505599000,
+   "subscribers": 6654,
+   "views": 2112778,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784591999000,
+   "subscribers": 6654,
+   "views": 2112803,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784678399000,
+   "subscribers": 6654,
+   "views": 2112827,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784764799000,
+   "subscribers": 6655,
+   "views": 2112879,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784851199000,
+   "subscribers": 6656,
+   "views": 2112927,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1784937599000,
+   "subscribers": 6656,
+   "views": 2112987,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785023999000,
+   "subscribers": 6654,
+   "views": 2113045,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785110399000,
+   "subscribers": 6654,
+   "views": 2113110,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785196799000,
+   "subscribers": 6654,
+   "views": 2113211,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785283199000,
+   "subscribers": 6655,
+   "views": 2113280,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785369599000,
+   "subscribers": 6656,
+   "views": 2113339,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785455999000,
+   "subscribers": 6657,
+   "views": 2113384,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785542399000,
+   "subscribers": 6658,
+   "views": 2113441,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785628799000,
+   "subscribers": 6659,
+   "views": 2113491,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785715199000,
+   "subscribers": 6659,
+   "views": 2113539,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785801599000,
+   "subscribers": 6659,
+   "views": 2113606,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785887999000,
+   "subscribers": 6657,
+   "views": 2113650,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1785974399000,
+   "subscribers": 6659,
+   "views": 2113687,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786060799000,
+   "subscribers": 6659,
+   "views": 2113732,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786147199000,
+   "subscribers": 6659,
+   "views": 2113790,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786233599000,
+   "subscribers": 6659,
+   "views": 2113867,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786319999000,
+   "subscribers": 6661,
+   "views": 2113936,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786406399000,
+   "subscribers": 6660,
+   "views": 2114015,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786492799000,
+   "subscribers": 6661,
+   "views": 2114062,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786579199000,
+   "subscribers": 6659,
+   "views": 2114100,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786665599000,
+   "subscribers": 6659,
+   "views": 2114140,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786751999000,
+   "subscribers": 6660,
+   "views": 2114185,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786838399000,
+   "subscribers": 6661,
+   "views": 2114232,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1786924799000,
+   "subscribers": 6662,
+   "views": 2114274,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787011199000,
+   "subscribers": 6663,
+   "views": 2114314,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787097599000,
+   "subscribers": 6664,
+   "views": 2114360,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787183999000,
+   "subscribers": 6665,
+   "views": 2114401,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787270399000,
+   "subscribers": 6664,
+   "views": 2114444,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787356799000,
+   "subscribers": 6665,
+   "views": 2114502,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787443199000,
+   "subscribers": 6665,
+   "views": 2114549,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787529599000,
+   "subscribers": 6664,
+   "views": 2114585,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787615999000,
+   "subscribers": 6664,
+   "views": 2114619,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787702399000,
+   "subscribers": 6665,
+   "views": 2114674,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787788799000,
+   "subscribers": 6667,
+   "views": 2114707,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787875199000,
+   "subscribers": 6667,
+   "views": 2114770,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1787961599000,
+   "subscribers": 6668,
+   "views": 2114851,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788047999000,
+   "subscribers": 6667,
+   "views": 2114927,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788134399000,
+   "subscribers": 6667,
+   "views": 2115004,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788220799000,
+   "subscribers": 6668,
+   "views": 2115074,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788307199000,
+   "subscribers": 6669,
+   "views": 2115111,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788393599000,
+   "subscribers": 6669,
+   "views": 2115158,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788479999000,
+   "subscribers": 6668,
+   "views": 2115218,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788566399000,
+   "subscribers": 6668,
+   "views": 2115253,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788652799000,
+   "subscribers": 6669,
+   "views": 2115287,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788739199000,
+   "subscribers": 6669,
+   "views": 2115323,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788825599000,
+   "subscribers": 6670,
+   "views": 2115376,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788911999000,
+   "subscribers": 6669,
+   "views": 2115414,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1788998399000,
+   "subscribers": 6669,
+   "views": 2115458,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789084799000,
+   "subscribers": 6669,
+   "views": 2115502,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789171199000,
+   "subscribers": 6670,
+   "views": 2115542,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789257599000,
+   "subscribers": 6671,
+   "views": 2115577,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789343999000,
+   "subscribers": 6671,
+   "views": 2115608,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789430399000,
+   "subscribers": 6671,
+   "views": 2115640,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789516799000,
+   "subscribers": 6671,
+   "views": 2115683,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789603199000,
+   "subscribers": 6672,
+   "views": 2115729,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789689599000,
+   "subscribers": 6672,
+   "views": 2115949,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789775999000,
+   "subscribers": 6671,
+   "views": 2116300,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789862399000,
+   "subscribers": 6671,
+   "views": 2116940,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1789948799000,
+   "subscribers": 6670,
+   "views": 2117340,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790035199000,
+   "subscribers": 6672,
+   "views": 2118376,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790121599000,
+   "subscribers": 6674,
+   "views": 2119243,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790207999000,
+   "subscribers": 6676,
+   "views": 2120707,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790294399000,
+   "subscribers": 6679,
+   "views": 2123755,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790380799000,
+   "subscribers": 6681,
+   "views": 2126063,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790467199000,
+   "subscribers": 6683,
+   "views": 2127661,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790553599000,
+   "subscribers": 6684,
+   "views": 2128737,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790639999000,
+   "subscribers": 6685,
+   "views": 2129997,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790726399000,
+   "subscribers": 6686,
+   "views": 2131240,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790812799000,
+   "subscribers": 6688,
+   "views": 2132813,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790899199000,
+   "subscribers": 6689,
+   "views": 2137454,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1790985599000,
+   "subscribers": 6689,
+   "views": 2138497,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791071999000,
+   "subscribers": 6693,
+   "views": 2139178,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791158399000,
+   "subscribers": 6693,
+   "views": 2139794,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791244799000,
+   "subscribers": 6693,
+   "views": 2140836,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791331199000,
+   "subscribers": 6696,
+   "views": 2141586,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791417599000,
+   "subscribers": 6696,
+   "views": 2142929,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791503999000,
+   "subscribers": 6698,
+   "views": 2143826,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791590399000,
+   "subscribers": 6700,
+   "views": 2146969,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791676799000,
+   "subscribers": 6701,
+   "views": 2147556,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791763199000,
+   "subscribers": 6702,
+   "views": 2147923,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791849599000,
+   "subscribers": 6703,
+   "views": 2148305,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1791935999000,
+   "subscribers": 6703,
+   "views": 2148683,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792022399000,
+   "subscribers": 6712,
+   "views": 2149498,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792108799000,
+   "subscribers": 6798,
+   "views": 2475261,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792195199000,
+   "subscribers": 11335,
+   "views": 2896175,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792281599000,
+   "subscribers": 16170,
+   "views": 4798971,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792367999000,
+   "subscribers": 16225,
+   "views": 5758995,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792454399000,
+   "subscribers": 16446,
+   "views": 7609317,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792540799000,
+   "subscribers": 16562,
+   "views": 9159389,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792627199000,
+   "subscribers": 16734,
+   "views": 10249962,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792713599000,
+   "subscribers": 16826,
+   "views": 11686657,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792799999000,
+   "subscribers": 16879,
+   "views": 12710832,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792886399000,
+   "subscribers": 16894,
+   "views": 12958941,
+   "videos": null,
+   "backfilled": true
+  },
+  {
+   "t": 1792972799000,
+   "subscribers": 16900,
+   "views": 12967640,
+   "videos": null,
+   "backfilled": true
+  },
   {
    "t": 1793193411697,
    "subscribers": 16900,
@@ -22,6 +7673,12 @@
   },
   {
    "t": 1793194065527,
+   "subscribers": 16900,
+   "views": 12967640,
+   "videos": 701
+  },
+  {
+   "t": 1793194154288,
    "subscribers": 16900,
    "views": 12967640,
    "videos": 701
