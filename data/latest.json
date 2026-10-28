@@ -1,0 +1,351 @@
+{
+ "generatedAt": "2026-10-28T08:06:17.451Z",
+ "sample": true,
+ "channel": {
+  "id": "UC_SAMPLE_CHANNEL_ID",
+  "title": "Procam International (sample)",
+  "handle": "@sample",
+  "thumbnail": null,
+  "subscribers": 52300,
+  "hiddenSubscriberCount": false,
+  "views": 11220425,
+  "videos": 412
+ },
+ "topVideos": [
+  {
+   "id": "sample006",
+   "title": "Start Line Atmosphere at 5:30 AM",
+   "publishedAt": "2026-10-02T11:32:11.947Z",
+   "thumbnail": null,
+   "views": 210287,
+   "likes": 5448,
+   "comments": 177
+  },
+  {
+   "id": "sample009",
+   "title": "Post-Race Recovery: What the Pros Do",
+   "publishedAt": "2026-08-23T19:10:30.613Z",
+   "thumbnail": null,
+   "views": 192618,
+   "likes": 3925,
+   "comments": 333
+  },
+  {
+   "id": "sample001",
+   "title": "Race Day Highlights | Full Marathon 2026",
+   "publishedAt": "2026-10-27T08:06:17.451Z",
+   "thumbnail": null,
+   "views": 160342,
+   "likes": 3101,
+   "comments": 183
+  },
+  {
+   "id": "sample016",
+   "title": "Running for a Cause: Charity Champions",
+   "publishedAt": "2026-08-24T21:23:35.147Z",
+   "thumbnail": null,
+   "views": 149506,
+   "likes": 2844,
+   "comments": 343
+  },
+  {
+   "id": "sample003",
+   "title": "Elite Women's Race Recap",
+   "publishedAt": "2026-10-14T02:37:48.650Z",
+   "thumbnail": null,
+   "views": 149355,
+   "likes": 4767,
+   "comments": 165
+  },
+  {
+   "id": "sample014",
+   "title": "Expo Walkthrough & Bib Collection Guide",
+   "publishedAt": "2026-07-04T02:52:22.270Z",
+   "thumbnail": null,
+   "views": 132632,
+   "likes": 4148,
+   "comments": 296
+  },
+  {
+   "id": "sample021",
+   "title": "Your Questions Answered: Race Day Logistics",
+   "publishedAt": "2026-08-05T06:47:03.893Z",
+   "thumbnail": null,
+   "views": 125857,
+   "likes": 4974,
+   "comments": 313
+  },
+  {
+   "id": "sample018",
+   "title": "Medal Reveal 2026",
+   "publishedAt": "2026-08-06T16:38:21.515Z",
+   "thumbnail": null,
+   "views": 117696,
+   "likes": 1951,
+   "comments": 165
+  },
+  {
+   "id": "sample024",
+   "title": "Fueling Strategy: What to Eat Before a Race",
+   "publishedAt": "2026-06-25T15:02:36.716Z",
+   "thumbnail": null,
+   "views": 114100,
+   "likes": 3373,
+   "comments": 337
+  },
+  {
+   "id": "sample011",
+   "title": "Senior Citizens' Run 2026",
+   "publishedAt": "2026-09-14T23:24:05.964Z",
+   "thumbnail": null,
+   "views": 111626,
+   "likes": 3630,
+   "comments": 143
+  },
+  {
+   "id": "sample022",
+   "title": "Half Marathon Highlights",
+   "publishedAt": "2026-04-21T15:31:59.289Z",
+   "thumbnail": null,
+   "views": 104441,
+   "likes": 3151,
+   "comments": 129
+  },
+  {
+   "id": "sample015",
+   "title": "Meet the Pacers",
+   "publishedAt": "2026-08-04T13:57:59.667Z",
+   "thumbnail": null,
+   "views": 101627,
+   "likes": 3152,
+   "comments": 263
+  },
+  {
+   "id": "sample027",
+   "title": "Spirit of Mumbai: Runners' Montage",
+   "publishedAt": "2026-07-06T10:23:35.563Z",
+   "thumbnail": null,
+   "views": 101048,
+   "likes": 3126,
+   "comments": 235
+  },
+  {
+   "id": "sample029",
+   "title": "Warm-Up Drills Every Runner Should Do",
+   "publishedAt": "2026-05-03T21:09:52.135Z",
+   "thumbnail": null,
+   "views": 97263,
+   "likes": 1565,
+   "comments": 182
+  },
+  {
+   "id": "sample010",
+   "title": "Wheelchair Race Highlights",
+   "publishedAt": "2026-08-14T17:01:57.472Z",
+   "thumbnail": null,
+   "views": 96834,
+   "likes": 2620,
+   "comments": 267
+  },
+  {
+   "id": "sample007",
+   "title": "10K Course Preview",
+   "publishedAt": "2026-09-12T07:41:55.879Z",
+   "thumbnail": null,
+   "views": 95930,
+   "likes": 2843,
+   "comments": 97
+  },
+  {
+   "id": "sample019",
+   "title": "Stretching Routine for Runners (10 min)",
+   "publishedAt": "2026-06-25T13:48:39.780Z",
+   "thumbnail": null,
+   "views": 90279,
+   "likes": 3313,
+   "comments": 208
+  },
+  {
+   "id": "sample028",
+   "title": "Interview: Defending Champion",
+   "publishedAt": "2026-02-28T21:00:01.040Z",
+   "thumbnail": null,
+   "views": 90265,
+   "likes": 3130,
+   "comments": 93
+  },
+  {
+   "id": "sample004",
+   "title": "How to Pace Your First Half Marathon",
+   "publishedAt": "2026-10-04T07:56:30.911Z",
+   "thumbnail": null,
+   "views": 82085,
+   "likes": 2679,
+   "comments": 83
+  },
+  {
+   "id": "sample013",
+   "title": "Training Week 4: Tempo Runs Explained",
+   "publishedAt": "2026-08-08T21:34:58.437Z",
+   "thumbnail": null,
+   "views": 77895,
+   "likes": 1862,
+   "comments": 106
+  },
+  {
+   "id": "sample008",
+   "title": "Hydration Tips for Hot-Weather Races",
+   "publishedAt": "2026-09-29T06:23:09.610Z",
+   "thumbnail": null,
+   "views": 73680,
+   "likes": 2511,
+   "comments": 62
+  },
+  {
+   "id": "sample030",
+   "title": "Registration Now Open: Everything You Need to Know",
+   "publishedAt": "2026-04-10T08:02:26.281Z",
+   "thumbnail": null,
+   "views": 64705,
+   "likes": 2341,
+   "comments": 182
+  },
+  {
+   "id": "sample023",
+   "title": "Corporate Championship Recap",
+   "publishedAt": "2026-04-16T02:56:53.627Z",
+   "thumbnail": null,
+   "views": 49379,
+   "likes": 1671,
+   "comments": 138
+  },
+  {
+   "id": "sample020",
+   "title": "Course Records Through the Years",
+   "publishedAt": "2026-05-25T20:13:17.961Z",
+   "thumbnail": null,
+   "views": 43869,
+   "likes": 942,
+   "comments": 41
+  },
+  {
+   "id": "sample002",
+   "title": "Elite Men's Finish: Final 2 km",
+   "publishedAt": "2026-10-18T12:00:56.925Z",
+   "thumbnail": null,
+   "views": 35642,
+   "likes": 620,
+   "comments": 85
+  }
+ ],
+ "recentVideos": [
+  {
+   "id": "sample001",
+   "title": "Race Day Highlights | Full Marathon 2026",
+   "publishedAt": "2026-10-27T08:06:17.451Z",
+   "thumbnail": null,
+   "views": 160342,
+   "likes": 3101,
+   "comments": 183
+  },
+  {
+   "id": "sample002",
+   "title": "Elite Men's Finish: Final 2 km",
+   "publishedAt": "2026-10-18T12:00:56.925Z",
+   "thumbnail": null,
+   "views": 35642,
+   "likes": 620,
+   "comments": 85
+  },
+  {
+   "id": "sample003",
+   "title": "Elite Women's Race Recap",
+   "publishedAt": "2026-10-14T02:37:48.650Z",
+   "thumbnail": null,
+   "views": 149355,
+   "likes": 4767,
+   "comments": 165
+  },
+  {
+   "id": "sample005",
+   "title": "Dream Run: Runners Share Their Stories",
+   "publishedAt": "2026-10-07T11:14:09.678Z",
+   "thumbnail": null,
+   "views": 28986,
+   "likes": 449,
+   "comments": 75
+  },
+  {
+   "id": "sample004",
+   "title": "How to Pace Your First Half Marathon",
+   "publishedAt": "2026-10-04T07:56:30.911Z",
+   "thumbnail": null,
+   "views": 82085,
+   "likes": 2679,
+   "comments": 83
+  },
+  {
+   "id": "sample006",
+   "title": "Start Line Atmosphere at 5:30 AM",
+   "publishedAt": "2026-10-02T11:32:11.947Z",
+   "thumbnail": null,
+   "views": 210287,
+   "likes": 5448,
+   "comments": 177
+  },
+  {
+   "id": "sample008",
+   "title": "Hydration Tips for Hot-Weather Races",
+   "publishedAt": "2026-09-29T06:23:09.610Z",
+   "thumbnail": null,
+   "views": 73680,
+   "likes": 2511,
+   "comments": 62
+  },
+  {
+   "id": "sample011",
+   "title": "Senior Citizens' Run 2026",
+   "publishedAt": "2026-09-14T23:24:05.964Z",
+   "thumbnail": null,
+   "views": 111626,
+   "likes": 3630,
+   "comments": 143
+  },
+  {
+   "id": "sample007",
+   "title": "10K Course Preview",
+   "publishedAt": "2026-09-12T07:41:55.879Z",
+   "thumbnail": null,
+   "views": 95930,
+   "likes": 2843,
+   "comments": 97
+  },
+  {
+   "id": "sample012",
+   "title": "Training Week 1: Building Your Base",
+   "publishedAt": "2026-08-31T14:08:41.302Z",
+   "thumbnail": null,
+   "views": 5776,
+   "likes": 230,
+   "comments": 9
+  },
+  {
+   "id": "sample016",
+   "title": "Running for a Cause: Charity Champions",
+   "publishedAt": "2026-08-24T21:23:35.147Z",
+   "thumbnail": null,
+   "views": 149506,
+   "likes": 2844,
+   "comments": 343
+  },
+  {
+   "id": "sample009",
+   "title": "Post-Race Recovery: What the Pros Do",
+   "publishedAt": "2026-08-23T19:10:30.613Z",
+   "thumbnail": null,
+   "views": 192618,
+   "likes": 3925,
+   "comments": 333
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+name: Update YouTube data
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub may start scheduled runs a few minutes late when busy.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      refresh_analytics:
+        description: "Refresh YouTube Analytics now (normally every 6 hours)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Fetch YouTube data
+        run: node scripts/fetch-data.mjs
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          YT_CHANNEL_ID: ${{ vars.YT_CHANNEL_ID }}
+          FORCE_ANALYTICS: ${{ inputs.refresh_analytics || 'false' }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes."
+            exit 0
+          fi
+          git commit -m "data: update $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase --quiet
+          git push

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Procam YouTube Dashboard</title>
+  <meta name="description" content="Subscriber, view and performance dashboard for the Procam International YouTube channel.">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <div class="brand">
+        <img id="channel-avatar" class="avatar" alt="" width="44" height="44" hidden>
+        <div>
+          <h1 id="channel-title">YouTube Dashboard</h1>
+          <p id="channel-meta" class="muted"></p>
+        </div>
+      </div>
+      <div class="refresh">
+        <span id="updated" class="muted" aria-live="polite"></span>
+        <button id="refresh-btn" class="btn-primary" type="button">Refresh live</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="sample-banner" class="notice notice-info" hidden>
+      Showing <strong>sample data</strong>. Real numbers will appear once the Google Cloud credentials are added (see README).
+    </div>
+    <div id="notice" class="notice" role="status" hidden></div>
+
+    <section aria-labelledby="h-overview">
+      <h2 id="h-overview" class="visually-hidden">Channel overview</h2>
+      <div class="tiles tiles-3">
+        <article class="tile">
+          <div class="tile-label">Subscribers <span class="pill" data-live-pill hidden>Live</span></div>
+          <div id="t-subs" class="tile-value">—</div>
+          <div id="t-subs-delta" class="tile-foot"></div>
+        </article>
+        <article class="tile">
+          <div class="tile-label">Total views <span class="pill" data-live-pill hidden>Live</span></div>
+          <div id="t-views" class="tile-value">—</div>
+          <div id="t-views-delta" class="tile-foot"></div>
+        </article>
+        <article class="tile">
+          <div class="tile-label">Videos <span class="pill" data-live-pill hidden>Live</span></div>
+          <div id="t-videos" class="tile-value">—</div>
+          <div id="t-videos-foot" class="tile-foot"></div>
+        </article>
+      </div>
+    </section>
+
+    <section aria-labelledby="h-growth">
+      <div class="section-head">
+        <h2 id="h-growth">Growth</h2>
+        <div class="range" role="group" aria-label="Time range">
+          <button type="button" data-range="1d">24h</button>
+          <button type="button" data-range="7d">7 days</button>
+          <button type="button" data-range="30d" aria-pressed="true">30 days</button>
+          <button type="button" data-range="90d">90 days</button>
+          <button type="button" data-range="all">All</button>
+        </div>
+      </div>
+      <div class="grid-2">
+        <article class="card">
+          <h3>Subscribers</h3>
+          <p class="card-note">YouTube rounds public subscriber counts (e.g. 52,300), so this line moves in steps.</p>
+          <div class="chart"><canvas id="c-subs" role="img" aria-label="Subscribers over time"></canvas></div>
+          <details class="table-view"><summary>Show as table</summary><div class="table-scroll"><table id="tbl-subs"></table></div></details>
+        </article>
+        <article class="card">
+          <h3>Total views</h3>
+          <p class="card-note">Lifetime channel views, recorded at each scheduled update.</p>
+          <div class="chart"><canvas id="c-views" role="img" aria-label="Total views over time"></canvas></div>
+          <details class="table-view"><summary>Show as table</summary><div class="table-scroll"><table id="tbl-views"></table></div></details>
+        </article>
+      </div>
+    </section>
+
+    <section aria-labelledby="h-analytics">
+      <div class="section-head">
+        <h2 id="h-analytics">Last 28 days</h2>
+        <span id="analytics-meta" class="muted"></span>
+      </div>
+      <div id="analytics-empty" class="card empty" hidden>
+        Watch time, traffic sources and audience data appear here once the channel owner has connected their Google account (see README, step 3).
+      </div>
+      <div id="analytics-body">
+        <div class="tiles tiles-4">
+          <article class="tile"><div class="tile-label">Views</div><div id="a-views" class="tile-value tile-value-sm">—</div></article>
+          <article class="tile"><div class="tile-label">Watch time (hours)</div><div id="a-watch" class="tile-value tile-value-sm">—</div></article>
+          <article class="tile"><div class="tile-label">Avg. view duration</div><div id="a-avd" class="tile-value tile-value-sm">—</div></article>
+          <article class="tile"><div class="tile-label">Net subscribers</div><div id="a-net" class="tile-value tile-value-sm">—</div><div id="a-net-foot" class="tile-foot"></div></article>
+        </div>
+        <article class="card">
+          <h3>Daily views</h3>
+          <p class="card-note">YouTube Analytics data usually arrives 1–3 days late, so the most recent days may be missing.</p>
+          <div class="chart"><canvas id="c-daily" role="img" aria-label="Daily views, last 28 days"></canvas></div>
+          <details class="table-view"><summary>Show as table</summary><div class="table-scroll"><table id="tbl-daily"></table></div></details>
+        </article>
+        <div class="grid-3">
+          <article class="card"><h3>Traffic sources</h3><p class="card-note">Share of views</p><div id="b-traffic" class="hbars"></div></article>
+          <article class="card"><h3>Top countries</h3><p class="card-note">Share of views</p><div id="b-countries" class="hbars"></div></article>
+          <article class="card"><h3>Audience age</h3><p class="card-note">Share of signed-in viewers</p><div id="b-age" class="hbars"></div><p id="gender-split" class="card-note"></p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="grid-2" aria-label="Videos">
+      <article class="card">
+        <h3>Top videos</h3>
+        <p class="card-note">Most viewed, all time</p>
+        <div class="table-scroll"><table id="tbl-top" class="videos"></table></div>
+      </article>
+      <article class="card">
+        <h3>Recent uploads</h3>
+        <p class="card-note">Newest first</p>
+        <div class="table-scroll"><table id="tbl-recent" class="videos"></table></div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="wrap footer muted">
+    Data from the YouTube Data API and YouTube Analytics API. Headline numbers update automatically every ~15 minutes; use “Refresh live” for the latest counts.
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="config.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

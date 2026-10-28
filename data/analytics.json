@@ -1,0 +1,324 @@
+{
+ "generatedAt": "2026-10-28T08:06:17.451Z",
+ "sample": true,
+ "startDate": "2026-09-29",
+ "endDate": "2026-10-26",
+ "totals": {
+  "views": 424311,
+  "watchMinutes": 1265407,
+  "avgViewDurationSec": 179,
+  "subscribersGained": 2030,
+  "subscribersLost": 311
+ },
+ "daily": [
+  {
+   "date": "2026-09-29",
+   "views": 10456,
+   "watchMinutes": 35398,
+   "subscribersGained": 85,
+   "subscribersLost": 8
+  },
+  {
+   "date": "2026-09-30",
+   "views": 16830,
+   "watchMinutes": 51938,
+   "subscribersGained": 88,
+   "subscribersLost": 7
+  },
+  {
+   "date": "2026-10-01",
+   "views": 11385,
+   "watchMinutes": 31919,
+   "subscribersGained": 67,
+   "subscribersLost": 9
+  },
+  {
+   "date": "2026-10-02",
+   "views": 15473,
+   "watchMinutes": 48887,
+   "subscribersGained": 77,
+   "subscribersLost": 9
+  },
+  {
+   "date": "2026-10-03",
+   "views": 17091,
+   "watchMinutes": 56778,
+   "subscribersGained": 89,
+   "subscribersLost": 7
+  },
+  {
+   "date": "2026-10-04",
+   "views": 16347,
+   "watchMinutes": 53310,
+   "subscribersGained": 74,
+   "subscribersLost": 11
+  },
+  {
+   "date": "2026-10-05",
+   "views": 16659,
+   "watchMinutes": 53205,
+   "subscribersGained": 77,
+   "subscribersLost": 15
+  },
+  {
+   "date": "2026-10-06",
+   "views": 14702,
+   "watchMinutes": 40935,
+   "subscribersGained": 53,
+   "subscribersLost": 12
+  },
+  {
+   "date": "2026-10-07",
+   "views": 11702,
+   "watchMinutes": 33476,
+   "subscribersGained": 69,
+   "subscribersLost": 18
+  },
+  {
+   "date": "2026-10-08",
+   "views": 13996,
+   "watchMinutes": 42120,
+   "subscribersGained": 88,
+   "subscribersLost": 8
+  },
+  {
+   "date": "2026-10-09",
+   "views": 12204,
+   "watchMinutes": 36760,
+   "subscribersGained": 59,
+   "subscribersLost": 16
+  },
+  {
+   "date": "2026-10-10",
+   "views": 18069,
+   "watchMinutes": 48541,
+   "subscribersGained": 86,
+   "subscribersLost": 14
+  },
+  {
+   "date": "2026-10-11",
+   "views": 15890,
+   "watchMinutes": 45958,
+   "subscribersGained": 63,
+   "subscribersLost": 12
+  },
+  {
+   "date": "2026-10-12",
+   "views": 13721,
+   "watchMinutes": 36608,
+   "subscribersGained": 73,
+   "subscribersLost": 16
+  },
+  {
+   "date": "2026-10-13",
+   "views": 10223,
+   "watchMinutes": 29216,
+   "subscribersGained": 52,
+   "subscribersLost": 8
+  },
+  {
+   "date": "2026-10-14",
+   "views": 16069,
+   "watchMinutes": 44870,
+   "subscribersGained": 76,
+   "subscribersLost": 7
+  },
+  {
+   "date": "2026-10-15",
+   "views": 16568,
+   "watchMinutes": 52793,
+   "subscribersGained": 76,
+   "subscribersLost": 13
+  },
+  {
+   "date": "2026-10-16",
+   "views": 14386,
+   "watchMinutes": 43382,
+   "subscribersGained": 47,
+   "subscribersLost": 9
+  },
+  {
+   "date": "2026-10-17",
+   "views": 18766,
+   "watchMinutes": 58809,
+   "subscribersGained": 64,
+   "subscribersLost": 15
+  },
+  {
+   "date": "2026-10-18",
+   "views": 17750,
+   "watchMinutes": 56713,
+   "subscribersGained": 68,
+   "subscribersLost": 8
+  },
+  {
+   "date": "2026-10-19",
+   "views": 12248,
+   "watchMinutes": 32359,
+   "subscribersGained": 85,
+   "subscribersLost": 7
+  },
+  {
+   "date": "2026-10-20",
+   "views": 13907,
+   "watchMinutes": 43418,
+   "subscribersGained": 60,
+   "subscribersLost": 8
+  },
+  {
+   "date": "2026-10-21",
+   "views": 14346,
+   "watchMinutes": 38690,
+   "subscribersGained": 72,
+   "subscribersLost": 10
+  },
+  {
+   "date": "2026-10-22",
+   "views": 12792,
+   "watchMinutes": 35871,
+   "subscribersGained": 76,
+   "subscribersLost": 10
+  },
+  {
+   "date": "2026-10-23",
+   "views": 13357,
+   "watchMinutes": 36550,
+   "subscribersGained": 84,
+   "subscribersLost": 15
+  },
+  {
+   "date": "2026-10-24",
+   "views": 21525,
+   "watchMinutes": 64549,
+   "subscribersGained": 65,
+   "subscribersLost": 10
+  },
+  {
+   "date": "2026-10-25",
+   "views": 20958,
+   "watchMinutes": 65137,
+   "subscribersGained": 77,
+   "subscribersLost": 14
+  },
+  {
+   "date": "2026-10-26",
+   "views": 16891,
+   "watchMinutes": 47217,
+   "subscribersGained": 80,
+   "subscribersLost": 15
+  }
+ ],
+ "trafficSources": [
+  {
+   "source": "RELATED_VIDEO",
+   "views": 131536
+  },
+  {
+   "source": "YT_SEARCH",
+   "views": 93348
+  },
+  {
+   "source": "SUBSCRIBER",
+   "views": 67890
+  },
+  {
+   "source": "SHORTS",
+   "views": 50917
+  },
+  {
+   "source": "EXT_URL",
+   "views": 33945
+  },
+  {
+   "source": "YT_CHANNEL",
+   "views": 21216
+  },
+  {
+   "source": "NO_LINK_OTHER",
+   "views": 16972
+  },
+  {
+   "source": "PLAYLIST",
+   "views": 8486
+  }
+ ],
+ "countries": [
+  {
+   "country": "IN",
+   "views": 330963
+  },
+  {
+   "country": "US",
+   "views": 21216
+  },
+  {
+   "country": "AE",
+   "views": 12729
+  },
+  {
+   "country": "GB",
+   "views": 10608
+  },
+  {
+   "country": "KE",
+   "views": 8486
+  },
+  {
+   "country": "ET",
+   "views": 6365
+  },
+  {
+   "country": "SG",
+   "views": 4243
+  },
+  {
+   "country": "CA",
+   "views": 4243
+  }
+ ],
+ "ageGroups": [
+  {
+   "group": "age13-17",
+   "percent": 2.1
+  },
+  {
+   "group": "age18-24",
+   "percent": 14.6
+  },
+  {
+   "group": "age25-34",
+   "percent": 33.8
+  },
+  {
+   "group": "age35-44",
+   "percent": 27.4
+  },
+  {
+   "group": "age45-54",
+   "percent": 13.9
+  },
+  {
+   "group": "age55-64",
+   "percent": 6.2
+  },
+  {
+   "group": "age65-",
+   "percent": 2
+  }
+ ],
+ "gender": [
+  {
+   "gender": "male",
+   "percent": 71.4
+  },
+  {
+   "gender": "female",
+   "percent": 28.3
+  },
+  {
+   "gender": "user_specified",
+   "percent": 0.3
+  }
+ ],
+ "errors": []
+}
