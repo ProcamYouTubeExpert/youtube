@@ -9,7 +9,7 @@
 //   YT_API_KEY                                                    API key (public stats only)
 //   YT_CHANNEL_ID                                                 required with an API key, optional with OAuth
 //   FORCE_ANALYTICS=true                                          refresh analytics even if recent
-//   MAX_VIDEOS                                                    uploads to scan (default 500)
+//   MAX_VIDEOS                                                    uploads to scan (default 1500)
 
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
@@ -25,7 +25,7 @@ const CLIENT_ID = env.GOOGLE_CLIENT_ID?.trim();
 const CLIENT_SECRET = env.GOOGLE_CLIENT_SECRET?.trim();
 const REFRESH_TOKEN = env.GOOGLE_REFRESH_TOKEN?.trim();
 const FORCE_ANALYTICS = env.FORCE_ANALYTICS === "true";
-const MAX_VIDEOS = Number(env.MAX_VIDEOS) || 500;
+const MAX_VIDEOS = Number(env.MAX_VIDEOS) || 1500;
 
 const DAY = 864e5;
 const TOP_N = 25;
@@ -139,7 +139,7 @@ async function fetchChannel(token) {
 }
 
 async function fetchVideos(uploadsPlaylistId, token) {
-  const ids = [];
+  const ids = new Set(); // the API sometimes repeats items across pages
   let pageToken;
   do {
     const page = await dataApi("playlistItems", {
@@ -148,15 +148,16 @@ async function fetchVideos(uploadsPlaylistId, token) {
       maxResults: 50,
       pageToken,
     }, token);
-    for (const item of page.items || []) ids.push(item.contentDetails.videoId);
+    for (const item of page.items || []) ids.add(item.contentDetails.videoId);
     pageToken = page.nextPageToken;
-  } while (pageToken && ids.length < MAX_VIDEOS);
+  } while (pageToken && ids.size < MAX_VIDEOS);
 
   const videos = [];
-  for (let i = 0; i < ids.length; i += 50) {
+  const idList = [...ids];
+  for (let i = 0; i < idList.length; i += 50) {
     const batch = await dataApi("videos", {
       part: "snippet,statistics,status",
-      id: ids.slice(i, i + 50).join(","),
+      id: idList.slice(i, i + 50).join(","),
     }, token);
     for (const v of batch.items || []) {
       if (v.status?.privacyStatus !== "public") continue;

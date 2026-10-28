@@ -41,7 +41,7 @@ YouTube rounds public subscriber counts to three significant figures (e.g. 52,30
 
    This key is visible in the page source; the restrictions are what keep it safe.
 
-Using the API is free. The default quota is 10,000 units/day; this dashboard uses roughly 1,000–1,500 a day plus ~3 per Refresh live click.
+Using the API is free. The default quota is 10,000 units/day; this dashboard uses roughly 3,000 a day for a ~700-video channel, plus ~3 per Refresh live click.
 
 ### 2. Get the refresh token (once, by the channel owner)
 
