@@ -6,7 +6,7 @@
 // here; those live in GitHub Secrets and are only used by the scheduled job.
 window.DASHBOARD_CONFIG = {
   // Google Cloud API key used by the "Refresh live" button.
-  apiKey: "",
+  apiKey: "AIzaSyCwilH9mw32KA43a8JCWKwlHfqVStZdH18",
 
   // YouTube channel ID (starts with "UC"). If left empty, the ID saved by the
   // scheduled job in data/latest.json is used.
