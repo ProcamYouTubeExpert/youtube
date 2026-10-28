@@ -10,7 +10,7 @@ window.DASHBOARD_CONFIG = {
 
   // YouTube channel ID (starts with "UC"). If left empty, the ID saved by the
   // scheduled job in data/latest.json is used.
-  channelId: "",
+  channelId: "UCFcBDqa1WtDlBExpx_y0nAQ",
 
   // Number formatting. "en-IN" groups as 12,34,567; use "en-US" for 1,234,567.
   locale: "en-IN",
