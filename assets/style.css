@@ -192,3 +192,5 @@ th.num, td.num { text-align: right; font-variant-numeric: tabular-nums; white-sp
   .tile-value { font-size: 28px; }
   .refresh { width: 100%; justify-content: space-between; }
 }
+
+.chart-empty { position: absolute; inset: 0; display: grid; place-items: center; text-align: center; padding: 16px; margin: 0; color: var(--muted); font-size: 13px; border: 1px dashed var(--grid); border-radius: 8px; }

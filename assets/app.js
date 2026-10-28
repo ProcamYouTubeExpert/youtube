@@ -304,7 +304,8 @@
     const end = pts.length ? pts[pts.length - 1].t : Date.now();
     const span = RANGES[state.range];
     const shown = span === Infinity ? pts : pts.filter((p) => p.t >= end - span);
-    const xMin = shown.length ? (span === Infinity ? shown[0].t : end - span) : undefined;
+    // Start the axis at the first snapshot when history is shorter than the range.
+    const xMin = shown.length ? Math.max(end - span, shown[0].t) : undefined;
 
     lineChart("subs", $("c-subs"), shown.filter((p) => isNum(p.subscribers)).map((p) => ({ x: p.t, y: p.subscribers })), "subscribers", xMin, end);
     lineChart("views", $("c-views"), shown.map((p) => ({ x: p.t, y: p.views })), "views", xMin, end);
@@ -374,7 +375,7 @@
 
     const g = a.gender || [];
     $("gender-split").textContent = g.length
-      ? "Gender: " + g.map((r) => `${titleCase(r.gender.replace("user_specified", "other"))} ${pf.format(r.percent)}%`).join(" · ")
+      ? "Gender: " + g.map((r) => `${/user/i.test(r.gender) ? "Other" : titleCase(r.gender)} ${pf.format(r.percent)}%`).join(" · ")
       : "";
   }
 
@@ -490,7 +491,7 @@
       track.append(fill);
       const value = document.createElement("span");
       value.className = "hbar-value";
-      value.textContent = `${pf.format(r.value)}%`;
+      value.textContent = r.value > 0 && r.value < 0.05 ? "<0.1%" : `${pf.format(r.value)}%`;
       row.append(label, track, value);
       el.append(row);
     }
@@ -562,6 +563,26 @@
 
   function lineChart(key, canvas, data, unit, xMin, xMax) {
     state.charts[key]?.destroy();
+    state.charts[key] = null;
+
+    // A line needs two snapshots; until then explain why the chart is blank.
+    const box = canvas.parentElement;
+    let empty = box.querySelector(".chart-empty");
+    if (data.length < 2 || data[data.length - 1].x - data[0].x < 30 * 60e3) {
+      if (!empty) {
+        empty = document.createElement("p");
+        empty.className = "chart-empty";
+        box.append(empty);
+      }
+      const since = state.history.length ? dateTimeFmt.format(state.history[0].t) : null;
+      empty.textContent = since
+        ? `Tracking started ${since}. This chart fills in as the automatic updates run.`
+        : "No history yet. This chart fills in as the automatic updates run.";
+      canvas.hidden = true;
+      return;
+    }
+    empty?.remove();
+    canvas.hidden = false;
     const color = css("--series-1");
     const spanMs = data.length ? xMax - (xMin ?? data[0].x) : 0;
     const tick = (v) => (spanMs <= 2 * DAY ? timeFmt.format(v) : dayFmt.format(v));
