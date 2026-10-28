@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-10-28T13:23:44.677Z",
+ "generatedAt": "2026-10-28T20:06:02.373Z",
  "sample": false,
  "startDate": "2026-10-01",
  "endDate": "2026-10-28",
  "totals": {
-  "views": 10838587,
-  "watchMinutes": 13232071,
+  "views": 10844032,
+  "watchMinutes": 13234655,
   "avgViewDurationSec": 189,
-  "subscribersGained": 11078,
-  "subscribersLost": 866
+  "subscribersGained": 11088,
+  "subscribersLost": 873
  },
  "daily": [
   {
@@ -185,52 +185,59 @@
    "watchMinutes": 3642,
    "subscribersGained": 10,
    "subscribersLost": 4
+  },
+  {
+   "date": "2026-10-26",
+   "views": 5445,
+   "watchMinutes": 2583,
+   "subscribersGained": 10,
+   "subscribersLost": 7
   }
  ],
  "trafficSources": [
   {
    "source": "ADVERTISING",
-   "views": 10448080
+   "views": 10447902
   },
   {
    "source": "SUBSCRIBER",
-   "views": 140167
+   "views": 143483
   },
   {
    "source": "SHORTS",
-   "views": 92165
+   "views": 93217
   },
   {
    "source": "YT_SEARCH",
-   "views": 61668
+   "views": 62478
   },
   {
    "source": "EXT_URL",
-   "views": 60923
+   "views": 60970
   },
   {
    "source": "NO_LINK_OTHER",
-   "views": 14845
+   "views": 14859
   },
   {
    "source": "YT_CHANNEL",
-   "views": 10351
+   "views": 10403
   },
   {
    "source": "RELATED_VIDEO",
-   "views": 6069
+   "views": 6143
   },
   {
    "source": "YT_OTHER_PAGE",
-   "views": 2739
+   "views": 2758
   },
   {
    "source": "PLAYLIST",
-   "views": 733
+   "views": 756
   },
   {
    "source": "NOTIFICATION",
-   "views": 628
+   "views": 632
   },
   {
    "source": "SHORTS_CONTENT_LINKS",
@@ -246,7 +253,7 @@
   },
   {
    "source": "END_SCREEN",
-   "views": 33
+   "views": 35
   },
   {
    "source": "LIVE_REDIRECT",
@@ -260,11 +267,11 @@
  "countries": [
   {
    "country": "IN",
-   "views": 10308105
+   "views": 10313191
   },
   {
    "country": "US",
-   "views": 2661
+   "views": 2693
   },
   {
    "country": "KE",
