@@ -215,13 +215,14 @@ async function analyticsRows(token, params) {
 
 // The Data API only reports current totals, so growth history would otherwise
 // start on the day tracking began. Rebuild one point per day from Analytics by
-// walking back from today's totals and subtracting each day's net change.
-// Runs when history is younger than 3 days, or when BACKFILL=true.
+// walking back from the first tracked snapshot and subtracting each day's net
+// change. Runs once (when no backfilled points exist yet), or when BACKFILL=true.
 async function maybeBackfillHistory(token, channel, now) {
   const hist = await readJson("history.json", { points: [] });
   const tracked = (hist.points || []).filter((p) => !p.backfilled);
-  const firstTracked = tracked.length ? tracked[0].t : now;
-  if (!FORCE_BACKFILL && firstTracked < now - 3 * DAY) return;
+  const anchor = tracked[0] || { t: now, subscribers: channel.subscribers, views: channel.views };
+  const firstTracked = anchor.t;
+  if (!FORCE_BACKFILL && (hist.points || []).some((p) => p.backfilled)) return;
 
   let rows;
   try {
@@ -237,14 +238,16 @@ async function maybeBackfillHistory(token, channel, now) {
     return;
   }
 
-  let subs = channel.subscribers;
-  let views = channel.views;
+  // Analytics lags 1-3 days, so the newest backfilled day lands on the anchor
+  // value; days after the anchor are already covered by tracked snapshots.
+  let subs = anchor.subscribers;
+  let views = anchor.views;
   const backfilled = [];
   for (const r of rows) {
     const t = Date.parse(`${r.day}T23:59:59Z`);
-    if (t < firstTracked && views >= 0) {
-      backfilled.push({ t, subscribers: subs != null ? Math.max(0, subs) : null, views, videos: null, backfilled: true });
-    }
+    if (t >= firstTracked) continue; // already counted in the anchor snapshot
+    if (views < 0) break;
+    backfilled.push({ t, subscribers: subs != null ? Math.max(0, subs) : null, views, videos: null, backfilled: true });
     if (subs != null) subs -= r.subscribersGained - r.subscribersLost;
     views -= r.views;
   }
