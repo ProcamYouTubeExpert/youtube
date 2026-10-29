@@ -1,7655 +1,7655 @@
 {
  "sample": false,
- "updatedAt": "2026-10-29T04:31:16.907Z",
+ "updatedAt": "2026-10-29T05:21:36.605Z",
  "points": [
   {
    "t": 1698710399000,
    "subscribers": 5118,
-   "views": 1929984,
+   "views": 1932963,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1698796799000,
    "subscribers": 5119,
-   "views": 1930077,
+   "views": 1933056,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1698883199000,
    "subscribers": 5118,
-   "views": 1930164,
+   "views": 1933143,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1698969599000,
    "subscribers": 5118,
-   "views": 1930255,
+   "views": 1933234,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699055999000,
    "subscribers": 5120,
-   "views": 1930338,
+   "views": 1933317,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699142399000,
    "subscribers": 5119,
-   "views": 1930444,
+   "views": 1933423,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699228799000,
    "subscribers": 5119,
-   "views": 1930526,
+   "views": 1933505,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699315199000,
    "subscribers": 5119,
-   "views": 1930600,
+   "views": 1933579,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699401599000,
    "subscribers": 5119,
-   "views": 1930693,
+   "views": 1933672,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699487999000,
    "subscribers": 5118,
-   "views": 1930769,
+   "views": 1933748,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699574399000,
    "subscribers": 5118,
-   "views": 1930857,
+   "views": 1933836,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699660799000,
    "subscribers": 5118,
-   "views": 1930909,
+   "views": 1933888,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699747199000,
    "subscribers": 5119,
-   "views": 1930986,
+   "views": 1933965,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699833599000,
    "subscribers": 5121,
-   "views": 1931045,
+   "views": 1934024,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1699919999000,
    "subscribers": 5122,
-   "views": 1931099,
+   "views": 1934078,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700006399000,
    "subscribers": 5122,
-   "views": 1931146,
+   "views": 1934125,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700092799000,
    "subscribers": 5123,
-   "views": 1931198,
+   "views": 1934177,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700179199000,
    "subscribers": 5123,
-   "views": 1931256,
+   "views": 1934235,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700265599000,
    "subscribers": 5123,
-   "views": 1931347,
+   "views": 1934326,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700351999000,
    "subscribers": 5123,
-   "views": 1931443,
+   "views": 1934422,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700438399000,
    "subscribers": 5124,
-   "views": 1931497,
+   "views": 1934476,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700524799000,
    "subscribers": 5124,
-   "views": 1931566,
+   "views": 1934545,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700611199000,
    "subscribers": 5124,
-   "views": 1931641,
+   "views": 1934620,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700697599000,
    "subscribers": 5123,
-   "views": 1931728,
+   "views": 1934707,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700783999000,
    "subscribers": 5123,
-   "views": 1931801,
+   "views": 1934780,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700870399000,
    "subscribers": 5123,
-   "views": 1931883,
+   "views": 1934862,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1700956799000,
    "subscribers": 5123,
-   "views": 1931959,
+   "views": 1934938,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701043199000,
    "subscribers": 5123,
-   "views": 1932030,
+   "views": 1935009,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701129599000,
    "subscribers": 5123,
-   "views": 1932097,
+   "views": 1935076,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701215999000,
    "subscribers": 5123,
-   "views": 1932161,
+   "views": 1935140,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701302399000,
    "subscribers": 5123,
-   "views": 1932229,
+   "views": 1935208,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701388799000,
    "subscribers": 5121,
-   "views": 1932281,
+   "views": 1935260,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701475199000,
    "subscribers": 5119,
-   "views": 1932394,
+   "views": 1935373,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701561599000,
    "subscribers": 5121,
-   "views": 1932478,
+   "views": 1935457,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701647999000,
    "subscribers": 5123,
-   "views": 1932557,
+   "views": 1935536,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701734399000,
    "subscribers": 5122,
-   "views": 1932632,
+   "views": 1935611,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701820799000,
    "subscribers": 5123,
-   "views": 1932735,
+   "views": 1935714,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701907199000,
    "subscribers": 5123,
-   "views": 1932787,
+   "views": 1935766,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1701993599000,
    "subscribers": 5123,
-   "views": 1932856,
+   "views": 1935835,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702079999000,
    "subscribers": 5123,
-   "views": 1932929,
+   "views": 1935908,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702166399000,
    "subscribers": 5127,
-   "views": 1933134,
+   "views": 1936113,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702252799000,
    "subscribers": 5127,
-   "views": 1933235,
+   "views": 1936214,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702339199000,
    "subscribers": 5127,
-   "views": 1933327,
+   "views": 1936306,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702425599000,
    "subscribers": 5127,
-   "views": 1933406,
+   "views": 1936385,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702511999000,
    "subscribers": 5127,
-   "views": 1933508,
+   "views": 1936487,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702598399000,
    "subscribers": 5128,
-   "views": 1933588,
+   "views": 1936567,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702684799000,
    "subscribers": 5129,
-   "views": 1933679,
+   "views": 1936658,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702771199000,
    "subscribers": 5172,
-   "views": 1936392,
+   "views": 1939371,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702857599000,
    "subscribers": 5193,
-   "views": 1938610,
+   "views": 1941589,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1702943999000,
    "subscribers": 5202,
-   "views": 1939573,
+   "views": 1942552,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703030399000,
    "subscribers": 5206,
-   "views": 1940039,
+   "views": 1943018,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703116799000,
    "subscribers": 5209,
-   "views": 1940368,
+   "views": 1943347,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703203199000,
    "subscribers": 5214,
-   "views": 1940745,
+   "views": 1943724,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703289599000,
    "subscribers": 5216,
-   "views": 1941046,
+   "views": 1944025,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703375999000,
    "subscribers": 5217,
-   "views": 1941250,
+   "views": 1944229,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703462399000,
    "subscribers": 5217,
-   "views": 1941434,
+   "views": 1944413,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703548799000,
    "subscribers": 5222,
-   "views": 1941583,
+   "views": 1944562,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703635199000,
    "subscribers": 5223,
-   "views": 1941696,
+   "views": 1944675,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703721599000,
    "subscribers": 5226,
-   "views": 1941827,
+   "views": 1944806,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703807999000,
    "subscribers": 5227,
-   "views": 1941931,
+   "views": 1944910,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703894399000,
    "subscribers": 5229,
-   "views": 1942081,
+   "views": 1945060,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1703980799000,
    "subscribers": 5229,
-   "views": 1942212,
+   "views": 1945191,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704067199000,
    "subscribers": 5229,
-   "views": 1942308,
+   "views": 1945287,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704153599000,
    "subscribers": 5228,
-   "views": 1942390,
+   "views": 1945369,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704239999000,
    "subscribers": 5227,
-   "views": 1942468,
+   "views": 1945447,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704326399000,
    "subscribers": 5228,
-   "views": 1942561,
+   "views": 1945540,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704412799000,
    "subscribers": 5227,
-   "views": 1942623,
+   "views": 1945602,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704499199000,
    "subscribers": 5228,
-   "views": 1942686,
+   "views": 1945665,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704585599000,
    "subscribers": 5230,
-   "views": 1942768,
+   "views": 1945747,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704671999000,
    "subscribers": 5230,
-   "views": 1942823,
+   "views": 1945802,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704758399000,
    "subscribers": 5232,
-   "views": 1942881,
+   "views": 1945860,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704844799000,
    "subscribers": 5232,
-   "views": 1942944,
+   "views": 1945923,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1704931199000,
    "subscribers": 5233,
-   "views": 1943086,
+   "views": 1946065,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705017599000,
    "subscribers": 5234,
-   "views": 1943179,
+   "views": 1946158,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705103999000,
    "subscribers": 5234,
-   "views": 1943233,
+   "views": 1946212,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705190399000,
    "subscribers": 5235,
-   "views": 1943314,
+   "views": 1946293,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705276799000,
    "subscribers": 5236,
-   "views": 1943360,
+   "views": 1946339,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705363199000,
    "subscribers": 5236,
-   "views": 1943416,
+   "views": 1946395,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705449599000,
    "subscribers": 5236,
-   "views": 1943487,
+   "views": 1946466,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705535999000,
    "subscribers": 5236,
-   "views": 1943560,
+   "views": 1946539,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705622399000,
    "subscribers": 5238,
-   "views": 1943715,
+   "views": 1946694,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705708799000,
    "subscribers": 5244,
-   "views": 1943912,
+   "views": 1946891,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705795199000,
    "subscribers": 5364,
-   "views": 1959066,
+   "views": 1962045,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705881599000,
    "subscribers": 5385,
-   "views": 1959777,
+   "views": 1962756,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1705967999000,
    "subscribers": 5392,
-   "views": 1960103,
+   "views": 1963082,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706054399000,
    "subscribers": 5397,
-   "views": 1960377,
+   "views": 1963356,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706140799000,
    "subscribers": 5399,
-   "views": 1960567,
+   "views": 1963546,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706227199000,
    "subscribers": 5400,
-   "views": 1960759,
+   "views": 1963738,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706313599000,
    "subscribers": 5402,
-   "views": 1960890,
+   "views": 1963869,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706399999000,
    "subscribers": 5405,
-   "views": 1961032,
+   "views": 1964011,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706486399000,
    "subscribers": 5407,
-   "views": 1961170,
+   "views": 1964149,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706572799000,
    "subscribers": 5408,
-   "views": 1961304,
+   "views": 1964283,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706659199000,
    "subscribers": 5409,
-   "views": 1961448,
+   "views": 1964427,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706745599000,
    "subscribers": 5409,
-   "views": 1961547,
+   "views": 1964526,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706831999000,
    "subscribers": 5406,
-   "views": 1961662,
+   "views": 1964641,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1706918399000,
    "subscribers": 5408,
-   "views": 1961775,
+   "views": 1964754,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707004799000,
    "subscribers": 5409,
-   "views": 1961898,
+   "views": 1964877,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707091199000,
    "subscribers": 5409,
-   "views": 1962008,
+   "views": 1964987,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707177599000,
    "subscribers": 5408,
-   "views": 1962097,
+   "views": 1965076,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707263999000,
    "subscribers": 5409,
-   "views": 1962198,
+   "views": 1965177,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707350399000,
    "subscribers": 5409,
-   "views": 1962294,
+   "views": 1965273,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707436799000,
    "subscribers": 5409,
-   "views": 1962366,
+   "views": 1965345,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707523199000,
    "subscribers": 5411,
-   "views": 1962457,
+   "views": 1965436,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707609599000,
    "subscribers": 5410,
-   "views": 1962574,
+   "views": 1965553,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707695999000,
    "subscribers": 5410,
-   "views": 1962668,
+   "views": 1965647,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707782399000,
    "subscribers": 5410,
-   "views": 1962761,
+   "views": 1965740,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707868799000,
    "subscribers": 5412,
-   "views": 1962834,
+   "views": 1965813,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1707955199000,
    "subscribers": 5411,
-   "views": 1962932,
+   "views": 1965911,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708041599000,
    "subscribers": 5413,
-   "views": 1963059,
+   "views": 1966038,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708127999000,
    "subscribers": 5414,
-   "views": 1963154,
+   "views": 1966133,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708214399000,
    "subscribers": 5412,
-   "views": 1963263,
+   "views": 1966242,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708300799000,
    "subscribers": 5412,
-   "views": 1963371,
+   "views": 1966350,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708387199000,
    "subscribers": 5414,
-   "views": 1963482,
+   "views": 1966461,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708473599000,
    "subscribers": 5414,
-   "views": 1963558,
+   "views": 1966537,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708559999000,
    "subscribers": 5413,
-   "views": 1963660,
+   "views": 1966639,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708646399000,
    "subscribers": 5413,
-   "views": 1963724,
+   "views": 1966703,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708732799000,
    "subscribers": 5415,
-   "views": 1963773,
+   "views": 1966752,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708819199000,
    "subscribers": 5415,
-   "views": 1963898,
+   "views": 1966877,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708905599000,
    "subscribers": 5415,
-   "views": 1963999,
+   "views": 1966978,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1708991999000,
    "subscribers": 5415,
-   "views": 1964070,
+   "views": 1967049,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709078399000,
    "subscribers": 5415,
-   "views": 1964145,
+   "views": 1967124,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709164799000,
    "subscribers": 5416,
-   "views": 1964210,
+   "views": 1967189,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709251199000,
    "subscribers": 5417,
-   "views": 1964274,
+   "views": 1967253,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709337599000,
    "subscribers": 5418,
-   "views": 1964319,
+   "views": 1967298,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709423999000,
    "subscribers": 5419,
-   "views": 1964405,
+   "views": 1967384,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709510399000,
    "subscribers": 5421,
-   "views": 1964477,
+   "views": 1967456,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709596799000,
    "subscribers": 5422,
-   "views": 1964543,
+   "views": 1967522,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709683199000,
    "subscribers": 5421,
-   "views": 1964623,
+   "views": 1967602,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709769599000,
    "subscribers": 5421,
-   "views": 1964680,
+   "views": 1967659,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709855999000,
    "subscribers": 5421,
-   "views": 1964739,
+   "views": 1967718,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1709942399000,
    "subscribers": 5421,
-   "views": 1964798,
+   "views": 1967777,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710028799000,
    "subscribers": 5420,
-   "views": 1964845,
+   "views": 1967824,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710115199000,
    "subscribers": 5421,
-   "views": 1964900,
+   "views": 1967879,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710201599000,
    "subscribers": 5421,
-   "views": 1964974,
+   "views": 1967953,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710287999000,
    "subscribers": 5422,
-   "views": 1965042,
+   "views": 1968021,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710374399000,
    "subscribers": 5421,
-   "views": 1965112,
+   "views": 1968091,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710460799000,
    "subscribers": 5421,
-   "views": 1965179,
+   "views": 1968158,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710547199000,
    "subscribers": 5421,
-   "views": 1965231,
+   "views": 1968210,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710633599000,
    "subscribers": 5421,
-   "views": 1965282,
+   "views": 1968261,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710719999000,
    "subscribers": 5419,
-   "views": 1965339,
+   "views": 1968318,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710806399000,
    "subscribers": 5419,
-   "views": 1965389,
+   "views": 1968368,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710892799000,
    "subscribers": 5420,
-   "views": 1965448,
+   "views": 1968427,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1710979199000,
    "subscribers": 5422,
-   "views": 1965518,
+   "views": 1968497,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711065599000,
    "subscribers": 5421,
-   "views": 1965573,
+   "views": 1968552,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711151999000,
    "subscribers": 5422,
-   "views": 1965625,
+   "views": 1968604,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711238399000,
    "subscribers": 5422,
-   "views": 1965688,
+   "views": 1968667,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711324799000,
    "subscribers": 5423,
-   "views": 1965751,
+   "views": 1968730,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711411199000,
    "subscribers": 5423,
-   "views": 1965828,
+   "views": 1968807,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711497599000,
    "subscribers": 5422,
-   "views": 1965881,
+   "views": 1968860,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711583999000,
    "subscribers": 5422,
-   "views": 1965932,
+   "views": 1968911,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711670399000,
    "subscribers": 5425,
-   "views": 1965999,
+   "views": 1968978,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711756799000,
    "subscribers": 5427,
-   "views": 1966078,
+   "views": 1969057,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711843199000,
    "subscribers": 5427,
-   "views": 1966131,
+   "views": 1969110,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1711929599000,
    "subscribers": 5428,
-   "views": 1966246,
+   "views": 1969225,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712015999000,
    "subscribers": 5428,
-   "views": 1966305,
+   "views": 1969284,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712102399000,
    "subscribers": 5428,
-   "views": 1966353,
+   "views": 1969332,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712188799000,
    "subscribers": 5427,
-   "views": 1966402,
+   "views": 1969381,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712275199000,
    "subscribers": 5428,
-   "views": 1966475,
+   "views": 1969454,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712361599000,
    "subscribers": 5427,
-   "views": 1966539,
+   "views": 1969518,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712447999000,
    "subscribers": 5427,
-   "views": 1966608,
+   "views": 1969587,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712534399000,
    "subscribers": 5429,
-   "views": 1966685,
+   "views": 1969664,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712620799000,
    "subscribers": 5429,
-   "views": 1966770,
+   "views": 1969749,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712707199000,
    "subscribers": 5429,
-   "views": 1966827,
+   "views": 1969806,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712793599000,
    "subscribers": 5428,
-   "views": 1966907,
+   "views": 1969886,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712879999000,
    "subscribers": 5427,
-   "views": 1966972,
+   "views": 1969951,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1712966399000,
    "subscribers": 5426,
-   "views": 1967037,
+   "views": 1970016,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713052799000,
    "subscribers": 5428,
-   "views": 1967105,
+   "views": 1970084,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713139199000,
    "subscribers": 5428,
-   "views": 1967175,
+   "views": 1970154,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713225599000,
    "subscribers": 5428,
-   "views": 1967237,
+   "views": 1970216,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713311999000,
    "subscribers": 5428,
-   "views": 1967310,
+   "views": 1970289,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713398399000,
    "subscribers": 5427,
-   "views": 1967406,
+   "views": 1970385,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713484799000,
    "subscribers": 5428,
-   "views": 1967481,
+   "views": 1970460,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713571199000,
    "subscribers": 5430,
-   "views": 1967562,
+   "views": 1970541,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713657599000,
    "subscribers": 5430,
-   "views": 1967611,
+   "views": 1970590,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713743999000,
    "subscribers": 5430,
-   "views": 1967669,
+   "views": 1970648,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713830399000,
    "subscribers": 5431,
-   "views": 1967739,
+   "views": 1970718,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1713916799000,
    "subscribers": 5432,
-   "views": 1967801,
+   "views": 1970780,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714003199000,
    "subscribers": 5431,
-   "views": 1967901,
+   "views": 1970880,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714089599000,
    "subscribers": 5431,
-   "views": 1968012,
+   "views": 1970991,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714175999000,
    "subscribers": 5435,
-   "views": 1968155,
+   "views": 1971134,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714262399000,
    "subscribers": 5480,
-   "views": 1971630,
+   "views": 1974609,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714348799000,
    "subscribers": 5492,
-   "views": 1973625,
+   "views": 1976604,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714435199000,
    "subscribers": 5499,
-   "views": 1974630,
+   "views": 1977609,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714521599000,
    "subscribers": 5500,
-   "views": 1975196,
+   "views": 1978175,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714607999000,
    "subscribers": 5503,
-   "views": 1975476,
+   "views": 1978455,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714694399000,
    "subscribers": 5504,
-   "views": 1975694,
+   "views": 1978673,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714780799000,
    "subscribers": 5506,
-   "views": 1975838,
+   "views": 1978817,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714867199000,
    "subscribers": 5505,
-   "views": 1975973,
+   "views": 1978952,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1714953599000,
    "subscribers": 5505,
-   "views": 1976082,
+   "views": 1979061,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715039999000,
    "subscribers": 5505,
-   "views": 1976181,
+   "views": 1979160,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715126399000,
    "subscribers": 5506,
-   "views": 1976285,
+   "views": 1979264,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715212799000,
    "subscribers": 5508,
-   "views": 1976396,
+   "views": 1979375,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715299199000,
    "subscribers": 5510,
-   "views": 1976485,
+   "views": 1979464,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715385599000,
    "subscribers": 5510,
-   "views": 1976558,
+   "views": 1979537,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715471999000,
    "subscribers": 5512,
-   "views": 1976643,
+   "views": 1979622,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715558399000,
    "subscribers": 5514,
-   "views": 1976708,
+   "views": 1979687,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715644799000,
    "subscribers": 5514,
-   "views": 1976780,
+   "views": 1979759,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715731199000,
    "subscribers": 5516,
-   "views": 1976829,
+   "views": 1979808,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715817599000,
    "subscribers": 5517,
-   "views": 1976923,
+   "views": 1979902,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715903999000,
    "subscribers": 5518,
-   "views": 1977001,
+   "views": 1979980,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1715990399000,
    "subscribers": 5518,
-   "views": 1977079,
+   "views": 1980058,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716076799000,
    "subscribers": 5518,
-   "views": 1977244,
+   "views": 1980223,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716163199000,
    "subscribers": 5518,
-   "views": 1977303,
+   "views": 1980282,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716249599000,
    "subscribers": 5518,
-   "views": 1977366,
+   "views": 1980345,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716335999000,
    "subscribers": 5520,
-   "views": 1977498,
+   "views": 1980477,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716422399000,
    "subscribers": 5520,
-   "views": 1977595,
+   "views": 1980574,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716508799000,
    "subscribers": 5521,
-   "views": 1977635,
+   "views": 1980614,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716595199000,
    "subscribers": 5520,
-   "views": 1977689,
+   "views": 1980668,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716681599000,
    "subscribers": 5521,
-   "views": 1977738,
+   "views": 1980717,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716767999000,
    "subscribers": 5521,
-   "views": 1977796,
+   "views": 1980775,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716854399000,
    "subscribers": 5521,
-   "views": 1977846,
+   "views": 1980825,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1716940799000,
    "subscribers": 5523,
-   "views": 1977888,
+   "views": 1980867,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717027199000,
    "subscribers": 5523,
-   "views": 1977932,
+   "views": 1980911,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717113599000,
    "subscribers": 5523,
-   "views": 1977977,
+   "views": 1980956,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717199999000,
    "subscribers": 5523,
-   "views": 1978037,
+   "views": 1981016,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717286399000,
    "subscribers": 5524,
-   "views": 1978098,
+   "views": 1981077,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717372799000,
    "subscribers": 5526,
-   "views": 1978159,
+   "views": 1981138,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717459199000,
    "subscribers": 5523,
-   "views": 1978222,
+   "views": 1981201,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717545599000,
    "subscribers": 5523,
-   "views": 1978269,
+   "views": 1981248,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717631999000,
    "subscribers": 5523,
-   "views": 1978308,
+   "views": 1981287,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717718399000,
    "subscribers": 5523,
-   "views": 1978360,
+   "views": 1981339,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717804799000,
    "subscribers": 5524,
-   "views": 1978416,
+   "views": 1981395,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717891199000,
    "subscribers": 5523,
-   "views": 1978469,
+   "views": 1981448,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1717977599000,
    "subscribers": 5523,
-   "views": 1978500,
+   "views": 1981479,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718063999000,
    "subscribers": 5523,
-   "views": 1978537,
+   "views": 1981516,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718150399000,
    "subscribers": 5523,
-   "views": 1978576,
+   "views": 1981555,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718236799000,
    "subscribers": 5522,
-   "views": 1978645,
+   "views": 1981624,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718323199000,
    "subscribers": 5522,
-   "views": 1978679,
+   "views": 1981658,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718409599000,
    "subscribers": 5522,
-   "views": 1978725,
+   "views": 1981704,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718495999000,
    "subscribers": 5522,
-   "views": 1978760,
+   "views": 1981739,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718582399000,
    "subscribers": 5522,
-   "views": 1978815,
+   "views": 1981794,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718668799000,
    "subscribers": 5521,
-   "views": 1978878,
+   "views": 1981857,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718755199000,
    "subscribers": 5520,
-   "views": 1978931,
+   "views": 1981910,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718841599000,
    "subscribers": 5521,
-   "views": 1978986,
+   "views": 1981965,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1718927999000,
    "subscribers": 5521,
-   "views": 1979041,
+   "views": 1982020,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719014399000,
    "subscribers": 5521,
-   "views": 1979089,
+   "views": 1982068,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719100799000,
    "subscribers": 5521,
-   "views": 1979137,
+   "views": 1982116,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719187199000,
    "subscribers": 5521,
-   "views": 1979220,
+   "views": 1982199,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719273599000,
    "subscribers": 5522,
-   "views": 1979322,
+   "views": 1982301,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719359999000,
    "subscribers": 5522,
-   "views": 1979408,
+   "views": 1982387,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719446399000,
    "subscribers": 5522,
-   "views": 1979462,
+   "views": 1982441,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719532799000,
    "subscribers": 5520,
-   "views": 1979521,
+   "views": 1982500,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719619199000,
    "subscribers": 5520,
-   "views": 1979569,
+   "views": 1982548,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719705599000,
    "subscribers": 5520,
-   "views": 1979606,
+   "views": 1982585,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719791999000,
    "subscribers": 5520,
-   "views": 1979680,
+   "views": 1982659,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719878399000,
    "subscribers": 5520,
-   "views": 1979724,
+   "views": 1982703,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1719964799000,
    "subscribers": 5520,
-   "views": 1979774,
+   "views": 1982753,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720051199000,
    "subscribers": 5521,
-   "views": 1979826,
+   "views": 1982805,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720137599000,
    "subscribers": 5521,
-   "views": 1979884,
+   "views": 1982863,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720223999000,
    "subscribers": 5522,
-   "views": 1979942,
+   "views": 1982921,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720310399000,
    "subscribers": 5523,
-   "views": 1980021,
+   "views": 1983000,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720396799000,
    "subscribers": 5526,
-   "views": 1980085,
+   "views": 1983064,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720483199000,
    "subscribers": 5526,
-   "views": 1980140,
+   "views": 1983119,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720569599000,
    "subscribers": 5526,
-   "views": 1980195,
+   "views": 1983174,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720655999000,
    "subscribers": 5525,
-   "views": 1980280,
+   "views": 1983259,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720742399000,
    "subscribers": 5526,
-   "views": 1980353,
+   "views": 1983332,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720828799000,
    "subscribers": 5527,
-   "views": 1980423,
+   "views": 1983402,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1720915199000,
    "subscribers": 5527,
-   "views": 1980485,
+   "views": 1983464,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721001599000,
    "subscribers": 5528,
-   "views": 1980579,
+   "views": 1983558,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721087999000,
    "subscribers": 5529,
-   "views": 1980646,
+   "views": 1983625,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721174399000,
    "subscribers": 5529,
-   "views": 1980705,
+   "views": 1983684,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721260799000,
    "subscribers": 5529,
-   "views": 1980780,
+   "views": 1983759,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721347199000,
    "subscribers": 5529,
-   "views": 1980841,
+   "views": 1983820,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721433599000,
    "subscribers": 5527,
-   "views": 1980951,
+   "views": 1983930,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721519999000,
    "subscribers": 5527,
-   "views": 1981043,
+   "views": 1984022,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721606399000,
    "subscribers": 5526,
-   "views": 1981170,
+   "views": 1984149,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721692799000,
    "subscribers": 5526,
-   "views": 1981265,
+   "views": 1984244,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721779199000,
    "subscribers": 5527,
-   "views": 1981373,
+   "views": 1984352,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721865599000,
    "subscribers": 5527,
-   "views": 1981514,
+   "views": 1984493,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1721951999000,
    "subscribers": 5527,
-   "views": 1981599,
+   "views": 1984578,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722038399000,
    "subscribers": 5527,
-   "views": 1981693,
+   "views": 1984672,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722124799000,
    "subscribers": 5527,
-   "views": 1981777,
+   "views": 1984756,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722211199000,
    "subscribers": 5528,
-   "views": 1981856,
+   "views": 1984835,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722297599000,
    "subscribers": 5529,
-   "views": 1981925,
+   "views": 1984904,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722383999000,
    "subscribers": 5530,
-   "views": 1981997,
+   "views": 1984976,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722470399000,
    "subscribers": 5531,
-   "views": 1982075,
+   "views": 1985054,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722556799000,
    "subscribers": 5531,
-   "views": 1982150,
+   "views": 1985129,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722643199000,
    "subscribers": 5532,
-   "views": 1982255,
+   "views": 1985234,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722729599000,
    "subscribers": 5532,
-   "views": 1982336,
+   "views": 1985315,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722815999000,
    "subscribers": 5532,
-   "views": 1982402,
+   "views": 1985381,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722902399000,
    "subscribers": 5533,
-   "views": 1982466,
+   "views": 1985445,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1722988799000,
    "subscribers": 5533,
-   "views": 1982541,
+   "views": 1985520,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723075199000,
    "subscribers": 5534,
-   "views": 1982614,
+   "views": 1985593,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723161599000,
    "subscribers": 5535,
-   "views": 1982698,
+   "views": 1985677,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723247999000,
    "subscribers": 5536,
-   "views": 1982769,
+   "views": 1985748,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723334399000,
    "subscribers": 5537,
-   "views": 1982848,
+   "views": 1985827,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723420799000,
    "subscribers": 5537,
-   "views": 1982946,
+   "views": 1985925,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723507199000,
    "subscribers": 5538,
-   "views": 1983027,
+   "views": 1986006,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723593599000,
    "subscribers": 5539,
-   "views": 1983098,
+   "views": 1986077,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723679999000,
    "subscribers": 5541,
-   "views": 1983180,
+   "views": 1986159,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723766399000,
    "subscribers": 5542,
-   "views": 1983240,
+   "views": 1986219,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723852799000,
    "subscribers": 5542,
-   "views": 1983317,
+   "views": 1986296,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1723939199000,
    "subscribers": 5542,
-   "views": 1983388,
+   "views": 1986367,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724025599000,
    "subscribers": 5541,
-   "views": 1983457,
+   "views": 1986436,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724111999000,
    "subscribers": 5541,
-   "views": 1983517,
+   "views": 1986496,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724198399000,
    "subscribers": 5543,
-   "views": 1983595,
+   "views": 1986574,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724284799000,
    "subscribers": 5542,
-   "views": 1983661,
+   "views": 1986640,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724371199000,
    "subscribers": 5542,
-   "views": 1983764,
+   "views": 1986743,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724457599000,
    "subscribers": 5543,
-   "views": 1983843,
+   "views": 1986822,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724543999000,
    "subscribers": 5544,
-   "views": 1983933,
+   "views": 1986912,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724630399000,
    "subscribers": 5544,
-   "views": 1983998,
+   "views": 1986977,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724716799000,
    "subscribers": 5545,
-   "views": 1984084,
+   "views": 1987063,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724803199000,
    "subscribers": 5546,
-   "views": 1984160,
+   "views": 1987139,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724889599000,
    "subscribers": 5547,
-   "views": 1984229,
+   "views": 1987208,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1724975999000,
    "subscribers": 5547,
-   "views": 1984295,
+   "views": 1987274,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725062399000,
    "subscribers": 5546,
-   "views": 1984371,
+   "views": 1987350,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725148799000,
    "subscribers": 5548,
-   "views": 1984438,
+   "views": 1987417,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725235199000,
    "subscribers": 5549,
-   "views": 1984504,
+   "views": 1987483,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725321599000,
    "subscribers": 5549,
-   "views": 1984567,
+   "views": 1987546,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725407999000,
    "subscribers": 5549,
-   "views": 1984632,
+   "views": 1987611,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725494399000,
    "subscribers": 5550,
-   "views": 1984742,
+   "views": 1987721,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725580799000,
    "subscribers": 5551,
-   "views": 1984855,
+   "views": 1987834,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725667199000,
    "subscribers": 5550,
-   "views": 1984945,
+   "views": 1987924,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725753599000,
    "subscribers": 5550,
-   "views": 1984995,
+   "views": 1987974,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725839999000,
    "subscribers": 5551,
-   "views": 1985066,
+   "views": 1988045,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1725926399000,
    "subscribers": 5552,
-   "views": 1985140,
+   "views": 1988119,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726012799000,
    "subscribers": 5553,
-   "views": 1985217,
+   "views": 1988196,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726099199000,
    "subscribers": 5552,
-   "views": 1985300,
+   "views": 1988279,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726185599000,
    "subscribers": 5552,
-   "views": 1985408,
+   "views": 1988387,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726271999000,
    "subscribers": 5552,
-   "views": 1985500,
+   "views": 1988479,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726358399000,
    "subscribers": 5552,
-   "views": 1985620,
+   "views": 1988599,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726444799000,
    "subscribers": 5552,
-   "views": 1985709,
+   "views": 1988688,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726531199000,
    "subscribers": 5554,
-   "views": 1985809,
+   "views": 1988788,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726617599000,
    "subscribers": 5552,
-   "views": 1985859,
+   "views": 1988838,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726703999000,
    "subscribers": 5552,
-   "views": 1985945,
+   "views": 1988924,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726790399000,
    "subscribers": 5553,
-   "views": 1986047,
+   "views": 1989026,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726876799000,
    "subscribers": 5553,
-   "views": 1986153,
+   "views": 1989132,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1726963199000,
    "subscribers": 5553,
-   "views": 1986257,
+   "views": 1989236,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727049599000,
    "subscribers": 5554,
-   "views": 1986337,
+   "views": 1989316,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727135999000,
    "subscribers": 5555,
-   "views": 1986446,
+   "views": 1989425,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727222399000,
    "subscribers": 5556,
-   "views": 1986543,
+   "views": 1989522,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727308799000,
    "subscribers": 5557,
-   "views": 1986610,
+   "views": 1989589,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727395199000,
    "subscribers": 5557,
-   "views": 1986697,
+   "views": 1989676,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727481599000,
    "subscribers": 5558,
-   "views": 1986773,
+   "views": 1989752,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727567999000,
    "subscribers": 5561,
-   "views": 1986852,
+   "views": 1989831,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727654399000,
    "subscribers": 5564,
-   "views": 1986955,
+   "views": 1989934,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727740799000,
    "subscribers": 5565,
-   "views": 1987049,
+   "views": 1990028,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727827199000,
    "subscribers": 5565,
-   "views": 1987136,
+   "views": 1990115,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727913599000,
    "subscribers": 5565,
-   "views": 1987216,
+   "views": 1990195,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1727999999000,
    "subscribers": 5568,
-   "views": 1987302,
+   "views": 1990281,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728086399000,
    "subscribers": 5568,
-   "views": 1987389,
+   "views": 1990368,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728172799000,
    "subscribers": 5567,
-   "views": 1987480,
+   "views": 1990459,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728259199000,
    "subscribers": 5569,
-   "views": 1987569,
+   "views": 1990548,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728345599000,
    "subscribers": 5568,
-   "views": 1987671,
+   "views": 1990650,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728431999000,
    "subscribers": 5569,
-   "views": 1987763,
+   "views": 1990742,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728518399000,
    "subscribers": 5568,
-   "views": 1987866,
+   "views": 1990845,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728604799000,
    "subscribers": 5569,
-   "views": 1987972,
+   "views": 1990951,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728691199000,
    "subscribers": 5571,
-   "views": 1988163,
+   "views": 1991142,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728777599000,
    "subscribers": 5571,
-   "views": 1988279,
+   "views": 1991258,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728863999000,
    "subscribers": 5572,
-   "views": 1988391,
+   "views": 1991370,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1728950399000,
    "subscribers": 5574,
-   "views": 1988521,
+   "views": 1991500,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729036799000,
    "subscribers": 5576,
-   "views": 1988688,
+   "views": 1991667,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729123199000,
    "subscribers": 5579,
-   "views": 1988823,
+   "views": 1991802,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729209599000,
    "subscribers": 5579,
-   "views": 1988973,
+   "views": 1991952,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729295999000,
    "subscribers": 5583,
-   "views": 1989190,
+   "views": 1992169,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729382399000,
    "subscribers": 5717,
-   "views": 1997712,
+   "views": 2000691,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729468799000,
    "subscribers": 5749,
-   "views": 2001805,
+   "views": 2004784,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729555199000,
    "subscribers": 5754,
-   "views": 2002145,
+   "views": 2005124,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729641599000,
    "subscribers": 5756,
-   "views": 2002300,
+   "views": 2005279,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729727999000,
    "subscribers": 5756,
-   "views": 2002432,
+   "views": 2005411,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729814399000,
    "subscribers": 5757,
-   "views": 2002553,
+   "views": 2005532,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729900799000,
    "subscribers": 5762,
-   "views": 2002694,
+   "views": 2005673,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1729987199000,
    "subscribers": 5762,
-   "views": 2002812,
+   "views": 2005791,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730073599000,
    "subscribers": 5766,
-   "views": 2002958,
+   "views": 2005937,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730159999000,
    "subscribers": 5768,
-   "views": 2003277,
+   "views": 2006256,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730246399000,
    "subscribers": 5770,
-   "views": 2003472,
+   "views": 2006451,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730332799000,
    "subscribers": 5769,
-   "views": 2003609,
+   "views": 2006588,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730419199000,
    "subscribers": 5772,
-   "views": 2003664,
+   "views": 2006643,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730505599000,
    "subscribers": 5773,
-   "views": 2003752,
+   "views": 2006731,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730591999000,
    "subscribers": 5771,
-   "views": 2003847,
+   "views": 2006826,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730678399000,
    "subscribers": 5771,
-   "views": 2003935,
+   "views": 2006914,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730764799000,
    "subscribers": 5771,
-   "views": 2004016,
+   "views": 2006995,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730851199000,
    "subscribers": 5771,
-   "views": 2004096,
+   "views": 2007075,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1730937599000,
    "subscribers": 5771,
-   "views": 2004157,
+   "views": 2007136,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731023999000,
    "subscribers": 5770,
-   "views": 2004218,
+   "views": 2007197,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731110399000,
    "subscribers": 5770,
-   "views": 2004299,
+   "views": 2007278,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731196799000,
    "subscribers": 5771,
-   "views": 2004366,
+   "views": 2007345,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731283199000,
    "subscribers": 5771,
-   "views": 2004428,
+   "views": 2007407,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731369599000,
    "subscribers": 5772,
-   "views": 2004473,
+   "views": 2007452,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731455999000,
    "subscribers": 5774,
-   "views": 2004563,
+   "views": 2007542,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731542399000,
    "subscribers": 5776,
-   "views": 2004627,
+   "views": 2007606,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731628799000,
    "subscribers": 5775,
-   "views": 2004695,
+   "views": 2007674,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731715199000,
    "subscribers": 5776,
-   "views": 2004765,
+   "views": 2007744,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731801599000,
    "subscribers": 5777,
-   "views": 2004851,
+   "views": 2007830,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731887999000,
    "subscribers": 5778,
-   "views": 2004909,
+   "views": 2007888,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1731974399000,
    "subscribers": 5779,
-   "views": 2005008,
+   "views": 2007987,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732060799000,
    "subscribers": 5779,
-   "views": 2005065,
+   "views": 2008044,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732147199000,
    "subscribers": 5780,
-   "views": 2005150,
+   "views": 2008129,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732233599000,
    "subscribers": 5781,
-   "views": 2005267,
+   "views": 2008246,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732319999000,
    "subscribers": 5782,
-   "views": 2005374,
+   "views": 2008353,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732406399000,
    "subscribers": 5783,
-   "views": 2005464,
+   "views": 2008443,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732492799000,
    "subscribers": 5783,
-   "views": 2005534,
+   "views": 2008513,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732579199000,
    "subscribers": 5780,
-   "views": 2005616,
+   "views": 2008595,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732665599000,
    "subscribers": 5782,
-   "views": 2005686,
+   "views": 2008665,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732751999000,
    "subscribers": 5783,
-   "views": 2005766,
+   "views": 2008745,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732838399000,
    "subscribers": 5783,
-   "views": 2005843,
+   "views": 2008822,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1732924799000,
    "subscribers": 5785,
-   "views": 2006003,
+   "views": 2008982,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733011199000,
    "subscribers": 5786,
-   "views": 2006087,
+   "views": 2009066,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733097599000,
    "subscribers": 5787,
-   "views": 2006160,
+   "views": 2009139,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733183999000,
    "subscribers": 5786,
-   "views": 2006232,
+   "views": 2009211,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733270399000,
    "subscribers": 5785,
-   "views": 2006309,
+   "views": 2009288,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733356799000,
    "subscribers": 5786,
-   "views": 2006389,
+   "views": 2009368,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733443199000,
    "subscribers": 5788,
-   "views": 2006474,
+   "views": 2009453,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733529599000,
    "subscribers": 5786,
-   "views": 2006560,
+   "views": 2009539,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733615999000,
    "subscribers": 5785,
-   "views": 2006625,
+   "views": 2009604,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733702399000,
    "subscribers": 5787,
-   "views": 2006724,
+   "views": 2009703,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733788799000,
    "subscribers": 5787,
-   "views": 2006857,
+   "views": 2009836,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733875199000,
    "subscribers": 5791,
-   "views": 2006967,
+   "views": 2009946,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1733961599000,
    "subscribers": 5790,
-   "views": 2007069,
+   "views": 2010048,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734047999000,
    "subscribers": 5792,
-   "views": 2007212,
+   "views": 2010191,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734134399000,
    "subscribers": 5794,
-   "views": 2007373,
+   "views": 2010352,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734220799000,
    "subscribers": 5847,
-   "views": 2012231,
+   "views": 2015210,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734307199000,
    "subscribers": 5882,
-   "views": 2015706,
+   "views": 2018685,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734393599000,
    "subscribers": 5892,
-   "views": 2016982,
+   "views": 2019961,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734479999000,
    "subscribers": 5894,
-   "views": 2017791,
+   "views": 2020770,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734566399000,
    "subscribers": 5901,
-   "views": 2018371,
+   "views": 2021350,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734652799000,
    "subscribers": 5904,
-   "views": 2018765,
+   "views": 2021744,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734739199000,
    "subscribers": 5908,
-   "views": 2019082,
+   "views": 2022061,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734825599000,
    "subscribers": 5914,
-   "views": 2019381,
+   "views": 2022360,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734911999000,
    "subscribers": 5914,
-   "views": 2019561,
+   "views": 2022540,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1734998399000,
    "subscribers": 5913,
-   "views": 2019738,
+   "views": 2022717,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735084799000,
    "subscribers": 5915,
-   "views": 2019880,
+   "views": 2022859,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735171199000,
    "subscribers": 5916,
-   "views": 2019983,
+   "views": 2022962,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735257599000,
    "subscribers": 5918,
-   "views": 2020109,
+   "views": 2023088,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735343999000,
    "subscribers": 5916,
-   "views": 2020205,
+   "views": 2023184,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735430399000,
    "subscribers": 5915,
-   "views": 2020297,
+   "views": 2023276,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735516799000,
    "subscribers": 5915,
-   "views": 2020375,
+   "views": 2023354,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735603199000,
    "subscribers": 5916,
-   "views": 2020436,
+   "views": 2023415,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735689599000,
    "subscribers": 5917,
-   "views": 2020529,
+   "views": 2023508,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735775999000,
    "subscribers": 5917,
-   "views": 2020619,
+   "views": 2023598,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735862399000,
    "subscribers": 5918,
-   "views": 2020689,
+   "views": 2023668,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1735948799000,
    "subscribers": 5918,
-   "views": 2020750,
+   "views": 2023729,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736035199000,
    "subscribers": 5918,
-   "views": 2020853,
+   "views": 2023832,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736121599000,
    "subscribers": 5918,
-   "views": 2020962,
+   "views": 2023941,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736207999000,
    "subscribers": 5919,
-   "views": 2021041,
+   "views": 2024020,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736294399000,
    "subscribers": 5919,
-   "views": 2021177,
+   "views": 2024156,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736380799000,
    "subscribers": 5919,
-   "views": 2021307,
+   "views": 2024286,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736467199000,
    "subscribers": 5919,
-   "views": 2021382,
+   "views": 2024361,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736553599000,
    "subscribers": 5921,
-   "views": 2021513,
+   "views": 2024492,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736639999000,
    "subscribers": 5927,
-   "views": 2021637,
+   "views": 2024616,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736726399000,
    "subscribers": 5929,
-   "views": 2021740,
+   "views": 2024719,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736812799000,
    "subscribers": 5930,
-   "views": 2021815,
+   "views": 2024794,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736899199000,
    "subscribers": 5930,
-   "views": 2021913,
+   "views": 2024892,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1736985599000,
    "subscribers": 5929,
-   "views": 2021995,
+   "views": 2024974,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737071999000,
    "subscribers": 5926,
-   "views": 2022091,
+   "views": 2025070,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737158399000,
    "subscribers": 5928,
-   "views": 2022169,
+   "views": 2025148,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737244799000,
    "subscribers": 6135,
-   "views": 2042205,
+   "views": 2045184,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737331199000,
    "subscribers": 6162,
-   "views": 2043015,
+   "views": 2045994,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737417599000,
    "subscribers": 6169,
-   "views": 2043343,
+   "views": 2046322,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737503999000,
    "subscribers": 6168,
-   "views": 2043535,
+   "views": 2046514,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737590399000,
    "subscribers": 6168,
-   "views": 2043694,
+   "views": 2046673,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737676799000,
    "subscribers": 6169,
-   "views": 2043830,
+   "views": 2046809,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737763199000,
    "subscribers": 6169,
-   "views": 2043983,
+   "views": 2046962,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737849599000,
    "subscribers": 6169,
-   "views": 2044140,
+   "views": 2047119,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1737935999000,
    "subscribers": 6171,
-   "views": 2044277,
+   "views": 2047256,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738022399000,
    "subscribers": 6171,
-   "views": 2044403,
+   "views": 2047382,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738108799000,
    "subscribers": 6170,
-   "views": 2044518,
+   "views": 2047497,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738195199000,
    "subscribers": 6170,
-   "views": 2044615,
+   "views": 2047594,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738281599000,
    "subscribers": 6171,
-   "views": 2044693,
+   "views": 2047672,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738367999000,
    "subscribers": 6171,
-   "views": 2044800,
+   "views": 2047779,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738454399000,
    "subscribers": 6171,
-   "views": 2044917,
+   "views": 2047896,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738540799000,
    "subscribers": 6171,
-   "views": 2045023,
+   "views": 2048002,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738627199000,
    "subscribers": 6173,
-   "views": 2045138,
+   "views": 2048117,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738713599000,
    "subscribers": 6172,
-   "views": 2045204,
+   "views": 2048183,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738799999000,
    "subscribers": 6174,
-   "views": 2045300,
+   "views": 2048279,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738886399000,
    "subscribers": 6174,
-   "views": 2045398,
+   "views": 2048377,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1738972799000,
    "subscribers": 6173,
-   "views": 2045486,
+   "views": 2048465,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739059199000,
    "subscribers": 6174,
-   "views": 2045592,
+   "views": 2048571,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739145599000,
    "subscribers": 6177,
-   "views": 2045677,
+   "views": 2048656,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739231999000,
    "subscribers": 6178,
-   "views": 2045764,
+   "views": 2048743,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739318399000,
    "subscribers": 6177,
-   "views": 2045848,
+   "views": 2048827,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739404799000,
    "subscribers": 6177,
-   "views": 2045933,
+   "views": 2048912,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739491199000,
    "subscribers": 6177,
-   "views": 2046037,
+   "views": 2049016,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739577599000,
    "subscribers": 6176,
-   "views": 2046109,
+   "views": 2049088,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739663999000,
    "subscribers": 6178,
-   "views": 2046249,
+   "views": 2049228,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739750399000,
    "subscribers": 6179,
-   "views": 2046356,
+   "views": 2049335,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739836799000,
    "subscribers": 6181,
-   "views": 2046428,
+   "views": 2049407,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1739923199000,
    "subscribers": 6180,
-   "views": 2046525,
+   "views": 2049504,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740009599000,
    "subscribers": 6180,
-   "views": 2046628,
+   "views": 2049607,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740095999000,
    "subscribers": 6178,
-   "views": 2046760,
+   "views": 2049739,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740182399000,
    "subscribers": 6180,
-   "views": 2046855,
+   "views": 2049834,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740268799000,
    "subscribers": 6181,
-   "views": 2046947,
+   "views": 2049926,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740355199000,
    "subscribers": 6182,
-   "views": 2047037,
+   "views": 2050016,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740441599000,
    "subscribers": 6181,
-   "views": 2047111,
+   "views": 2050090,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740527999000,
    "subscribers": 6187,
-   "views": 2047201,
+   "views": 2050180,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740614399000,
    "subscribers": 6182,
-   "views": 2047272,
+   "views": 2050251,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740700799000,
    "subscribers": 6183,
-   "views": 2047357,
+   "views": 2050336,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740787199000,
    "subscribers": 6185,
-   "views": 2047421,
+   "views": 2050400,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740873599000,
    "subscribers": 6186,
-   "views": 2047483,
+   "views": 2050462,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1740959999000,
    "subscribers": 6187,
-   "views": 2047568,
+   "views": 2050547,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741046399000,
    "subscribers": 6190,
-   "views": 2047661,
+   "views": 2050640,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741132799000,
    "subscribers": 6190,
-   "views": 2047714,
+   "views": 2050693,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741219199000,
    "subscribers": 6189,
-   "views": 2047773,
+   "views": 2050752,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741305599000,
    "subscribers": 6189,
-   "views": 2047867,
+   "views": 2050846,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741391999000,
    "subscribers": 6189,
-   "views": 2047973,
+   "views": 2050952,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741478399000,
    "subscribers": 6189,
-   "views": 2048095,
+   "views": 2051074,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741564799000,
    "subscribers": 6190,
-   "views": 2048207,
+   "views": 2051186,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741651199000,
    "subscribers": 6190,
-   "views": 2048311,
+   "views": 2051290,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741737599000,
    "subscribers": 6191,
-   "views": 2048412,
+   "views": 2051391,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741823999000,
    "subscribers": 6193,
-   "views": 2048489,
+   "views": 2051468,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741910399000,
    "subscribers": 6194,
-   "views": 2048563,
+   "views": 2051542,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1741996799000,
    "subscribers": 6194,
-   "views": 2048633,
+   "views": 2051612,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742083199000,
    "subscribers": 6194,
-   "views": 2048711,
+   "views": 2051690,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742169599000,
    "subscribers": 6194,
-   "views": 2048810,
+   "views": 2051789,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742255999000,
    "subscribers": 6194,
-   "views": 2048890,
+   "views": 2051869,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742342399000,
    "subscribers": 6194,
-   "views": 2048959,
+   "views": 2051938,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742428799000,
    "subscribers": 6194,
-   "views": 2049028,
+   "views": 2052007,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742515199000,
    "subscribers": 6193,
-   "views": 2049080,
+   "views": 2052059,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742601599000,
    "subscribers": 6193,
-   "views": 2049152,
+   "views": 2052131,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742687999000,
    "subscribers": 6193,
-   "views": 2049219,
+   "views": 2052198,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742774399000,
    "subscribers": 6193,
-   "views": 2049267,
+   "views": 2052246,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742860799000,
    "subscribers": 6194,
-   "views": 2049344,
+   "views": 2052323,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1742947199000,
    "subscribers": 6194,
-   "views": 2049425,
+   "views": 2052404,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743033599000,
    "subscribers": 6194,
-   "views": 2049505,
+   "views": 2052484,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743119999000,
    "subscribers": 6194,
-   "views": 2049591,
+   "views": 2052570,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743206399000,
    "subscribers": 6194,
-   "views": 2049655,
+   "views": 2052634,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743292799000,
    "subscribers": 6195,
-   "views": 2049722,
+   "views": 2052701,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743379199000,
    "subscribers": 6196,
-   "views": 2049762,
+   "views": 2052741,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743465599000,
    "subscribers": 6197,
-   "views": 2049834,
+   "views": 2052813,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743551999000,
    "subscribers": 6199,
-   "views": 2049912,
+   "views": 2052891,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743638399000,
    "subscribers": 6200,
-   "views": 2050086,
+   "views": 2053065,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743724799000,
    "subscribers": 6200,
-   "views": 2050174,
+   "views": 2053153,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743811199000,
    "subscribers": 6200,
-   "views": 2050260,
+   "views": 2053239,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743897599000,
    "subscribers": 6199,
-   "views": 2050335,
+   "views": 2053314,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1743983999000,
    "subscribers": 6202,
-   "views": 2050420,
+   "views": 2053399,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744070399000,
    "subscribers": 6201,
-   "views": 2050484,
+   "views": 2053463,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744156799000,
    "subscribers": 6203,
-   "views": 2050561,
+   "views": 2053540,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744243199000,
    "subscribers": 6203,
-   "views": 2050672,
+   "views": 2053651,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744329599000,
    "subscribers": 6202,
-   "views": 2050752,
+   "views": 2053731,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744415999000,
    "subscribers": 6204,
-   "views": 2050831,
+   "views": 2053810,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744502399000,
    "subscribers": 6205,
-   "views": 2050938,
+   "views": 2053917,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744588799000,
    "subscribers": 6205,
-   "views": 2051055,
+   "views": 2054034,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744675199000,
    "subscribers": 6205,
-   "views": 2051126,
+   "views": 2054105,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744761599000,
    "subscribers": 6206,
-   "views": 2051218,
+   "views": 2054197,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744847999000,
    "subscribers": 6208,
-   "views": 2051305,
+   "views": 2054284,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1744934399000,
    "subscribers": 6208,
-   "views": 2051388,
+   "views": 2054367,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745020799000,
    "subscribers": 6208,
-   "views": 2051474,
+   "views": 2054453,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745107199000,
    "subscribers": 6209,
-   "views": 2051583,
+   "views": 2054562,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745193599000,
    "subscribers": 6212,
-   "views": 2051669,
+   "views": 2054648,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745279999000,
    "subscribers": 6212,
-   "views": 2051777,
+   "views": 2054756,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745366399000,
    "subscribers": 6213,
-   "views": 2051883,
+   "views": 2054862,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745452799000,
    "subscribers": 6213,
-   "views": 2052083,
+   "views": 2055062,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745539199000,
    "subscribers": 6214,
-   "views": 2052232,
+   "views": 2055211,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745625599000,
    "subscribers": 6213,
-   "views": 2052464,
+   "views": 2055443,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745711999000,
    "subscribers": 6274,
-   "views": 2058979,
+   "views": 2061958,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745798399000,
    "subscribers": 6284,
-   "views": 2059705,
+   "views": 2062684,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745884799000,
    "subscribers": 6287,
-   "views": 2059985,
+   "views": 2062964,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1745971199000,
    "subscribers": 6288,
-   "views": 2060142,
+   "views": 2063121,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746057599000,
    "subscribers": 6290,
-   "views": 2060288,
+   "views": 2063267,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746143999000,
    "subscribers": 6291,
-   "views": 2060366,
+   "views": 2063345,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746230399000,
    "subscribers": 6291,
-   "views": 2060457,
+   "views": 2063436,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746316799000,
    "subscribers": 6293,
-   "views": 2060562,
+   "views": 2063541,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746403199000,
    "subscribers": 6294,
-   "views": 2060642,
+   "views": 2063621,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746489599000,
    "subscribers": 6294,
-   "views": 2060706,
+   "views": 2063685,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746575999000,
    "subscribers": 6294,
-   "views": 2060765,
+   "views": 2063744,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746662399000,
    "subscribers": 6294,
-   "views": 2060826,
+   "views": 2063805,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746748799000,
    "subscribers": 6294,
-   "views": 2060885,
+   "views": 2063864,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746835199000,
    "subscribers": 6295,
-   "views": 2060955,
+   "views": 2063934,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1746921599000,
    "subscribers": 6295,
-   "views": 2061034,
+   "views": 2064013,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747007999000,
    "subscribers": 6295,
-   "views": 2061130,
+   "views": 2064109,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747094399000,
    "subscribers": 6295,
-   "views": 2061183,
+   "views": 2064162,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747180799000,
    "subscribers": 6297,
-   "views": 2061254,
+   "views": 2064233,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747267199000,
    "subscribers": 6297,
-   "views": 2061315,
+   "views": 2064294,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747353599000,
    "subscribers": 6298,
-   "views": 2061400,
+   "views": 2064379,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747439999000,
    "subscribers": 6299,
-   "views": 2061479,
+   "views": 2064458,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747526399000,
    "subscribers": 6298,
-   "views": 2061541,
+   "views": 2064520,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747612799000,
    "subscribers": 6299,
-   "views": 2061625,
+   "views": 2064604,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747699199000,
    "subscribers": 6299,
-   "views": 2061669,
+   "views": 2064648,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747785599000,
    "subscribers": 6299,
-   "views": 2061741,
+   "views": 2064720,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747871999000,
    "subscribers": 6299,
-   "views": 2061806,
+   "views": 2064785,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1747958399000,
    "subscribers": 6299,
-   "views": 2061856,
+   "views": 2064835,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748044799000,
    "subscribers": 6299,
-   "views": 2061909,
+   "views": 2064888,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748131199000,
    "subscribers": 6299,
-   "views": 2061998,
+   "views": 2064977,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748217599000,
    "subscribers": 6298,
-   "views": 2062052,
+   "views": 2065031,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748303999000,
    "subscribers": 6299,
-   "views": 2062104,
+   "views": 2065083,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748390399000,
    "subscribers": 6300,
-   "views": 2062150,
+   "views": 2065129,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748476799000,
    "subscribers": 6302,
-   "views": 2062201,
+   "views": 2065180,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748563199000,
    "subscribers": 6303,
-   "views": 2062238,
+   "views": 2065217,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748649599000,
    "subscribers": 6306,
-   "views": 2062298,
+   "views": 2065277,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748735999000,
    "subscribers": 6306,
-   "views": 2062376,
+   "views": 2065355,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748822399000,
    "subscribers": 6306,
-   "views": 2062431,
+   "views": 2065410,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748908799000,
    "subscribers": 6304,
-   "views": 2062465,
+   "views": 2065444,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1748995199000,
    "subscribers": 6304,
-   "views": 2062519,
+   "views": 2065498,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749081599000,
    "subscribers": 6304,
-   "views": 2062573,
+   "views": 2065552,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749167999000,
    "subscribers": 6304,
-   "views": 2062623,
+   "views": 2065602,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749254399000,
    "subscribers": 6303,
-   "views": 2062702,
+   "views": 2065681,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749340799000,
    "subscribers": 6303,
-   "views": 2062770,
+   "views": 2065749,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749427199000,
    "subscribers": 6303,
-   "views": 2062830,
+   "views": 2065809,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749513599000,
    "subscribers": 6304,
-   "views": 2062892,
+   "views": 2065871,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749599999000,
    "subscribers": 6304,
-   "views": 2062954,
+   "views": 2065933,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749686399000,
    "subscribers": 6304,
-   "views": 2063030,
+   "views": 2066009,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749772799000,
    "subscribers": 6304,
-   "views": 2063101,
+   "views": 2066080,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749859199000,
    "subscribers": 6306,
-   "views": 2063156,
+   "views": 2066135,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1749945599000,
    "subscribers": 6307,
-   "views": 2063205,
+   "views": 2066184,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750031999000,
    "subscribers": 6307,
-   "views": 2063250,
+   "views": 2066229,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750118399000,
    "subscribers": 6307,
-   "views": 2063313,
+   "views": 2066292,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750204799000,
    "subscribers": 6307,
-   "views": 2063377,
+   "views": 2066356,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750291199000,
    "subscribers": 6308,
-   "views": 2063429,
+   "views": 2066408,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750377599000,
    "subscribers": 6308,
-   "views": 2063493,
+   "views": 2066472,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750463999000,
    "subscribers": 6308,
-   "views": 2063559,
+   "views": 2066538,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750550399000,
    "subscribers": 6308,
-   "views": 2063645,
+   "views": 2066624,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750636799000,
    "subscribers": 6308,
-   "views": 2063705,
+   "views": 2066684,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750723199000,
    "subscribers": 6308,
-   "views": 2063766,
+   "views": 2066745,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750809599000,
    "subscribers": 6308,
-   "views": 2063830,
+   "views": 2066809,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750895999000,
    "subscribers": 6308,
-   "views": 2063910,
+   "views": 2066889,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1750982399000,
    "subscribers": 6309,
-   "views": 2063984,
+   "views": 2066963,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751068799000,
    "subscribers": 6309,
-   "views": 2064046,
+   "views": 2067025,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751155199000,
    "subscribers": 6309,
-   "views": 2064109,
+   "views": 2067088,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751241599000,
    "subscribers": 6310,
-   "views": 2064172,
+   "views": 2067151,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751327999000,
    "subscribers": 6309,
-   "views": 2064230,
+   "views": 2067209,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751414399000,
    "subscribers": 6311,
-   "views": 2064292,
+   "views": 2067271,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751500799000,
    "subscribers": 6312,
-   "views": 2064372,
+   "views": 2067351,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751587199000,
    "subscribers": 6311,
-   "views": 2064442,
+   "views": 2067421,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751673599000,
    "subscribers": 6312,
-   "views": 2064511,
+   "views": 2067490,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751759999000,
    "subscribers": 6312,
-   "views": 2064578,
+   "views": 2067557,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751846399000,
    "subscribers": 6313,
-   "views": 2064631,
+   "views": 2067610,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1751932799000,
    "subscribers": 6313,
-   "views": 2064689,
+   "views": 2067668,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752019199000,
    "subscribers": 6312,
-   "views": 2064751,
+   "views": 2067730,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752105599000,
    "subscribers": 6312,
-   "views": 2064804,
+   "views": 2067783,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752191999000,
    "subscribers": 6312,
-   "views": 2064859,
+   "views": 2067838,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752278399000,
    "subscribers": 6312,
-   "views": 2064930,
+   "views": 2067909,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752364799000,
    "subscribers": 6311,
-   "views": 2065017,
+   "views": 2067996,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752451199000,
    "subscribers": 6311,
-   "views": 2065068,
+   "views": 2068047,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752537599000,
    "subscribers": 6313,
-   "views": 2065135,
+   "views": 2068114,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752623999000,
    "subscribers": 6313,
-   "views": 2065192,
+   "views": 2068171,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752710399000,
    "subscribers": 6313,
-   "views": 2065266,
+   "views": 2068245,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752796799000,
    "subscribers": 6313,
-   "views": 2065324,
+   "views": 2068303,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752883199000,
    "subscribers": 6311,
-   "views": 2065399,
+   "views": 2068378,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1752969599000,
    "subscribers": 6310,
-   "views": 2065453,
+   "views": 2068432,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753055999000,
    "subscribers": 6310,
-   "views": 2065506,
+   "views": 2068485,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753142399000,
    "subscribers": 6311,
-   "views": 2065581,
+   "views": 2068560,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753228799000,
    "subscribers": 6313,
-   "views": 2065643,
+   "views": 2068622,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753315199000,
    "subscribers": 6314,
-   "views": 2065707,
+   "views": 2068686,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753401599000,
    "subscribers": 6314,
-   "views": 2065755,
+   "views": 2068734,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753487999000,
    "subscribers": 6314,
-   "views": 2065815,
+   "views": 2068794,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753574399000,
    "subscribers": 6315,
-   "views": 2065892,
+   "views": 2068871,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753660799000,
    "subscribers": 6315,
-   "views": 2065947,
+   "views": 2068926,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753747199000,
    "subscribers": 6313,
-   "views": 2066006,
+   "views": 2068985,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753833599000,
    "subscribers": 6312,
-   "views": 2066093,
+   "views": 2069072,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1753919999000,
    "subscribers": 6313,
-   "views": 2066150,
+   "views": 2069129,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754006399000,
    "subscribers": 6315,
-   "views": 2066255,
+   "views": 2069234,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754092799000,
    "subscribers": 6315,
-   "views": 2066319,
+   "views": 2069298,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754179199000,
    "subscribers": 6315,
-   "views": 2066381,
+   "views": 2069360,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754265599000,
    "subscribers": 6316,
-   "views": 2066427,
+   "views": 2069406,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754351999000,
    "subscribers": 6315,
-   "views": 2066493,
+   "views": 2069472,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754438399000,
    "subscribers": 6315,
-   "views": 2066555,
+   "views": 2069534,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754524799000,
    "subscribers": 6316,
-   "views": 2066638,
+   "views": 2069617,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754611199000,
    "subscribers": 6316,
-   "views": 2066693,
+   "views": 2069672,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754697599000,
    "subscribers": 6316,
-   "views": 2066760,
+   "views": 2069739,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754783999000,
    "subscribers": 6313,
-   "views": 2066851,
+   "views": 2069830,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754870399000,
    "subscribers": 6313,
-   "views": 2066933,
+   "views": 2069912,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1754956799000,
    "subscribers": 6313,
-   "views": 2067016,
+   "views": 2069995,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755043199000,
    "subscribers": 6314,
-   "views": 2067074,
+   "views": 2070053,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755129599000,
    "subscribers": 6315,
-   "views": 2067136,
+   "views": 2070115,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755215999000,
    "subscribers": 6314,
-   "views": 2067197,
+   "views": 2070176,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755302399000,
    "subscribers": 6315,
-   "views": 2067281,
+   "views": 2070260,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755388799000,
    "subscribers": 6314,
-   "views": 2067388,
+   "views": 2070367,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755475199000,
    "subscribers": 6315,
-   "views": 2067523,
+   "views": 2070502,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755561599000,
    "subscribers": 6316,
-   "views": 2067596,
+   "views": 2070575,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755647999000,
    "subscribers": 6316,
-   "views": 2067684,
+   "views": 2070663,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755734399000,
    "subscribers": 6316,
-   "views": 2067782,
+   "views": 2070761,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755820799000,
    "subscribers": 6317,
-   "views": 2067865,
+   "views": 2070844,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755907199000,
    "subscribers": 6317,
-   "views": 2067937,
+   "views": 2070916,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1755993599000,
    "subscribers": 6316,
-   "views": 2068001,
+   "views": 2070980,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756079999000,
    "subscribers": 6315,
-   "views": 2068075,
+   "views": 2071054,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756166399000,
    "subscribers": 6316,
-   "views": 2068150,
+   "views": 2071129,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756252799000,
    "subscribers": 6316,
-   "views": 2068213,
+   "views": 2071192,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756339199000,
    "subscribers": 6318,
-   "views": 2068269,
+   "views": 2071248,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756425599000,
    "subscribers": 6317,
-   "views": 2068337,
+   "views": 2071316,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756511999000,
    "subscribers": 6320,
-   "views": 2068398,
+   "views": 2071377,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756598399000,
    "subscribers": 6319,
-   "views": 2068477,
+   "views": 2071456,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756684799000,
    "subscribers": 6320,
-   "views": 2068547,
+   "views": 2071526,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756771199000,
    "subscribers": 6322,
-   "views": 2068598,
+   "views": 2071577,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756857599000,
    "subscribers": 6323,
-   "views": 2068658,
+   "views": 2071637,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1756943999000,
    "subscribers": 6322,
-   "views": 2068717,
+   "views": 2071696,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757030399000,
    "subscribers": 6320,
-   "views": 2068754,
+   "views": 2071733,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757116799000,
    "subscribers": 6320,
-   "views": 2068798,
+   "views": 2071777,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757203199000,
    "subscribers": 6320,
-   "views": 2068846,
+   "views": 2071825,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757289599000,
    "subscribers": 6319,
-   "views": 2068909,
+   "views": 2071888,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757375999000,
    "subscribers": 6319,
-   "views": 2068952,
+   "views": 2071931,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757462399000,
    "subscribers": 6319,
-   "views": 2068994,
+   "views": 2071973,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757548799000,
    "subscribers": 6320,
-   "views": 2069051,
+   "views": 2072030,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757635199000,
    "subscribers": 6320,
-   "views": 2069120,
+   "views": 2072099,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757721599000,
    "subscribers": 6322,
-   "views": 2069235,
+   "views": 2072214,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757807999000,
    "subscribers": 6321,
-   "views": 2069296,
+   "views": 2072275,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757894399000,
    "subscribers": 6322,
-   "views": 2069371,
+   "views": 2072350,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1757980799000,
    "subscribers": 6322,
-   "views": 2069442,
+   "views": 2072421,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758067199000,
    "subscribers": 6324,
-   "views": 2069501,
+   "views": 2072480,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758153599000,
    "subscribers": 6324,
-   "views": 2069574,
+   "views": 2072553,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758239999000,
    "subscribers": 6323,
-   "views": 2069655,
+   "views": 2072634,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758326399000,
    "subscribers": 6322,
-   "views": 2069734,
+   "views": 2072713,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758412799000,
    "subscribers": 6323,
-   "views": 2069814,
+   "views": 2072793,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758499199000,
    "subscribers": 6324,
-   "views": 2069874,
+   "views": 2072853,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758585599000,
    "subscribers": 6323,
-   "views": 2069930,
+   "views": 2072909,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758671999000,
    "subscribers": 6322,
-   "views": 2069990,
+   "views": 2072969,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758758399000,
    "subscribers": 6321,
-   "views": 2070086,
+   "views": 2073065,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758844799000,
    "subscribers": 6319,
-   "views": 2070132,
+   "views": 2073111,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1758931199000,
    "subscribers": 6320,
-   "views": 2070206,
+   "views": 2073185,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759017599000,
    "subscribers": 6321,
-   "views": 2070270,
+   "views": 2073249,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759103999000,
    "subscribers": 6320,
-   "views": 2070337,
+   "views": 2073316,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759190399000,
    "subscribers": 6321,
-   "views": 2070399,
+   "views": 2073378,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759276799000,
    "subscribers": 6323,
-   "views": 2070475,
+   "views": 2073454,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759363199000,
    "subscribers": 6323,
-   "views": 2070560,
+   "views": 2073539,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759449599000,
    "subscribers": 6325,
-   "views": 2070608,
+   "views": 2073587,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759535999000,
    "subscribers": 6326,
-   "views": 2070712,
+   "views": 2073691,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759622399000,
    "subscribers": 6327,
-   "views": 2070784,
+   "views": 2073763,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759708799000,
    "subscribers": 6326,
-   "views": 2070850,
+   "views": 2073829,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759795199000,
    "subscribers": 6326,
-   "views": 2070933,
+   "views": 2073912,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759881599000,
    "subscribers": 6327,
-   "views": 2071013,
+   "views": 2073992,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1759967999000,
    "subscribers": 6330,
-   "views": 2071093,
+   "views": 2074072,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760054399000,
    "subscribers": 6335,
-   "views": 2071165,
+   "views": 2074144,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760140799000,
    "subscribers": 6340,
-   "views": 2071292,
+   "views": 2074271,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760227199000,
    "subscribers": 6455,
-   "views": 2080517,
+   "views": 2083496,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760313599000,
    "subscribers": 6499,
-   "views": 2085274,
+   "views": 2088253,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760399999000,
    "subscribers": 6516,
-   "views": 2086991,
+   "views": 2089970,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760486399000,
    "subscribers": 6525,
-   "views": 2087793,
+   "views": 2090772,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760572799000,
    "subscribers": 6531,
-   "views": 2088350,
+   "views": 2091329,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760659199000,
    "subscribers": 6531,
-   "views": 2088678,
+   "views": 2091657,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760745599000,
    "subscribers": 6533,
-   "views": 2088912,
+   "views": 2091891,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760831999000,
    "subscribers": 6533,
-   "views": 2089102,
+   "views": 2092081,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1760918399000,
    "subscribers": 6533,
-   "views": 2089217,
+   "views": 2092196,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761004799000,
    "subscribers": 6533,
-   "views": 2089312,
+   "views": 2092291,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761091199000,
    "subscribers": 6534,
-   "views": 2089449,
+   "views": 2092428,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761177599000,
    "subscribers": 6534,
-   "views": 2089588,
+   "views": 2092567,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761263999000,
    "subscribers": 6535,
-   "views": 2089693,
+   "views": 2092672,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761350399000,
    "subscribers": 6537,
-   "views": 2089783,
+   "views": 2092762,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761436799000,
    "subscribers": 6537,
-   "views": 2089922,
+   "views": 2092901,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761523199000,
    "subscribers": 6537,
-   "views": 2090028,
+   "views": 2093007,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761609599000,
    "subscribers": 6537,
-   "views": 2090120,
+   "views": 2093099,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761695999000,
    "subscribers": 6537,
-   "views": 2090195,
+   "views": 2093174,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761782399000,
    "subscribers": 6538,
-   "views": 2090290,
+   "views": 2093269,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761868799000,
    "subscribers": 6537,
-   "views": 2090368,
+   "views": 2093347,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1761955199000,
    "subscribers": 6537,
-   "views": 2090442,
+   "views": 2093421,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762041599000,
    "subscribers": 6537,
-   "views": 2090534,
+   "views": 2093513,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762127999000,
    "subscribers": 6536,
-   "views": 2090640,
+   "views": 2093619,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762214399000,
    "subscribers": 6537,
-   "views": 2090713,
+   "views": 2093692,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762300799000,
    "subscribers": 6537,
-   "views": 2090786,
+   "views": 2093765,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762387199000,
    "subscribers": 6538,
-   "views": 2090861,
+   "views": 2093840,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762473599000,
    "subscribers": 6538,
-   "views": 2090927,
+   "views": 2093906,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762559999000,
    "subscribers": 6538,
-   "views": 2090998,
+   "views": 2093977,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762646399000,
    "subscribers": 6539,
-   "views": 2091068,
+   "views": 2094047,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762732799000,
    "subscribers": 6539,
-   "views": 2091138,
+   "views": 2094117,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762819199000,
    "subscribers": 6538,
-   "views": 2091202,
+   "views": 2094181,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762905599000,
    "subscribers": 6538,
-   "views": 2091276,
+   "views": 2094255,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1762991999000,
    "subscribers": 6540,
-   "views": 2091332,
+   "views": 2094311,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763078399000,
    "subscribers": 6538,
-   "views": 2091395,
+   "views": 2094374,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763164799000,
    "subscribers": 6538,
-   "views": 2091482,
+   "views": 2094461,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763251199000,
    "subscribers": 6536,
-   "views": 2091557,
+   "views": 2094536,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763337599000,
    "subscribers": 6535,
-   "views": 2091624,
+   "views": 2094603,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763423999000,
    "subscribers": 6535,
-   "views": 2091686,
+   "views": 2094665,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763510399000,
    "subscribers": 6536,
-   "views": 2091767,
+   "views": 2094746,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763596799000,
    "subscribers": 6535,
-   "views": 2091825,
+   "views": 2094804,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763683199000,
    "subscribers": 6535,
-   "views": 2091902,
+   "views": 2094881,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763769599000,
    "subscribers": 6537,
-   "views": 2091970,
+   "views": 2094949,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763855999000,
    "subscribers": 6537,
-   "views": 2092102,
+   "views": 2095081,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1763942399000,
    "subscribers": 6538,
-   "views": 2092217,
+   "views": 2095196,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764028799000,
    "subscribers": 6538,
-   "views": 2092333,
+   "views": 2095312,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764115199000,
    "subscribers": 6542,
-   "views": 2092427,
+   "views": 2095406,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764201599000,
    "subscribers": 6542,
-   "views": 2092546,
+   "views": 2095525,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764287999000,
    "subscribers": 6543,
-   "views": 2092612,
+   "views": 2095591,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764374399000,
    "subscribers": 6544,
-   "views": 2092760,
+   "views": 2095739,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764460799000,
    "subscribers": 6545,
-   "views": 2092894,
+   "views": 2095873,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764547199000,
    "subscribers": 6546,
-   "views": 2092974,
+   "views": 2095953,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764633599000,
    "subscribers": 6546,
-   "views": 2093081,
+   "views": 2096060,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764719999000,
    "subscribers": 6547,
-   "views": 2093163,
+   "views": 2096142,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764806399000,
    "subscribers": 6547,
-   "views": 2093258,
+   "views": 2096237,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764892799000,
    "subscribers": 6547,
-   "views": 2093339,
+   "views": 2096318,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1764979199000,
    "subscribers": 6546,
-   "views": 2093439,
+   "views": 2096418,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765065599000,
    "subscribers": 6545,
-   "views": 2093498,
+   "views": 2096477,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765151999000,
    "subscribers": 6545,
-   "views": 2093571,
+   "views": 2096550,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765238399000,
    "subscribers": 6545,
-   "views": 2093646,
+   "views": 2096625,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765324799000,
    "subscribers": 6544,
-   "views": 2093714,
+   "views": 2096693,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765411199000,
    "subscribers": 6545,
-   "views": 2093795,
+   "views": 2096774,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765497599000,
    "subscribers": 6545,
-   "views": 2093863,
+   "views": 2096842,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765583999000,
    "subscribers": 6546,
-   "views": 2093976,
+   "views": 2096955,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765670399000,
    "subscribers": 6546,
-   "views": 2094081,
+   "views": 2097060,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765756799000,
    "subscribers": 6547,
-   "views": 2094131,
+   "views": 2097110,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765843199000,
    "subscribers": 6547,
-   "views": 2094205,
+   "views": 2097184,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1765929599000,
    "subscribers": 6547,
-   "views": 2094282,
+   "views": 2097261,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766015999000,
    "subscribers": 6547,
-   "views": 2094359,
+   "views": 2097338,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766102399000,
    "subscribers": 6549,
-   "views": 2094449,
+   "views": 2097428,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766188799000,
    "subscribers": 6553,
-   "views": 2094591,
+   "views": 2097570,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766275199000,
    "subscribers": 6560,
-   "views": 2095059,
+   "views": 2098038,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766361599000,
    "subscribers": 6563,
-   "views": 2095266,
+   "views": 2098245,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766447999000,
    "subscribers": 6564,
-   "views": 2095401,
+   "views": 2098380,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766534399000,
    "subscribers": 6563,
-   "views": 2095517,
+   "views": 2098496,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766620799000,
    "subscribers": 6563,
-   "views": 2095589,
+   "views": 2098568,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766707199000,
    "subscribers": 6562,
-   "views": 2095652,
+   "views": 2098631,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766793599000,
    "subscribers": 6562,
-   "views": 2095722,
+   "views": 2098701,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766879999000,
    "subscribers": 6564,
-   "views": 2095809,
+   "views": 2098788,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1766966399000,
    "subscribers": 6565,
-   "views": 2095878,
+   "views": 2098857,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767052799000,
    "subscribers": 6566,
-   "views": 2095928,
+   "views": 2098907,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767139199000,
    "subscribers": 6566,
-   "views": 2095972,
+   "views": 2098951,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767225599000,
    "subscribers": 6565,
-   "views": 2096006,
+   "views": 2098985,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767311999000,
    "subscribers": 6564,
-   "views": 2096078,
+   "views": 2099057,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767398399000,
    "subscribers": 6564,
-   "views": 2096145,
+   "views": 2099124,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767484799000,
    "subscribers": 6563,
-   "views": 2096208,
+   "views": 2099187,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767571199000,
    "subscribers": 6562,
-   "views": 2096264,
+   "views": 2099243,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767657599000,
    "subscribers": 6562,
-   "views": 2096349,
+   "views": 2099328,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767743999000,
    "subscribers": 6562,
-   "views": 2096413,
+   "views": 2099392,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767830399000,
    "subscribers": 6563,
-   "views": 2096501,
+   "views": 2099480,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1767916799000,
    "subscribers": 6563,
-   "views": 2096581,
+   "views": 2099560,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768003199000,
    "subscribers": 6565,
-   "views": 2096672,
+   "views": 2099651,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768089599000,
    "subscribers": 6565,
-   "views": 2096779,
+   "views": 2099758,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768175999000,
    "subscribers": 6565,
-   "views": 2096866,
+   "views": 2099845,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768262399000,
    "subscribers": 6565,
-   "views": 2096955,
+   "views": 2099934,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768348799000,
    "subscribers": 6565,
-   "views": 2097084,
+   "views": 2100063,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768435199000,
    "subscribers": 6565,
-   "views": 2097200,
+   "views": 2100179,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768521599000,
    "subscribers": 6565,
-   "views": 2097312,
+   "views": 2100291,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768607999000,
    "subscribers": 6568,
-   "views": 2097451,
+   "views": 2100430,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768694399000,
    "subscribers": 6585,
-   "views": 2099253,
+   "views": 2102232,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768780799000,
    "subscribers": 6585,
-   "views": 2099503,
+   "views": 2102482,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768867199000,
    "subscribers": 6587,
-   "views": 2099677,
+   "views": 2102656,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1768953599000,
    "subscribers": 6587,
-   "views": 2099901,
+   "views": 2102880,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769039999000,
    "subscribers": 6589,
-   "views": 2100052,
+   "views": 2103031,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769126399000,
    "subscribers": 6592,
-   "views": 2100183,
+   "views": 2103162,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769212799000,
    "subscribers": 6592,
-   "views": 2100312,
+   "views": 2103291,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769299199000,
    "subscribers": 6593,
-   "views": 2100405,
+   "views": 2103384,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769385599000,
    "subscribers": 6594,
-   "views": 2100477,
+   "views": 2103456,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769471999000,
    "subscribers": 6594,
-   "views": 2100548,
+   "views": 2103527,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769558399000,
    "subscribers": 6593,
-   "views": 2100626,
+   "views": 2103605,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769644799000,
    "subscribers": 6593,
-   "views": 2100684,
+   "views": 2103663,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769731199000,
    "subscribers": 6593,
-   "views": 2100734,
+   "views": 2103713,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769817599000,
    "subscribers": 6594,
-   "views": 2100779,
+   "views": 2103758,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769903999000,
    "subscribers": 6594,
-   "views": 2100857,
+   "views": 2103836,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1769990399000,
    "subscribers": 6595,
-   "views": 2100921,
+   "views": 2103900,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770076799000,
    "subscribers": 6596,
-   "views": 2101015,
+   "views": 2103994,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770163199000,
    "subscribers": 6595,
-   "views": 2101107,
+   "views": 2104086,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770249599000,
    "subscribers": 6595,
-   "views": 2101178,
+   "views": 2104157,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770335999000,
    "subscribers": 6595,
-   "views": 2101241,
+   "views": 2104220,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770422399000,
    "subscribers": 6597,
-   "views": 2101310,
+   "views": 2104289,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770508799000,
    "subscribers": 6599,
-   "views": 2101386,
+   "views": 2104365,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770595199000,
    "subscribers": 6600,
-   "views": 2101452,
+   "views": 2104431,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770681599000,
    "subscribers": 6600,
-   "views": 2101514,
+   "views": 2104493,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770767999000,
    "subscribers": 6601,
-   "views": 2101569,
+   "views": 2104548,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770854399000,
    "subscribers": 6602,
-   "views": 2101654,
+   "views": 2104633,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1770940799000,
    "subscribers": 6602,
-   "views": 2101772,
+   "views": 2104751,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771027199000,
    "subscribers": 6602,
-   "views": 2101910,
+   "views": 2104889,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771113599000,
    "subscribers": 6601,
-   "views": 2102016,
+   "views": 2104995,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771199999000,
    "subscribers": 6601,
-   "views": 2102088,
+   "views": 2105067,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771286399000,
    "subscribers": 6603,
-   "views": 2102162,
+   "views": 2105141,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771372799000,
    "subscribers": 6604,
-   "views": 2102229,
+   "views": 2105208,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771459199000,
    "subscribers": 6603,
-   "views": 2102297,
+   "views": 2105276,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771545599000,
    "subscribers": 6604,
-   "views": 2102349,
+   "views": 2105328,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771631999000,
    "subscribers": 6604,
-   "views": 2102427,
+   "views": 2105406,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771718399000,
    "subscribers": 6604,
-   "views": 2102638,
+   "views": 2105617,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771804799000,
    "subscribers": 6606,
-   "views": 2102699,
+   "views": 2105678,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771891199000,
    "subscribers": 6607,
-   "views": 2102772,
+   "views": 2105751,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1771977599000,
    "subscribers": 6609,
-   "views": 2102842,
+   "views": 2105821,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772063999000,
    "subscribers": 6611,
-   "views": 2102899,
+   "views": 2105878,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772150399000,
    "subscribers": 6612,
-   "views": 2102982,
+   "views": 2105961,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772236799000,
    "subscribers": 6614,
-   "views": 2103052,
+   "views": 2106031,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772323199000,
    "subscribers": 6614,
-   "views": 2103107,
+   "views": 2106086,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772409599000,
    "subscribers": 6615,
-   "views": 2103167,
+   "views": 2106146,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772495999000,
    "subscribers": 6616,
-   "views": 2103240,
+   "views": 2106219,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772582399000,
    "subscribers": 6617,
-   "views": 2103295,
+   "views": 2106274,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772668799000,
    "subscribers": 6617,
-   "views": 2103335,
+   "views": 2106314,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772755199000,
    "subscribers": 6617,
-   "views": 2103404,
+   "views": 2106383,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772841599000,
    "subscribers": 6618,
-   "views": 2103464,
+   "views": 2106443,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1772927999000,
    "subscribers": 6618,
-   "views": 2103532,
+   "views": 2106511,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773014399000,
    "subscribers": 6618,
-   "views": 2103560,
+   "views": 2106539,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773100799000,
    "subscribers": 6617,
-   "views": 2103629,
+   "views": 2106608,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773187199000,
    "subscribers": 6618,
-   "views": 2103689,
+   "views": 2106668,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773273599000,
    "subscribers": 6618,
-   "views": 2103731,
+   "views": 2106710,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773359999000,
    "subscribers": 6617,
-   "views": 2103783,
+   "views": 2106762,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773446399000,
    "subscribers": 6615,
-   "views": 2103838,
+   "views": 2106817,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773532799000,
    "subscribers": 6618,
-   "views": 2103902,
+   "views": 2106881,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773619199000,
    "subscribers": 6617,
-   "views": 2103950,
+   "views": 2106929,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773705599000,
    "subscribers": 6617,
-   "views": 2103982,
+   "views": 2106961,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773791999000,
    "subscribers": 6616,
-   "views": 2104033,
+   "views": 2107012,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773878399000,
    "subscribers": 6616,
-   "views": 2104089,
+   "views": 2107068,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1773964799000,
    "subscribers": 6616,
-   "views": 2104121,
+   "views": 2107100,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774051199000,
    "subscribers": 6615,
-   "views": 2104163,
+   "views": 2107142,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774137599000,
    "subscribers": 6614,
-   "views": 2104222,
+   "views": 2107201,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774223999000,
    "subscribers": 6616,
-   "views": 2104273,
+   "views": 2107252,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774310399000,
    "subscribers": 6615,
-   "views": 2104309,
+   "views": 2107288,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774396799000,
    "subscribers": 6615,
-   "views": 2104360,
+   "views": 2107339,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774483199000,
    "subscribers": 6615,
-   "views": 2104393,
+   "views": 2107372,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774569599000,
    "subscribers": 6615,
-   "views": 2104447,
+   "views": 2107426,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774655999000,
    "subscribers": 6616,
-   "views": 2104493,
+   "views": 2107472,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774742399000,
    "subscribers": 6616,
-   "views": 2104556,
+   "views": 2107535,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774828799000,
    "subscribers": 6617,
-   "views": 2104598,
+   "views": 2107577,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1774915199000,
    "subscribers": 6618,
-   "views": 2104644,
+   "views": 2107623,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775001599000,
    "subscribers": 6619,
-   "views": 2104698,
+   "views": 2107677,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775087999000,
    "subscribers": 6618,
-   "views": 2104746,
+   "views": 2107725,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775174399000,
    "subscribers": 6619,
-   "views": 2104785,
+   "views": 2107764,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775260799000,
    "subscribers": 6619,
-   "views": 2104847,
+   "views": 2107826,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775347199000,
    "subscribers": 6618,
-   "views": 2104889,
+   "views": 2107868,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775433599000,
    "subscribers": 6617,
-   "views": 2104936,
+   "views": 2107915,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775519999000,
    "subscribers": 6618,
-   "views": 2104977,
+   "views": 2107956,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775606399000,
    "subscribers": 6617,
-   "views": 2105017,
+   "views": 2107996,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775692799000,
    "subscribers": 6619,
-   "views": 2105052,
+   "views": 2108031,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775779199000,
    "subscribers": 6619,
-   "views": 2105106,
+   "views": 2108085,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775865599000,
    "subscribers": 6619,
-   "views": 2105171,
+   "views": 2108150,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1775951999000,
    "subscribers": 6620,
-   "views": 2105243,
+   "views": 2108222,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776038399000,
    "subscribers": 6619,
-   "views": 2105305,
+   "views": 2108284,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776124799000,
    "subscribers": 6619,
-   "views": 2105366,
+   "views": 2108345,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776211199000,
    "subscribers": 6618,
-   "views": 2105412,
+   "views": 2108391,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776297599000,
    "subscribers": 6619,
-   "views": 2105468,
+   "views": 2108447,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776383999000,
    "subscribers": 6619,
-   "views": 2105528,
+   "views": 2108507,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776470399000,
    "subscribers": 6619,
-   "views": 2105592,
+   "views": 2108571,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776556799000,
    "subscribers": 6619,
-   "views": 2105651,
+   "views": 2108630,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776643199000,
    "subscribers": 6620,
-   "views": 2105717,
+   "views": 2108696,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776729599000,
    "subscribers": 6622,
-   "views": 2105802,
+   "views": 2108781,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776815999000,
    "subscribers": 6621,
-   "views": 2105884,
+   "views": 2108863,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776902399000,
    "subscribers": 6622,
-   "views": 2105981,
+   "views": 2108960,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1776988799000,
    "subscribers": 6623,
-   "views": 2106083,
+   "views": 2109062,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777075199000,
    "subscribers": 6623,
-   "views": 2106244,
+   "views": 2109223,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777161599000,
    "subscribers": 6644,
-   "views": 2106878,
+   "views": 2109857,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777247999000,
    "subscribers": 6647,
-   "views": 2107073,
+   "views": 2110052,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777334399000,
    "subscribers": 6648,
-   "views": 2107146,
+   "views": 2110125,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777420799000,
    "subscribers": 6648,
-   "views": 2107209,
+   "views": 2110188,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777507199000,
    "subscribers": 6648,
-   "views": 2107278,
+   "views": 2110257,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777593599000,
    "subscribers": 6647,
-   "views": 2107319,
+   "views": 2110298,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777679999000,
    "subscribers": 6647,
-   "views": 2107378,
+   "views": 2110357,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777766399000,
    "subscribers": 6647,
-   "views": 2107431,
+   "views": 2110410,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777852799000,
    "subscribers": 6647,
-   "views": 2107471,
+   "views": 2110450,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1777939199000,
    "subscribers": 6647,
-   "views": 2107489,
+   "views": 2110468,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778025599000,
    "subscribers": 6647,
-   "views": 2107522,
+   "views": 2110501,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778111999000,
    "subscribers": 6648,
-   "views": 2107554,
+   "views": 2110533,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778198399000,
    "subscribers": 6648,
-   "views": 2107587,
+   "views": 2110566,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778284799000,
    "subscribers": 6647,
-   "views": 2107632,
+   "views": 2110611,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778371199000,
    "subscribers": 6648,
-   "views": 2107667,
+   "views": 2110646,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778457599000,
    "subscribers": 6650,
-   "views": 2107712,
+   "views": 2110691,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778543999000,
    "subscribers": 6650,
-   "views": 2107746,
+   "views": 2110725,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778630399000,
    "subscribers": 6650,
-   "views": 2107781,
+   "views": 2110760,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778716799000,
    "subscribers": 6651,
-   "views": 2107823,
+   "views": 2110802,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778803199000,
    "subscribers": 6651,
-   "views": 2107864,
+   "views": 2110843,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778889599000,
    "subscribers": 6652,
-   "views": 2107900,
+   "views": 2110879,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1778975999000,
    "subscribers": 6652,
-   "views": 2107953,
+   "views": 2110932,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779062399000,
    "subscribers": 6653,
-   "views": 2107991,
+   "views": 2110970,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779148799000,
    "subscribers": 6652,
-   "views": 2108034,
+   "views": 2111013,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779235199000,
    "subscribers": 6652,
-   "views": 2108070,
+   "views": 2111049,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779321599000,
    "subscribers": 6652,
-   "views": 2108104,
+   "views": 2111083,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779407999000,
    "subscribers": 6651,
-   "views": 2108136,
+   "views": 2111115,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779494399000,
    "subscribers": 6650,
-   "views": 2108162,
+   "views": 2111141,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779580799000,
    "subscribers": 6650,
-   "views": 2108185,
+   "views": 2111164,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779667199000,
    "subscribers": 6651,
-   "views": 2108235,
+   "views": 2111214,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779753599000,
    "subscribers": 6651,
-   "views": 2108269,
+   "views": 2111248,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779839999000,
    "subscribers": 6651,
-   "views": 2108314,
+   "views": 2111293,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1779926399000,
    "subscribers": 6652,
-   "views": 2108345,
+   "views": 2111324,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780012799000,
    "subscribers": 6650,
-   "views": 2108368,
+   "views": 2111347,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780099199000,
    "subscribers": 6650,
-   "views": 2108387,
+   "views": 2111366,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780185599000,
    "subscribers": 6650,
-   "views": 2108411,
+   "views": 2111390,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780271999000,
    "subscribers": 6651,
-   "views": 2108438,
+   "views": 2111417,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780358399000,
    "subscribers": 6650,
-   "views": 2108465,
+   "views": 2111444,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780444799000,
    "subscribers": 6650,
-   "views": 2108495,
+   "views": 2111474,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780531199000,
    "subscribers": 6650,
-   "views": 2108525,
+   "views": 2111504,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780617599000,
    "subscribers": 6650,
-   "views": 2108563,
+   "views": 2111542,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780703999000,
    "subscribers": 6648,
-   "views": 2108577,
+   "views": 2111556,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780790399000,
    "subscribers": 6647,
-   "views": 2108609,
+   "views": 2111588,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780876799000,
    "subscribers": 6647,
-   "views": 2108646,
+   "views": 2111625,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1780963199000,
    "subscribers": 6647,
-   "views": 2108681,
+   "views": 2111660,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781049599000,
    "subscribers": 6647,
-   "views": 2108713,
+   "views": 2111692,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781135999000,
    "subscribers": 6647,
-   "views": 2108759,
+   "views": 2111738,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781222399000,
    "subscribers": 6647,
-   "views": 2108800,
+   "views": 2111779,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781308799000,
    "subscribers": 6647,
-   "views": 2108839,
+   "views": 2111818,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781395199000,
    "subscribers": 6647,
-   "views": 2108919,
+   "views": 2111898,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781481599000,
    "subscribers": 6647,
-   "views": 2108944,
+   "views": 2111923,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781567999000,
    "subscribers": 6647,
-   "views": 2108985,
+   "views": 2111964,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781654399000,
    "subscribers": 6648,
-   "views": 2109012,
+   "views": 2111991,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781740799000,
    "subscribers": 6649,
-   "views": 2109043,
+   "views": 2112022,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781827199000,
    "subscribers": 6649,
-   "views": 2109090,
+   "views": 2112069,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781913599000,
    "subscribers": 6649,
-   "views": 2109121,
+   "views": 2112100,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1781999999000,
    "subscribers": 6649,
-   "views": 2109164,
+   "views": 2112143,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782086399000,
    "subscribers": 6649,
-   "views": 2109196,
+   "views": 2112175,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782172799000,
    "subscribers": 6649,
-   "views": 2109256,
+   "views": 2112235,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782259199000,
    "subscribers": 6649,
-   "views": 2109295,
+   "views": 2112274,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782345599000,
    "subscribers": 6649,
-   "views": 2109347,
+   "views": 2112326,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782431999000,
    "subscribers": 6648,
-   "views": 2109378,
+   "views": 2112357,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782518399000,
    "subscribers": 6648,
-   "views": 2109404,
+   "views": 2112383,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782604799000,
    "subscribers": 6647,
-   "views": 2109436,
+   "views": 2112415,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782691199000,
    "subscribers": 6648,
-   "views": 2109467,
+   "views": 2112446,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782777599000,
    "subscribers": 6648,
-   "views": 2109507,
+   "views": 2112486,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782863999000,
    "subscribers": 6649,
-   "views": 2109556,
+   "views": 2112535,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1782950399000,
    "subscribers": 6649,
-   "views": 2109601,
+   "views": 2112580,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783036799000,
    "subscribers": 6649,
-   "views": 2109628,
+   "views": 2112607,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783123199000,
    "subscribers": 6649,
-   "views": 2109660,
+   "views": 2112639,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783209599000,
    "subscribers": 6649,
-   "views": 2109698,
+   "views": 2112677,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783295999000,
    "subscribers": 6649,
-   "views": 2109721,
+   "views": 2112700,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783382399000,
    "subscribers": 6649,
-   "views": 2109749,
+   "views": 2112728,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783468799000,
    "subscribers": 6650,
-   "views": 2109773,
+   "views": 2112752,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783555199000,
    "subscribers": 6650,
-   "views": 2109815,
+   "views": 2112794,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783641599000,
    "subscribers": 6649,
-   "views": 2109866,
+   "views": 2112845,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783727999000,
    "subscribers": 6648,
-   "views": 2109891,
+   "views": 2112870,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783814399000,
    "subscribers": 6648,
-   "views": 2109918,
+   "views": 2112897,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783900799000,
    "subscribers": 6649,
-   "views": 2109952,
+   "views": 2112931,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1783987199000,
    "subscribers": 6648,
-   "views": 2109988,
+   "views": 2112967,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784073599000,
    "subscribers": 6649,
-   "views": 2110018,
+   "views": 2112997,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784159999000,
    "subscribers": 6649,
-   "views": 2110051,
+   "views": 2113030,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784246399000,
    "subscribers": 6650,
-   "views": 2110095,
+   "views": 2113074,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784332799000,
    "subscribers": 6650,
-   "views": 2110144,
+   "views": 2113123,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784419199000,
    "subscribers": 6650,
-   "views": 2110174,
+   "views": 2113153,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784505599000,
    "subscribers": 6651,
-   "views": 2110207,
+   "views": 2113186,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784591999000,
    "subscribers": 6651,
-   "views": 2110232,
+   "views": 2113211,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784678399000,
    "subscribers": 6651,
-   "views": 2110256,
+   "views": 2113235,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784764799000,
    "subscribers": 6652,
-   "views": 2110308,
+   "views": 2113287,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784851199000,
    "subscribers": 6653,
-   "views": 2110356,
+   "views": 2113335,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1784937599000,
    "subscribers": 6653,
-   "views": 2110416,
+   "views": 2113395,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785023999000,
    "subscribers": 6651,
-   "views": 2110474,
+   "views": 2113453,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785110399000,
    "subscribers": 6651,
-   "views": 2110539,
+   "views": 2113518,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785196799000,
    "subscribers": 6651,
-   "views": 2110640,
+   "views": 2113619,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785283199000,
    "subscribers": 6652,
-   "views": 2110709,
+   "views": 2113688,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785369599000,
    "subscribers": 6653,
-   "views": 2110768,
+   "views": 2113747,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785455999000,
    "subscribers": 6654,
-   "views": 2110813,
+   "views": 2113792,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785542399000,
    "subscribers": 6655,
-   "views": 2110870,
+   "views": 2113849,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785628799000,
    "subscribers": 6656,
-   "views": 2110920,
+   "views": 2113899,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785715199000,
    "subscribers": 6656,
-   "views": 2110968,
+   "views": 2113947,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785801599000,
    "subscribers": 6656,
-   "views": 2111035,
+   "views": 2114014,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785887999000,
    "subscribers": 6654,
-   "views": 2111079,
+   "views": 2114058,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1785974399000,
    "subscribers": 6656,
-   "views": 2111116,
+   "views": 2114095,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786060799000,
    "subscribers": 6656,
-   "views": 2111161,
+   "views": 2114140,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786147199000,
    "subscribers": 6656,
-   "views": 2111219,
+   "views": 2114198,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786233599000,
    "subscribers": 6656,
-   "views": 2111296,
+   "views": 2114275,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786319999000,
    "subscribers": 6658,
-   "views": 2111365,
+   "views": 2114344,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786406399000,
    "subscribers": 6657,
-   "views": 2111444,
+   "views": 2114423,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786492799000,
    "subscribers": 6658,
-   "views": 2111491,
+   "views": 2114470,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786579199000,
    "subscribers": 6656,
-   "views": 2111529,
+   "views": 2114508,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786665599000,
    "subscribers": 6656,
-   "views": 2111569,
+   "views": 2114548,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786751999000,
    "subscribers": 6657,
-   "views": 2111614,
+   "views": 2114593,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786838399000,
    "subscribers": 6658,
-   "views": 2111661,
+   "views": 2114640,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1786924799000,
    "subscribers": 6659,
-   "views": 2111703,
+   "views": 2114682,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787011199000,
    "subscribers": 6660,
-   "views": 2111743,
+   "views": 2114722,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787097599000,
    "subscribers": 6661,
-   "views": 2111789,
+   "views": 2114768,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787183999000,
    "subscribers": 6662,
-   "views": 2111830,
+   "views": 2114809,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787270399000,
    "subscribers": 6661,
-   "views": 2111873,
+   "views": 2114852,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787356799000,
    "subscribers": 6662,
-   "views": 2111931,
+   "views": 2114910,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787443199000,
    "subscribers": 6662,
-   "views": 2111978,
+   "views": 2114957,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787529599000,
    "subscribers": 6661,
-   "views": 2112014,
+   "views": 2114993,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787615999000,
    "subscribers": 6661,
-   "views": 2112048,
+   "views": 2115027,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787702399000,
    "subscribers": 6662,
-   "views": 2112103,
+   "views": 2115082,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787788799000,
    "subscribers": 6664,
-   "views": 2112136,
+   "views": 2115115,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787875199000,
    "subscribers": 6664,
-   "views": 2112199,
+   "views": 2115178,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1787961599000,
    "subscribers": 6665,
-   "views": 2112280,
+   "views": 2115259,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788047999000,
    "subscribers": 6664,
-   "views": 2112356,
+   "views": 2115335,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788134399000,
    "subscribers": 6664,
-   "views": 2112433,
+   "views": 2115412,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788220799000,
    "subscribers": 6665,
-   "views": 2112503,
+   "views": 2115482,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788307199000,
    "subscribers": 6666,
-   "views": 2112540,
+   "views": 2115519,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788393599000,
    "subscribers": 6666,
-   "views": 2112587,
+   "views": 2115566,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788479999000,
    "subscribers": 6665,
-   "views": 2112647,
+   "views": 2115626,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788566399000,
    "subscribers": 6665,
-   "views": 2112682,
+   "views": 2115661,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788652799000,
    "subscribers": 6666,
-   "views": 2112716,
+   "views": 2115695,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788739199000,
    "subscribers": 6666,
-   "views": 2112752,
+   "views": 2115731,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788825599000,
    "subscribers": 6667,
-   "views": 2112805,
+   "views": 2115784,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788911999000,
    "subscribers": 6666,
-   "views": 2112843,
+   "views": 2115822,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1788998399000,
    "subscribers": 6666,
-   "views": 2112887,
+   "views": 2115866,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789084799000,
    "subscribers": 6666,
-   "views": 2112931,
+   "views": 2115910,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789171199000,
    "subscribers": 6667,
-   "views": 2112971,
+   "views": 2115950,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789257599000,
    "subscribers": 6668,
-   "views": 2113006,
+   "views": 2115985,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789343999000,
    "subscribers": 6668,
-   "views": 2113037,
+   "views": 2116016,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789430399000,
    "subscribers": 6668,
-   "views": 2113069,
+   "views": 2116048,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789516799000,
    "subscribers": 6668,
-   "views": 2113112,
+   "views": 2116091,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789603199000,
    "subscribers": 6669,
-   "views": 2113158,
+   "views": 2116137,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789689599000,
    "subscribers": 6669,
-   "views": 2113378,
+   "views": 2116357,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789775999000,
    "subscribers": 6668,
-   "views": 2113729,
+   "views": 2116708,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789862399000,
    "subscribers": 6668,
-   "views": 2114369,
+   "views": 2117348,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1789948799000,
    "subscribers": 6667,
-   "views": 2114769,
+   "views": 2117748,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790035199000,
    "subscribers": 6669,
-   "views": 2115805,
+   "views": 2118784,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790121599000,
    "subscribers": 6671,
-   "views": 2116672,
+   "views": 2119651,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790207999000,
    "subscribers": 6673,
-   "views": 2118136,
+   "views": 2121115,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790294399000,
    "subscribers": 6676,
-   "views": 2121184,
+   "views": 2124163,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790380799000,
    "subscribers": 6678,
-   "views": 2123492,
+   "views": 2126471,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790467199000,
    "subscribers": 6680,
-   "views": 2125090,
+   "views": 2128069,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790553599000,
    "subscribers": 6681,
-   "views": 2126166,
+   "views": 2129145,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790639999000,
    "subscribers": 6682,
-   "views": 2127426,
+   "views": 2130405,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790726399000,
    "subscribers": 6683,
-   "views": 2128669,
+   "views": 2131648,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790812799000,
    "subscribers": 6685,
-   "views": 2130242,
+   "views": 2133221,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790899199000,
    "subscribers": 6686,
-   "views": 2134883,
+   "views": 2137862,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1790985599000,
    "subscribers": 6686,
-   "views": 2135926,
+   "views": 2138905,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791071999000,
    "subscribers": 6690,
-   "views": 2136607,
+   "views": 2139586,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791158399000,
    "subscribers": 6690,
-   "views": 2137223,
+   "views": 2140202,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791244799000,
    "subscribers": 6690,
-   "views": 2138265,
+   "views": 2141244,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791331199000,
    "subscribers": 6693,
-   "views": 2139015,
+   "views": 2141994,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791417599000,
    "subscribers": 6693,
-   "views": 2140358,
+   "views": 2143337,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791503999000,
    "subscribers": 6695,
-   "views": 2141255,
+   "views": 2144234,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791590399000,
    "subscribers": 6697,
-   "views": 2144398,
+   "views": 2147377,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791676799000,
    "subscribers": 6698,
-   "views": 2144985,
+   "views": 2147964,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791763199000,
    "subscribers": 6699,
-   "views": 2145352,
+   "views": 2148331,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791849599000,
    "subscribers": 6700,
-   "views": 2145734,
+   "views": 2148713,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1791935999000,
    "subscribers": 6700,
-   "views": 2146112,
+   "views": 2149091,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792022399000,
    "subscribers": 6709,
-   "views": 2146927,
+   "views": 2149906,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792108799000,
    "subscribers": 6795,
-   "views": 2472690,
+   "views": 2475669,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792195199000,
    "subscribers": 11332,
-   "views": 2893604,
+   "views": 2896583,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792281599000,
    "subscribers": 16167,
-   "views": 4796400,
+   "views": 4799379,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792367999000,
    "subscribers": 16222,
-   "views": 5756424,
+   "views": 5759403,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792454399000,
    "subscribers": 16443,
-   "views": 7606746,
+   "views": 7609725,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792540799000,
    "subscribers": 16559,
-   "views": 9156818,
+   "views": 9159797,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792627199000,
    "subscribers": 16731,
-   "views": 10247391,
+   "views": 10250370,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792713599000,
    "subscribers": 16823,
-   "views": 11684086,
+   "views": 11687065,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792799999000,
    "subscribers": 16876,
-   "views": 12706982,
+   "views": 12709961,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792886399000,
    "subscribers": 16891,
-   "views": 12955091,
+   "views": 12958070,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1792972799000,
    "subscribers": 16897,
-   "views": 12963790,
+   "views": 12966769,
    "videos": null,
    "backfilled": true
   },
   {
    "t": 1793059199000,
    "subscribers": 16900,
-   "views": 12969235,
+   "views": 12972214,
    "videos": null,
    "backfilled": true
   },
@@ -7801,6 +7801,12 @@
    "t": 1793248276907,
    "subscribers": 16900,
    "views": 12969235,
+   "videos": 701
+  },
+  {
+   "t": 1793251296605,
+   "subscribers": 16900,
+   "views": 12972214,
    "videos": 701
   }
  ]
