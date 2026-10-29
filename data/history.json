@@ -1,14 +1,7 @@
 {
  "sample": false,
- "updatedAt": "2026-10-28T23:56:45.051Z",
+ "updatedAt": "2026-10-29T00:26:46.937Z",
  "points": [
-  {
-   "t": 1698623999000,
-   "subscribers": 5120,
-   "views": 1929889,
-   "videos": null,
-   "backfilled": true
-  },
   {
    "t": 1698710399000,
    "subscribers": 5118,
@@ -7770,6 +7763,12 @@
   },
   {
    "t": 1793231805051,
+   "subscribers": 16900,
+   "views": 12969235,
+   "videos": 701
+  },
+  {
+   "t": 1793233606937,
    "subscribers": 16900,
    "views": 12969235,
    "videos": 701
