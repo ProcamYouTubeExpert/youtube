@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Pulls channel stats from the YouTube Data API and, when OAuth credentials are
-// set, watch time / traffic / audience data from the YouTube Analytics API.
+// set, watch time / audience data from the YouTube Analytics API.
 // Writes data/latest.json, data/history.json and data/analytics.json for the
 // dashboard. Run on a schedule by .github/workflows/update-data.yml.
 //
@@ -67,7 +67,7 @@ async function main() {
     await maybeBackfillHistory(token, channel, now);
     await maybeUpdateAnalytics(token, now);
   } else {
-    console.log("No OAuth credentials; skipping YouTube Analytics (watch time, traffic, audience).");
+    console.log("No OAuth credentials; skipping YouTube Analytics (watch time, audience).");
   }
 }
 
@@ -283,16 +283,15 @@ async function maybeUpdateAnalytics(token, now) {
   };
 
   const metrics = "views,estimatedMinutesWatched,averageViewDuration,subscribersGained,subscribersLost";
-  const [totals, daily, traffic, countries, ages, genders] = await Promise.all([
+  const [totals, daily, countries, ages, genders] = await Promise.all([
     report("totals", { metrics }),
     report("daily", { metrics, dimensions: "day", sort: "day" }),
-    report("traffic", { metrics: "views", dimensions: "insightTrafficSourceType", sort: "-views" }),
     report("countries", { metrics: "views", dimensions: "country", sort: "-views", maxResults: "10" }),
     report("age", { metrics: "viewerPercentage", dimensions: "ageGroup", sort: "ageGroup" }),
     report("gender", { metrics: "viewerPercentage", dimensions: "gender", sort: "-viewerPercentage" }),
   ]);
 
-  if ([totals, daily, traffic, countries, ages, genders].every((r) => r === null)) {
+  if ([totals, daily, countries, ages, genders].every((r) => r === null)) {
     throw new Error(`Every YouTube Analytics report failed; keeping the previous analytics.json.\n${errors.join("\n")}`);
   }
 
@@ -316,7 +315,6 @@ async function maybeUpdateAnalytics(token, now) {
       subscribersGained: d.subscribersGained,
       subscribersLost: d.subscribersLost,
     })),
-    trafficSources: (traffic || []).map((r) => ({ source: r.insightTrafficSourceType, views: r.views })),
     countries: (countries || []).map((r) => ({ country: r.country, views: r.views })),
     ageGroups: (ages || []).map((r) => ({ group: r.ageGroup, percent: r.viewerPercentage })),
     gender: (genders || []).map((r) => ({ gender: r.gender, percent: r.viewerPercentage })),

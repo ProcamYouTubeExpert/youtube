@@ -1,11 +1,11 @@
 # Procam YouTube Dashboard
 
-A dashboard for the Procam International YouTube channel: subscribers, views, growth over time, top videos, watch time, traffic sources and audience. It runs entirely on GitHub: no server, no database, no cost.
+A dashboard for the Procam International YouTube channel: subscribers, views, growth over time, top videos, watch time and audience. It runs entirely on GitHub: no server, no database, no cost.
 
 ```
 GitHub Actions (every ~15 min)
   └─ scripts/fetch-data.mjs ── YouTube Data API ───────── subscribers, views, videos
-                            └─ YouTube Analytics API ──── watch time, traffic, audience (every 6 h)
+                            └─ YouTube Analytics API ──── watch time, audience (every 6 h)
   └─ commits data/*.json to this repo
 GitHub Pages
   └─ index.html reads data/*.json and draws the dashboard
@@ -20,7 +20,7 @@ Until credentials are added, the site shows **sample data** (marked with a banne
 |---|---|---|
 | Subscribers, total views, video count, per-video views/likes/comments | YouTube Data API | Every ~15 min automatically; instantly with **Refresh live** |
 | Subscriber & view growth charts | Snapshots saved by the scheduled job | Every ~15 min |
-| Watch time, subscribers gained/lost, traffic sources, countries, age/gender | YouTube Analytics API | Every 6 h, but YouTube itself reports this 1–3 days late |
+| Watch time, subscribers gained/lost, countries, age/gender | YouTube Analytics API | Every 6 h, but YouTube itself reports this 1–3 days late |
 
 YouTube rounds public subscriber counts to three significant figures (e.g. 52,300), including through the API. The exact daily gains and losses come from the Analytics section.
 

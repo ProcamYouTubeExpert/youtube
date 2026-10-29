@@ -10,33 +10,6 @@
   const DAY = 24 * HOUR;
   const RANGES = { "1d": DAY, "7d": 7 * DAY, "30d": 30 * DAY, "90d": 90 * DAY, all: Infinity };
 
-  const TRAFFIC_LABELS = {
-    ADVERTISING: "YouTube ads",
-    ANNOTATION: "Annotations",
-    CAMPAIGN_CARD: "Campaign cards",
-    END_SCREEN: "End screens",
-    EXT_URL: "External websites",
-    HASHTAGS: "Hashtag pages",
-    IMMERSIVE_LIVE: "Live redirect",
-    LIVE_REDIRECT: "Live redirect",
-    NO_LINK_EMBEDDED: "Embedded players",
-    NO_LINK_OTHER: "Direct or unknown",
-    NOTIFICATION: "Notifications",
-    PLAYLIST: "Playlists",
-    PRODUCT_PAGE: "Product pages",
-    PROMOTED: "Promoted",
-    RELATED_VIDEO: "Suggested videos",
-    SHORTS: "Shorts feed",
-    SHORTS_CONTENT_LINKS: "Shorts links",
-    SOUND_PAGE: "Sound pages",
-    SUBSCRIBER: "Browse features",
-    VIDEO_REMIXES: "Remixes",
-    YT_CHANNEL: "Channel pages",
-    YT_OTHER_PAGE: "Other YouTube features",
-    YT_PLAYLIST_PAGE: "Playlist pages",
-    YT_SEARCH: "YouTube search",
-  };
-
   const $ = (id) => document.getElementById(id);
   const nf = new Intl.NumberFormat(CONFIG.locale);
   const pf = new Intl.NumberFormat(CONFIG.locale, { maximumFractionDigits: 1 });
@@ -320,8 +293,8 @@
     // Start the axis at the first snapshot when history is shorter than the range.
     const xMin = shown.length ? Math.max(end - span, shown[0].t) : undefined;
 
-    lineChart("subs", $("c-subs"), shown.filter((p) => isNum(p.subscribers)).map((p) => ({ x: p.t, y: p.subscribers })), "subscribers", xMin, end);
-    lineChart("views", $("c-views"), shown.map((p) => ({ x: p.t, y: p.views })), "views", xMin, end);
+    lineChart("subs", $("c-subs"), shown.filter((p) => isNum(p.subscribers)).map((p) => ({ x: p.t, y: p.subscribers })), "subscribers", xMin, end, "--line-subs");
+    lineChart("views", $("c-views"), shown.map((p) => ({ x: p.t, y: p.views })), "views", xMin, end, "--line-views");
 
     const daily = dailyLast(shown);
     fillTable($("tbl-subs"), ["Date", "Subscribers"], daily.map((p) => [dateFmt.format(p.t), fmt(p.subscribers)]));
@@ -355,6 +328,8 @@
     const net = isNum(t.subscribersGained) && isNum(t.subscribersLost) ? t.subscribersGained - t.subscribersLost : null;
     $("a-net").textContent = signed(net);
     $("a-net-foot").textContent = isNum(net) ? `${fmt(t.subscribersGained)} gained · ${fmt(t.subscribersLost)} lost` : "";
+    const kept = isNum(net) && t.subscribersGained > 0 ? Math.max(0, net / t.subscribersGained) : null;
+    gauge($("g-retention"), kept, "kept");
 
     dailyChart(a.daily || []);
     fillTable(
@@ -364,14 +339,6 @@
         dateFmt.format(Date.parse(d.date)), fmt(d.views), fmt(d.watchMinutes / 60), fmt(d.subscribersGained), fmt(d.subscribersLost),
       ])
     );
-
-    const traffic = a.trafficSources || [];
-    const trafficTotal = traffic.reduce((s, r) => s + r.views, 0);
-    hbars($("b-traffic"), traffic.slice(0, 8).map((r) => ({
-      label: TRAFFIC_LABELS[r.source] || titleCase(r.source),
-      value: trafficTotal ? (r.views / trafficTotal) * 100 : 0,
-      title: `${fmt(r.views)} views`,
-    })));
 
     const countries = a.countries || [];
     const countryTotal = isNum(t.views) && t.views > 0 ? t.views : countries.reduce((s, r) => s + r.views, 0);
@@ -386,10 +353,14 @@
       value: r.percent,
     })));
 
-    const g = a.gender || [];
-    $("gender-split").textContent = g.length
-      ? "Gender: " + g.map((r) => `${/user/i.test(r.gender) ? "Other" : titleCase(r.gender)} ${pf.format(r.percent)}%`).join(" · ")
-      : "";
+    const genderColors = { male: css("--sky"), female: css("--peach") };
+    const g = (a.gender || []).map((r) => ({
+      label: /user/i.test(r.gender) ? "Other" : titleCase(r.gender),
+      value: r.percent,
+      color: genderColors[r.gender] || css("--white"),
+    }));
+    donut($("d-gender"), g);
+    legend($("gender-split"), g);
   }
 
   function renderVideos() {
@@ -510,6 +481,93 @@
     }
   }
 
+  // ---------- gauge & donut (inline SVG) ----------
+
+  const CHART_FONT = '"Outfit", system-ui, -apple-system, "Segoe UI", sans-serif';
+  const SVG_NS = "http://www.w3.org/2000/svg";
+
+  function svgEl(tag, attrs) {
+    const el = document.createElementNS(SVG_NS, tag);
+    for (const [k, v] of Object.entries(attrs)) el.setAttribute(k, v);
+    return el;
+  }
+
+  function svgText(x, y, text, attrs) {
+    const el = svgEl("text", { x, y, "text-anchor": "middle", ...attrs });
+    el.textContent = text;
+    return el;
+  }
+
+  // Half-circle gauge for a 0–1 share, with a needle like the reference.
+  function gauge(el, fraction, caption) {
+    el.replaceChildren();
+    if (!isNum(fraction)) return;
+    const f = Math.min(1, Math.max(0, fraction));
+    const cx = 60, cy = 58, r = 46;
+    const at = (a) => `${(cx + r * Math.cos(a)).toFixed(2)} ${(cy - r * Math.sin(a)).toFixed(2)}`;
+    const end = Math.PI - f * Math.PI;
+    const svg = svgEl("svg", { viewBox: "0 0 120 84" });
+    svg.append(
+      svgEl("path", { d: `M ${at(Math.PI)} A ${r} ${r} 0 0 1 ${at(0)}`, fill: "none", stroke: css("--track"), "stroke-width": 10 }),
+      svgEl("path", { d: `M ${at(Math.PI)} A ${r} ${r} 0 0 1 ${at(end)}`, fill: "none", stroke: css("--peach"), "stroke-width": 10 }),
+      svgEl("line", {
+        x1: cx, y1: cy,
+        x2: (cx + (r - 8) * Math.cos(end)).toFixed(2), y2: (cy - (r - 8) * Math.sin(end)).toFixed(2),
+        stroke: css("--white"), "stroke-width": 3, "stroke-linecap": "round",
+      }),
+      svgEl("circle", { cx, cy, r: 4, fill: css("--white") }),
+      svgText(cx, 80, `${Math.round(f * 100)}% ${caption}`, { "font-size": 12, opacity: 0.85 })
+    );
+    el.setAttribute("aria-label", `${Math.round(f * 100)}% of new subscribers ${caption}`);
+    el.append(svg);
+  }
+
+  // Ring split into segments, with a 2-unit gap between them.
+  function donut(el, rows) {
+    el.replaceChildren();
+    const total = rows.reduce((s, r) => s + r.value, 0);
+    if (!total) return;
+    const r = 46, c = 2 * Math.PI * r, gap = rows.length > 1 ? 2 : 0;
+    const svg = svgEl("svg", { viewBox: "0 0 120 120" });
+    svg.append(svgEl("circle", { cx: 60, cy: 60, r, fill: "none", stroke: css("--track"), "stroke-width": 12 }));
+    let offset = 0;
+    for (const row of rows) {
+      const len = (row.value / total) * c;
+      if (len > gap) {
+        svg.append(svgEl("circle", {
+          cx: 60, cy: 60, r, fill: "none", stroke: row.color, "stroke-width": 12,
+          "stroke-dasharray": `${len - gap} ${c - len + gap}`,
+          "stroke-dashoffset": -offset,
+          transform: "rotate(-90 60 60)",
+        }));
+      }
+      offset += len;
+    }
+    const top = rows.reduce((a, b) => (b.value > a.value ? b : a));
+    svg.append(
+      svgText(60, 62, `${Math.round(top.value)}%`, { "font-size": 24, "font-weight": 500 }),
+      svgText(60, 80, top.label.toLowerCase(), { "font-size": 11, opacity: 0.8 })
+    );
+    el.setAttribute("aria-label", rows.map((x) => `${x.label} ${pf.format(x.value)}%`).join(", "));
+    el.append(svg);
+  }
+
+  function legend(ul, rows) {
+    ul.replaceChildren(...rows.map((row) => {
+      const li = document.createElement("li");
+      const key = document.createElement("span");
+      key.className = "key";
+      key.style.background = row.color;
+      const label = document.createElement("span");
+      label.textContent = row.label;
+      const val = document.createElement("span");
+      val.className = "val";
+      val.textContent = `${pf.format(row.value)}%`;
+      li.append(key, label, val);
+      return li;
+    }));
+  }
+
   function titleCase(s) {
     return String(s).toLowerCase().replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
   }
@@ -541,13 +599,13 @@
 
   function tooltipStyle() {
     return {
-      backgroundColor: css("--surface"),
-      borderColor: css("--border"),
+      backgroundColor: css("--tooltip-bg"),
+      borderColor: "rgba(255, 255, 255, 0.2)",
       borderWidth: 1,
       titleColor: css("--ink-2"),
-      titleFont: { weight: "normal" },
+      titleFont: { weight: "normal", family: CHART_FONT },
       bodyColor: css("--ink"),
-      bodyFont: { weight: "bold" },
+      bodyFont: { weight: "600", family: CHART_FONT },
       padding: 10,
       boxWidth: 12,
       boxHeight: 2,
@@ -569,12 +627,12 @@
 
   function axisCommon() {
     return {
-      ticks: { color: css("--muted"), font: { size: 11 } },
+      ticks: { color: css("--muted"), font: { size: 12, family: CHART_FONT } },
       border: { color: css("--axis") },
     };
   }
 
-  function lineChart(key, canvas, data, unit, xMin, xMax) {
+  function lineChart(key, canvas, data, unit, xMin, xMax, colorVar) {
     state.charts[key]?.destroy();
     state.charts[key] = null;
 
@@ -596,7 +654,7 @@
     }
     empty?.remove();
     canvas.hidden = false;
-    const color = css("--series-1");
+    const color = css(colorVar);
     const spanMs = data.length ? xMax - (xMin ?? data[0].x) : 0;
     const tick = (v) => (spanMs <= 2 * DAY ? timeFmt.format(v) : dayFmt.format(v));
     const axis = axisCommon();
@@ -608,11 +666,11 @@
           data,
           borderColor: color,
           backgroundColor: color,
-          borderWidth: 2,
+          borderWidth: 3,
           pointRadius: 0,
           pointHoverRadius: 5,
           pointHoverBackgroundColor: color,
-          pointHoverBorderColor: css("--surface"),
+          pointHoverBorderColor: css("--point-ring"),
           pointHoverBorderWidth: 2,
           tension: 0,
         }],
@@ -653,7 +711,7 @@
 
   function dailyChart(daily) {
     state.charts.daily?.destroy();
-    const color = css("--series-1");
+    const color = css("--bar");
     const axis = axisCommon();
     state.charts.daily = new Chart($("c-daily"), {
       type: "bar",
@@ -704,7 +762,7 @@
 
   function init() {
     if (window.Chart) {
-      Chart.defaults.font.family = 'system-ui, -apple-system, "Segoe UI", Roboto, sans-serif';
+      Chart.defaults.font.family = CHART_FONT;
     } else {
       showNotice("error", "The chart library failed to load. Check your internet connection and reload the page.");
       return;

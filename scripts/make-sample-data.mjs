@@ -116,10 +116,6 @@ const analytics = {
     subscribersLost: sum("subscribersLost"),
   },
   daily,
-  trafficSources: [
-    ["RELATED_VIDEO", 0.31], ["YT_SEARCH", 0.22], ["SUBSCRIBER", 0.16], ["SHORTS", 0.12],
-    ["EXT_URL", 0.08], ["YT_CHANNEL", 0.05], ["NO_LINK_OTHER", 0.04], ["PLAYLIST", 0.02],
-  ].map(([source, share]) => ({ source, views: Math.round(totalViews * share) })),
   countries: [
     ["IN", 0.78], ["US", 0.05], ["AE", 0.03], ["GB", 0.025], ["KE", 0.02], ["ET", 0.015], ["SG", 0.01], ["CA", 0.01],
   ].map(([country, share]) => ({ country, views: Math.round(totalViews * share) })),

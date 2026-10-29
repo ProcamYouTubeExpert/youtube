@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Procam YouTube Dashboard</title>
   <meta name="description" content="Subscriber, view and performance dashboard for the Procam International YouTube channel.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -32,21 +35,21 @@
 
     <section aria-labelledby="h-overview">
       <h2 id="h-overview" class="visually-hidden">Channel overview</h2>
-      <div class="tiles tiles-3">
-        <article class="tile">
-          <div class="tile-label">Subscribers <span class="pill" data-live-pill hidden>Live</span></div>
-          <div id="t-subs" class="tile-value">—</div>
-          <div id="t-subs-delta" class="tile-foot"></div>
+      <div class="board">
+        <article class="panel tint-peach span-4">
+          <div class="panel-label">Subscribers <span class="pill" data-live-pill hidden>Live</span></div>
+          <div id="t-subs" class="big-value">—</div>
+          <div id="t-subs-delta" class="panel-foot"></div>
         </article>
-        <article class="tile">
-          <div class="tile-label">Total views <span class="pill" data-live-pill hidden>Live</span></div>
-          <div id="t-views" class="tile-value">—</div>
-          <div id="t-views-delta" class="tile-foot"></div>
+        <article class="panel tint-blue span-4">
+          <div class="panel-label">Total views <span class="pill" data-live-pill hidden>Live</span></div>
+          <div id="t-views" class="big-value">—</div>
+          <div id="t-views-delta" class="panel-foot"></div>
         </article>
-        <article class="tile">
-          <div class="tile-label">Videos <span class="pill" data-live-pill hidden>Live</span></div>
-          <div id="t-videos" class="tile-value">—</div>
-          <div id="t-videos-foot" class="tile-foot"></div>
+        <article class="panel tint-sky span-4">
+          <div class="panel-label">Videos <span class="pill" data-live-pill hidden>Live</span></div>
+          <div id="t-videos" class="big-value">—</div>
+          <div id="t-videos-foot" class="panel-foot"></div>
         </article>
       </div>
     </section>
@@ -62,16 +65,16 @@
           <button type="button" data-range="all">All</button>
         </div>
       </div>
-      <div class="grid-2">
-        <article class="card">
+      <div class="board">
+        <article class="panel tint-blue span-6">
           <h3>Subscribers</h3>
-          <p class="card-note">YouTube rounds public subscriber counts (e.g. 52,300), so this line moves in steps.</p>
+          <p class="panel-note">YouTube rounds public subscriber counts (e.g. 16,900), so this line moves in steps.</p>
           <div class="chart"><canvas id="c-subs" role="img" aria-label="Subscribers over time"></canvas></div>
           <details class="table-view"><summary>Show as table</summary><div class="table-scroll"><table id="tbl-subs"></table></div></details>
         </article>
-        <article class="card">
+        <article class="panel tint-sky span-6">
           <h3>Total views</h3>
-          <p class="card-note">Lifetime channel views, recorded at each scheduled update.</p>
+          <p class="panel-note">Lifetime channel views, recorded at each update.</p>
           <div class="chart"><canvas id="c-views" role="img" aria-label="Total views over time"></canvas></div>
           <details class="table-view"><summary>Show as table</summary><div class="table-scroll"><table id="tbl-views"></table></div></details>
         </article>
@@ -83,41 +86,70 @@
         <h2 id="h-analytics">Last 28 days</h2>
         <span id="analytics-meta" class="muted"></span>
       </div>
-      <div id="analytics-empty" class="card empty" hidden>
-        Watch time, traffic sources and audience data appear here once the channel owner has connected their Google account (see README, step 3).
+      <div id="analytics-empty" class="panel tint-violet empty" hidden>
+        Watch time and audience data appear here once the channel owner has connected their Google account (see README, step 3).
       </div>
-      <div id="analytics-body">
-        <div class="tiles tiles-4">
-          <article class="tile"><div class="tile-label">Views</div><div id="a-views" class="tile-value tile-value-sm">—</div></article>
-          <article class="tile"><div class="tile-label">Watch time (hours)</div><div id="a-watch" class="tile-value tile-value-sm">—</div></article>
-          <article class="tile"><div class="tile-label">Avg. view duration</div><div id="a-avd" class="tile-value tile-value-sm">—</div></article>
-          <article class="tile"><div class="tile-label">Net subscribers</div><div id="a-net" class="tile-value tile-value-sm">—</div><div id="a-net-foot" class="tile-foot"></div></article>
-        </div>
-        <article class="card">
+      <div id="analytics-body" class="board">
+        <article class="panel tint-peach span-3">
+          <div class="panel-label">Views</div>
+          <div id="a-views" class="big-value big-value-sm">—</div>
+        </article>
+        <article class="panel tint-blue span-3">
+          <div class="panel-label">Watch time</div>
+          <div id="a-watch" class="big-value big-value-sm">—</div>
+          <div class="panel-foot">hours</div>
+        </article>
+        <article class="panel tint-sky span-3">
+          <div class="panel-label">Avg. view duration</div>
+          <div id="a-avd" class="big-value big-value-sm">—</div>
+          <div class="panel-foot">minutes : seconds</div>
+        </article>
+        <article class="panel tint-violet span-3 panel-gauge">
+          <div class="panel-label">Net subscribers</div>
+          <div id="a-net" class="big-value big-value-sm">—</div>
+          <div id="g-retention" class="gauge" role="img"></div>
+          <div id="a-net-foot" class="panel-foot"></div>
+        </article>
+
+        <article class="panel tint-deep span-12">
           <h3>Daily views</h3>
-          <p class="card-note">YouTube Analytics data usually arrives 1–3 days late, so the most recent days may be missing.</p>
+          <p class="panel-note">YouTube Analytics data usually arrives 1–3 days late, so the most recent days may be missing.</p>
           <div class="chart"><canvas id="c-daily" role="img" aria-label="Daily views, last 28 days"></canvas></div>
           <details class="table-view"><summary>Show as table</summary><div class="table-scroll"><table id="tbl-daily"></table></div></details>
         </article>
-        <div class="grid-3">
-          <article class="card"><h3>Traffic sources</h3><p class="card-note">Share of views</p><div id="b-traffic" class="hbars"></div></article>
-          <article class="card"><h3>Top countries</h3><p class="card-note">Share of views</p><div id="b-countries" class="hbars"></div></article>
-          <article class="card"><h3>Audience age</h3><p class="card-note">Share of signed-in viewers</p><div id="b-age" class="hbars"></div><p id="gender-split" class="card-note"></p></article>
-        </div>
+
+        <article class="panel tint-sky span-5">
+          <h3>Top countries</h3>
+          <p class="panel-note">Share of views</p>
+          <div id="b-countries" class="hbars"></div>
+        </article>
+        <article class="panel tint-blue span-4">
+          <h3>Audience age</h3>
+          <p class="panel-note">Share of signed-in viewers</p>
+          <div id="b-age" class="hbars"></div>
+        </article>
+        <article class="panel tint-violet span-3">
+          <h3>Gender</h3>
+          <p class="panel-note">Share of signed-in viewers</p>
+          <div id="d-gender" class="donut" role="img"></div>
+          <ul id="gender-split" class="legend"></ul>
+        </article>
       </div>
     </section>
 
-    <section class="grid-2" aria-label="Videos">
-      <article class="card">
-        <h3>Top videos</h3>
-        <p class="card-note">Most viewed, all time</p>
-        <div class="table-scroll"><table id="tbl-top" class="videos"></table></div>
-      </article>
-      <article class="card">
-        <h3>Recent uploads</h3>
-        <p class="card-note">Newest first</p>
-        <div class="table-scroll"><table id="tbl-recent" class="videos"></table></div>
-      </article>
+    <section aria-label="Videos">
+      <div class="board">
+        <article class="panel tint-deep span-6">
+          <h3>Top videos</h3>
+          <p class="panel-note">Most viewed, all time</p>
+          <div class="table-scroll"><table id="tbl-top" class="videos"></table></div>
+        </article>
+        <article class="panel tint-violet span-6">
+          <h3>Recent uploads</h3>
+          <p class="panel-note">Newest first</p>
+          <div class="table-scroll"><table id="tbl-recent" class="videos"></table></div>
+        </article>
+      </div>
     </section>
   </main>
 
