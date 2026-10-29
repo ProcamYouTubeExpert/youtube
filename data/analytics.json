@@ -1,47 +1,40 @@
 {
- "generatedAt": "2026-10-28T20:06:02.373Z",
+ "generatedAt": "2026-10-29T02:16:16.722Z",
  "sample": false,
- "startDate": "2026-10-01",
- "endDate": "2026-10-28",
+ "startDate": "2026-10-02",
+ "endDate": "2026-10-29",
  "totals": {
-  "views": 10844032,
-  "watchMinutes": 13234655,
+  "views": 10834352,
+  "watchMinutes": 13236877,
   "avgViewDurationSec": 189,
-  "subscribersGained": 11088,
+  "subscribersGained": 11087,
   "subscribersLost": 873
  },
  "daily": [
   {
-   "date": "2026-10-01",
-   "views": 4640,
-   "watchMinutes": 1472,
-   "subscribersGained": 1,
-   "subscribersLost": 0
-  },
-  {
    "date": "2026-10-02",
-   "views": 1042,
-   "watchMinutes": 1068,
+   "views": 1043,
+   "watchMinutes": 1066,
    "subscribersGained": 0,
    "subscribersLost": 0
   },
   {
    "date": "2026-10-03",
-   "views": 639,
-   "watchMinutes": 915,
+   "views": 681,
+   "watchMinutes": 966,
    "subscribersGained": 4,
    "subscribersLost": 0
   },
   {
    "date": "2026-10-04",
-   "views": 609,
-   "watchMinutes": 863,
+   "views": 616,
+   "watchMinutes": 864,
    "subscribersGained": 1,
    "subscribersLost": 1
   },
   {
    "date": "2026-10-05",
-   "views": 1041,
+   "views": 1042,
    "watchMinutes": 657,
    "subscribersGained": 0,
    "subscribersLost": 0
@@ -69,7 +62,7 @@
   },
   {
    "date": "2026-10-09",
-   "views": 3140,
+   "views": 3143,
    "watchMinutes": 1273,
    "subscribersGained": 2,
    "subscribersLost": 0
@@ -118,8 +111,8 @@
   },
   {
    "date": "2026-10-16",
-   "views": 420731,
-   "watchMinutes": 109776,
+   "views": 420914,
+   "watchMinutes": 109806,
    "subscribersGained": 4686,
    "subscribersLost": 149
   },
@@ -139,8 +132,8 @@
   },
   {
    "date": "2026-10-19",
-   "views": 1855599,
-   "watchMinutes": 2003925,
+   "views": 1850322,
+   "watchMinutes": 2007540,
    "subscribersGained": 246,
    "subscribersLost": 25
   },
@@ -201,43 +194,43 @@
   },
   {
    "source": "SUBSCRIBER",
-   "views": 143483
+   "views": 142770
   },
   {
    "source": "SHORTS",
-   "views": 93217
+   "views": 89645
   },
   {
    "source": "YT_SEARCH",
-   "views": 62478
+   "views": 62228
   },
   {
    "source": "EXT_URL",
-   "views": 60970
+   "views": 60965
   },
   {
    "source": "NO_LINK_OTHER",
-   "views": 14859
+   "views": 14850
   },
   {
    "source": "YT_CHANNEL",
-   "views": 10403
+   "views": 10386
   },
   {
    "source": "RELATED_VIDEO",
-   "views": 6143
+   "views": 6088
   },
   {
    "source": "YT_OTHER_PAGE",
-   "views": 2758
+   "views": 2744
   },
   {
    "source": "PLAYLIST",
-   "views": 756
+   "views": 754
   },
   {
    "source": "NOTIFICATION",
-   "views": 632
+   "views": 629
   },
   {
    "source": "SHORTS_CONTENT_LINKS",
@@ -267,11 +260,11 @@
  "countries": [
   {
    "country": "IN",
-   "views": 10313191
+   "views": 10309220
   },
   {
    "country": "US",
-   "views": 2693
+   "views": 2626
   },
   {
    "country": "KE",
@@ -302,8 +295,8 @@
    "views": 625
   },
   {
-   "country": "DE",
-   "views": 595
+   "country": "NP",
+   "views": 587
   }
  ],
  "ageGroups": [
