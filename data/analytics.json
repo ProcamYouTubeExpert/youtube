@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-10-30T04:11:14.655Z",
+ "generatedAt": "2026-10-30T10:17:35.513Z",
  "sample": false,
  "startDate": "2026-10-03",
  "endDate": "2026-10-30",
  "totals": {
-  "views": 10837721,
-  "watchMinutes": 13238434,
+  "views": 10842548,
+  "watchMinutes": 13234109,
   "avgViewDurationSec": 189,
   "subscribersGained": 11094,
   "subscribersLost": 879
@@ -13,21 +13,21 @@
  "daily": [
   {
    "date": "2026-10-03",
-   "views": 681,
-   "watchMinutes": 966,
+   "views": 639,
+   "watchMinutes": 915,
    "subscribersGained": 4,
    "subscribersLost": 0
   },
   {
    "date": "2026-10-04",
-   "views": 616,
-   "watchMinutes": 864,
+   "views": 609,
+   "watchMinutes": 863,
    "subscribersGained": 1,
    "subscribersLost": 1
   },
   {
    "date": "2026-10-05",
-   "views": 1042,
+   "views": 1041,
    "watchMinutes": 657,
    "subscribersGained": 0,
    "subscribersLost": 0
@@ -55,7 +55,7 @@
   },
   {
    "date": "2026-10-09",
-   "views": 3143,
+   "views": 3140,
    "watchMinutes": 1273,
    "subscribersGained": 2,
    "subscribersLost": 0
@@ -104,8 +104,8 @@
   },
   {
    "date": "2026-10-16",
-   "views": 420914,
-   "watchMinutes": 109806,
+   "views": 420731,
+   "watchMinutes": 109776,
    "subscribersGained": 4686,
    "subscribersLost": 149
   },
@@ -125,8 +125,8 @@
   },
   {
    "date": "2026-10-19",
-   "views": 1850322,
-   "watchMinutes": 2007540,
+   "views": 1855599,
+   "watchMinutes": 2003925,
    "subscribersGained": 246,
    "subscribersLost": 25
   },
@@ -160,14 +160,14 @@
   },
   {
    "date": "2026-10-24",
-   "views": 248109,
-   "watchMinutes": 380288,
+   "views": 247899,
+   "watchMinutes": 379660,
    "subscribersGained": 22,
    "subscribersLost": 7
   },
   {
    "date": "2026-10-25",
-   "views": 8699,
+   "views": 8695,
    "watchMinutes": 3642,
    "subscribersGained": 10,
    "subscribersLost": 4
