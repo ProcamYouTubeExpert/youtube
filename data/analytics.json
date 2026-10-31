@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-10-31T17:23:38.606Z",
+ "generatedAt": "2026-10-31T23:42:53.504Z",
  "sample": false,
  "startDate": "2026-10-04",
  "endDate": "2026-10-31",
  "totals": {
-  "views": 10846560,
-  "watchMinutes": 13236130,
+  "views": 10845568,
+  "watchMinutes": 13242404,
   "avgViewDurationSec": 189,
-  "subscribersGained": 11097,
-  "subscribersLost": 884
+  "subscribersGained": 11102,
+  "subscribersLost": 889
  },
  "daily": [
   {
    "date": "2026-10-04",
-   "views": 609,
-   "watchMinutes": 863,
+   "views": 616,
+   "watchMinutes": 864,
    "subscribersGained": 1,
    "subscribersLost": 1
   },
   {
    "date": "2026-10-05",
-   "views": 1041,
+   "views": 1042,
    "watchMinutes": 657,
    "subscribersGained": 0,
    "subscribersLost": 0
@@ -48,7 +48,7 @@
   },
   {
    "date": "2026-10-09",
-   "views": 3140,
+   "views": 3143,
    "watchMinutes": 1273,
    "subscribersGained": 2,
    "subscribersLost": 0
@@ -97,8 +97,8 @@
   },
   {
    "date": "2026-10-16",
-   "views": 420731,
-   "watchMinutes": 109776,
+   "views": 420914,
+   "watchMinutes": 109806,
    "subscribersGained": 4686,
    "subscribersLost": 149
   },
@@ -118,8 +118,8 @@
   },
   {
    "date": "2026-10-19",
-   "views": 1855599,
-   "watchMinutes": 2003925,
+   "views": 1850322,
+   "watchMinutes": 2007540,
    "subscribersGained": 246,
    "subscribersLost": 25
   },
@@ -153,8 +153,8 @@
   },
   {
    "date": "2026-10-24",
-   "views": 247899,
-   "watchMinutes": 379660,
+   "views": 248109,
+   "watchMinutes": 380288,
    "subscribersGained": 22,
    "subscribersLost": 7
   },
@@ -174,7 +174,7 @@
   },
   {
    "date": "2026-10-27",
-   "views": 4412,
+   "views": 4411,
    "watchMinutes": 2623,
    "subscribersGained": 7,
    "subscribersLost": 6
@@ -185,12 +185,19 @@
    "watchMinutes": 2996,
    "subscribersGained": 7,
    "subscribersLost": 5
+  },
+  {
+   "date": "2026-10-29",
+   "views": 3882,
+   "watchMinutes": 1999,
+   "subscribersGained": 5,
+   "subscribersLost": 5
   }
  ],
  "countries": [
   {
    "country": "IN",
-   "views": 10316367
+   "views": 10320096
   },
   {
    "country": "US",
@@ -266,7 +273,7 @@
   },
   {
    "gender": "female",
-   "percent": 26.9
+   "percent": 26.8
   },
   {
    "gender": "genderUserSpecified",
