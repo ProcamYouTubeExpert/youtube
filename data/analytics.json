@@ -1,23 +1,16 @@
 {
- "generatedAt": "2026-11-01T18:22:48.725Z",
+ "generatedAt": "2026-11-02T00:25:01.073Z",
  "sample": false,
- "startDate": "2026-10-05",
- "endDate": "2026-11-01",
+ "startDate": "2026-10-06",
+ "endDate": "2026-11-02",
  "totals": {
-  "views": 10849832,
-  "watchMinutes": 13237266,
+  "views": 10852282,
+  "watchMinutes": 13238194,
   "avgViewDurationSec": 189,
-  "subscribersGained": 11101,
-  "subscribersLost": 888
+  "subscribersGained": 11104,
+  "subscribersLost": 891
  },
  "daily": [
-  {
-   "date": "2026-10-05",
-   "views": 1041,
-   "watchMinutes": 657,
-   "subscribersGained": 0,
-   "subscribersLost": 0
-  },
   {
    "date": "2026-10-06",
    "views": 750,
@@ -185,24 +178,31 @@
    "watchMinutes": 1999,
    "subscribersGained": 5,
    "subscribersLost": 5
+  },
+  {
+   "date": "2026-10-30",
+   "views": 3491,
+   "watchMinutes": 1585,
+   "subscribersGained": 3,
+   "subscribersLost": 3
   }
  ],
  "countries": [
   {
    "country": "IN",
-   "views": 10319572
+   "views": 10322424
   },
   {
    "country": "US",
-   "views": 2626
+   "views": 2591
   },
   {
    "country": "KE",
-   "views": 1371
+   "views": 1360
   },
   {
    "country": "ID",
-   "views": 918
+   "views": 883
   },
   {
    "country": "JP",
