@@ -1,23 +1,16 @@
 {
- "generatedAt": "2026-11-02T19:24:33.159Z",
+ "generatedAt": "2026-11-03T01:35:49.406Z",
  "sample": false,
- "startDate": "2026-10-06",
- "endDate": "2026-11-02",
+ "startDate": "2026-10-07",
+ "endDate": "2026-11-03",
  "totals": {
-  "views": 10847393,
-  "watchMinutes": 13242467,
+  "views": 10854675,
+  "watchMinutes": 13239363,
   "avgViewDurationSec": 189,
-  "subscribersGained": 11104,
-  "subscribersLost": 891
+  "subscribersGained": 11111,
+  "subscribersLost": 895
  },
  "daily": [
-  {
-   "date": "2026-10-06",
-   "views": 750,
-   "watchMinutes": 350,
-   "subscribersGained": 3,
-   "subscribersLost": 0
-  },
   {
    "date": "2026-10-07",
    "views": 1343,
@@ -34,7 +27,7 @@
   },
   {
    "date": "2026-10-09",
-   "views": 3143,
+   "views": 3140,
    "watchMinutes": 1273,
    "subscribersGained": 2,
    "subscribersLost": 0
@@ -83,8 +76,8 @@
   },
   {
    "date": "2026-10-16",
-   "views": 420914,
-   "watchMinutes": 109806,
+   "views": 420731,
+   "watchMinutes": 109776,
    "subscribersGained": 4686,
    "subscribersLost": 149
   },
@@ -104,8 +97,8 @@
   },
   {
    "date": "2026-10-19",
-   "views": 1850322,
-   "watchMinutes": 2007540,
+   "views": 1855599,
+   "watchMinutes": 2003925,
    "subscribersGained": 246,
    "subscribersLost": 25
   },
@@ -139,8 +132,8 @@
   },
   {
    "date": "2026-10-24",
-   "views": 248109,
-   "watchMinutes": 380288,
+   "views": 247899,
+   "watchMinutes": 379660,
    "subscribersGained": 22,
    "subscribersLost": 7
   },
@@ -174,7 +167,7 @@
   },
   {
    "date": "2026-10-29",
-   "views": 3882,
+   "views": 3877,
    "watchMinutes": 1999,
    "subscribersGained": 5,
    "subscribersLost": 5
@@ -185,16 +178,23 @@
    "watchMinutes": 1585,
    "subscribersGained": 3,
    "subscribersLost": 3
+  },
+  {
+   "date": "2026-10-31",
+   "views": 3156,
+   "watchMinutes": 1519,
+   "subscribersGained": 10,
+   "subscribersLost": 4
   }
  ],
  "countries": [
   {
    "country": "IN",
-   "views": 10322424
+   "views": 10324964
   },
   {
    "country": "US",
-   "views": 2591
+   "views": 2565
   },
   {
    "country": "KE",
