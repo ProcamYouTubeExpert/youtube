@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T05:25:07.018Z",
+ "generatedAt": "2026-11-05T11:31:13.707Z",
  "sample": false,
  "startDate": "2026-10-09",
  "endDate": "2026-11-05",
@@ -187,48 +187,7 @@
    "subscribersLost": 9
   }
  ],
- "countries": [
-  {
-   "country": "IN",
-   "views": 10326853
-  },
-  {
-   "country": "US",
-   "views": 2532
-  },
-  {
-   "country": "KE",
-   "views": 1360
-  },
-  {
-   "country": "ID",
-   "views": 820
-  },
-  {
-   "country": "JP",
-   "views": 717
-  },
-  {
-   "country": "ET",
-   "views": 707
-  },
-  {
-   "country": "KR",
-   "views": 672
-  },
-  {
-   "country": "CA",
-   "views": 642
-  },
-  {
-   "country": "NP",
-   "views": 587
-  },
-  {
-   "country": "BR",
-   "views": 569
-  }
- ],
+ "countries": [],
  "ageGroups": [
   {
    "group": "age13-17",
@@ -273,5 +232,7 @@
    "percent": 0.2
   }
  ],
- "errors": []
+ "errors": [
+  "countries: 500 from /v2/reports: Internal error encountered."
+ ]
 }
