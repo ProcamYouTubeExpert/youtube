@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T11:29:35.891Z",
+ "generatedAt": "2026-11-06T12:19:08.196Z",
  "sample": false,
  "channel": {
   "id": "UCFcBDqa1WtDlBExpx_y0nAQ",
@@ -9,7 +9,7 @@
   "subscribers": 16800,
   "hiddenSubscriberCount": false,
   "views": 12989893,
-  "videos": 708
+  "videos": 709
  },
  "topVideos": [
   {
@@ -110,6 +110,15 @@
    "views": 172495,
    "likes": 368,
    "comments": 3
+  },
+  {
+   "id": "PtdFnRc6Anc",
+   "title": "5 AM race. But whose alarm goes off first? ⏰😂",
+   "publishedAt": "2026-10-17T13:25:05Z",
+   "thumbnail": "https://i.ytimg.com/vi/PtdFnRc6Anc/mqdefault.jpg",
+   "views": 147064,
+   "likes": 865,
+   "comments": 2
   },
   {
    "id": "kpZuqVTgK5Y",
@@ -227,18 +236,18 @@
    "views": 40350,
    "likes": 13,
    "comments": 0
-  },
-  {
-   "id": "VWMqCC3gHHE",
-   "title": "#ADHM2019 | Dil Wahi Dilli Nayi | #Go Beyond",
-   "publishedAt": "2019-10-10T12:13:52Z",
-   "thumbnail": "https://i.ytimg.com/vi/VWMqCC3gHHE/mqdefault.jpg",
-   "views": 38848,
-   "likes": 14,
-   "comments": 0
   }
  ],
  "recentVideos": [
+  {
+   "id": "-DHzhfeClCY",
+   "title": "Meet Benson Kipruto: Chasing the Olympic Champion Dream! 🥇 | Know Your Athletes",
+   "publishedAt": "2026-11-06T12:01:26Z",
+   "thumbnail": "https://i.ytimg.com/vi/-DHzhfeClCY/mqdefault.jpg",
+   "views": 13,
+   "likes": 0,
+   "comments": 0
+  },
   {
    "id": "O6nnusKcJbI",
    "title": "Meet Daniel Ebenyo: Chasing the Marathon World Record! 🏃💨 | Know Your Athletes",
@@ -337,15 +346,6 @@
    "views": 926413,
    "likes": 353,
    "comments": 5
-  },
-  {
-   "id": "RfT9YSCEpLo",
-   "title": "Vedanta Delhi Half Marathon 2026 | Hindi Commentary",
-   "publishedAt": "2026-10-18T16:36:55Z",
-   "thumbnail": "https://i.ytimg.com/vi/RfT9YSCEpLo/mqdefault.jpg",
-   "views": 1869914,
-   "likes": 645,
-   "comments": 3
   }
  ]
 }
