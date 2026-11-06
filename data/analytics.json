@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-11-06T13:33:52.398Z",
+ "generatedAt": "2026-11-06T20:08:38.969Z",
  "sample": false,
  "startDate": "2026-10-10",
  "endDate": "2026-11-06",
  "totals": {
-  "views": 10853611,
-  "watchMinutes": 13239095,
+  "views": 10854582,
+  "watchMinutes": 13239562,
   "avgViewDurationSec": 189,
-  "subscribersGained": 11107,
-  "subscribersLost": 913
+  "subscribersGained": 11109,
+  "subscribersLost": 916
  },
  "daily": [
   {
@@ -185,12 +185,19 @@
    "watchMinutes": 601,
    "subscribersGained": 0,
    "subscribersLost": 10
+  },
+  {
+   "date": "2026-11-04",
+   "views": 971,
+   "watchMinutes": 466,
+   "subscribersGained": 2,
+   "subscribersLost": 3
   }
  ],
  "countries": [
   {
    "country": "IN",
-   "views": 10325409
+   "views": 10326257
   },
   {
    "country": "US",
