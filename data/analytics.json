@@ -1,23 +1,16 @@
 {
- "generatedAt": "2026-11-11T23:28:35.935Z",
+ "generatedAt": "2026-11-12T06:06:38.547Z",
  "sample": false,
- "startDate": "2026-10-15",
- "endDate": "2026-11-11",
+ "startDate": "2026-10-16",
+ "endDate": "2026-11-12",
  "totals": {
-  "views": 10855988,
-  "watchMinutes": 13239518,
-  "avgViewDurationSec": 189,
-  "subscribersGained": 11103,
-  "subscribersLost": 926
+  "views": 10530225,
+  "watchMinutes": 13163281,
+  "avgViewDurationSec": 195,
+  "subscribersGained": 11015,
+  "subscribersLost": 924
  },
  "daily": [
-  {
-   "date": "2026-10-15",
-   "views": 325763,
-   "watchMinutes": 76237,
-   "subscribersGained": 88,
-   "subscribersLost": 2
-  },
   {
    "date": "2026-10-16",
    "views": 420731,
@@ -197,7 +190,7 @@
  "countries": [
   {
    "country": "IN",
-   "views": 10327529
+   "views": 10162230
   },
   {
    "country": "US",
@@ -251,11 +244,11 @@
   },
   {
    "group": "age35-44",
-   "percent": 30.5
+   "percent": 30.6
   },
   {
    "group": "age45-54",
-   "percent": 14.1
+   "percent": 14
   },
   {
    "group": "age55-64",
@@ -269,11 +262,11 @@
  "gender": [
   {
    "gender": "male",
-   "percent": 72.9
+   "percent": 72.8
   },
   {
    "gender": "female",
-   "percent": 26.8
+   "percent": 27
   },
   {
    "gender": "genderUserSpecified",
