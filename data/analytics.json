@@ -1,23 +1,16 @@
 {
- "generatedAt": "2026-11-12T19:22:34.071Z",
+ "generatedAt": "2026-11-13T01:49:58.721Z",
  "sample": false,
- "startDate": "2026-10-16",
- "endDate": "2026-11-12",
+ "startDate": "2026-10-17",
+ "endDate": "2026-11-13",
  "totals": {
-  "views": 10530225,
-  "watchMinutes": 13163281,
-  "avgViewDurationSec": 195,
-  "subscribersGained": 11015,
-  "subscribersLost": 924
+  "views": 10105218,
+  "watchMinutes": 13058054,
+  "avgViewDurationSec": 206,
+  "subscribersGained": 6330,
+  "subscribersLost": 776
  },
  "daily": [
-  {
-   "date": "2026-10-16",
-   "views": 420731,
-   "watchMinutes": 109776,
-   "subscribersGained": 4686,
-   "subscribersLost": 149
-  },
   {
    "date": "2026-10-17",
    "views": 1902796,
@@ -34,8 +27,8 @@
   },
   {
    "date": "2026-10-19",
-   "views": 1855599,
-   "watchMinutes": 2003925,
+   "views": 1850322,
+   "watchMinutes": 2007540,
    "subscribersGained": 246,
    "subscribersLost": 25
   },
@@ -69,8 +62,8 @@
   },
   {
    "date": "2026-10-24",
-   "views": 247899,
-   "watchMinutes": 379660,
+   "views": 248109,
+   "watchMinutes": 380288,
    "subscribersGained": 22,
    "subscribersLost": 7
   },
@@ -185,12 +178,19 @@
    "watchMinutes": 386,
    "subscribersGained": 3,
    "subscribersLost": 1
+  },
+  {
+   "date": "2026-11-10",
+   "views": 791,
+   "watchMinutes": 306,
+   "subscribersGained": 1,
+   "subscribersLost": 1
   }
  ],
  "countries": [
   {
    "country": "IN",
-   "views": 10162230
+   "views": 9919053
   },
   {
    "country": "US",
@@ -236,7 +236,7 @@
   },
   {
    "group": "age18-24",
-   "percent": 15
+   "percent": 14.9
   },
   {
    "group": "age25-34",
@@ -244,11 +244,11 @@
   },
   {
    "group": "age35-44",
-   "percent": 30.6
+   "percent": 30.8
   },
   {
    "group": "age45-54",
-   "percent": 14
+   "percent": 13.8
   },
   {
    "group": "age55-64",
