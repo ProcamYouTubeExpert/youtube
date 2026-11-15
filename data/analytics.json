@@ -1,23 +1,16 @@
 {
- "generatedAt": "2026-11-14T22:04:04.527Z",
+ "generatedAt": "2026-11-15T04:20:02.804Z",
  "sample": false,
- "startDate": "2026-10-18",
- "endDate": "2026-11-14",
+ "startDate": "2026-10-19",
+ "endDate": "2026-11-15",
  "totals": {
-  "views": 8209556,
-  "watchMinutes": 12481508,
-  "avgViewDurationSec": 223,
-  "subscribersGained": 1139,
-  "subscribersLost": 422
+  "views": 7249532,
+  "watchMinutes": 8702463,
+  "avgViewDurationSec": 189,
+  "subscribersGained": 850,
+  "subscribersLost": 188
  },
  "daily": [
-  {
-   "date": "2026-10-18",
-   "views": 960024,
-   "watchMinutes": 3779045,
-   "subscribersGained": 289,
-   "subscribersLost": 234
-  },
   {
    "date": "2026-10-19",
    "views": 1855599,
@@ -197,43 +190,43 @@
  "countries": [
   {
    "country": "IN",
-   "views": 8080190
+   "views": 7126413
   },
   {
    "country": "US",
-   "views": 1755
+   "views": 1321
   },
   {
    "country": "KE",
-   "views": 950
-  },
-  {
-   "country": "ID",
-   "views": 549
+   "views": 665
   },
   {
    "country": "NP",
-   "views": 529
+   "views": 489
   },
   {
-   "country": "KR",
-   "views": 510
+   "country": "ID",
+   "views": 402
   },
   {
    "country": "BR",
-   "views": 501
+   "views": 389
   },
   {
    "country": "DE",
-   "views": 488
+   "views": 361
   },
   {
-   "country": "FR",
-   "views": 488
+   "country": "CA",
+   "views": 303
   },
   {
    "country": "GB",
-   "views": 455
+   "views": 301
+  },
+  {
+   "country": "MY",
+   "views": 286
   }
  ],
  "ageGroups": [
@@ -243,19 +236,19 @@
   },
   {
    "group": "age18-24",
-   "percent": 14
+   "percent": 13.4
   },
   {
    "group": "age25-34",
-   "percent": 37.4
+   "percent": 37
   },
   {
    "group": "age35-44",
-   "percent": 33.6
+   "percent": 34.9
   },
   {
    "group": "age45-54",
-   "percent": 14.8
+   "percent": 14.5
   },
   {
    "group": "age55-64",
@@ -263,21 +256,21 @@
   },
   {
    "group": "age65-",
-   "percent": 0.1
+   "percent": 0
   }
  ],
  "gender": [
   {
    "gender": "male",
-   "percent": 72.4
+   "percent": 72.2
   },
   {
    "gender": "female",
-   "percent": 27.3
+   "percent": 27.5
   },
   {
    "gender": "genderUserSpecified",
-   "percent": 0.2
+   "percent": 0.3
   }
  ],
  "errors": []
