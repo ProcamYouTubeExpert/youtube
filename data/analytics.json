@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-17T01:13:12.900Z",
+ "generatedAt": "2026-11-17T08:07:48.032Z",
  "sample": false,
  "startDate": "2026-10-21",
  "endDate": "2026-11-17",
  "totals": {
-  "views": 3847017,
-  "watchMinutes": 4440396,
+  "views": 3846807,
+  "watchMinutes": 4439768,
   "avgViewDurationSec": 179,
   "subscribersGained": 447,
   "subscribersLost": 122
@@ -34,8 +34,8 @@
   },
   {
    "date": "2026-10-24",
-   "views": 248109,
-   "watchMinutes": 380288,
+   "views": 247899,
+   "watchMinutes": 379660,
    "subscribersGained": 22,
    "subscribersLost": 7
   },
