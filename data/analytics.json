@@ -1,23 +1,16 @@
 {
- "generatedAt": "2026-11-18T23:19:30.910Z",
+ "generatedAt": "2026-11-19T05:28:17.103Z",
  "sample": false,
- "startDate": "2026-10-22",
- "endDate": "2026-11-18",
+ "startDate": "2026-10-23",
+ "endDate": "2026-11-19",
  "totals": {
-  "views": 2759022,
-  "watchMinutes": 2875744,
-  "avgViewDurationSec": 180,
-  "subscribersGained": 272,
-  "subscribersLost": 122
+  "views": 1322296,
+  "watchMinutes": 1507890,
+  "avgViewDurationSec": 189,
+  "subscribersGained": 160,
+  "subscribersLost": 102
  },
  "daily": [
-  {
-   "date": "2026-10-22",
-   "views": 1436695,
-   "watchMinutes": 1367857,
-   "subscribersGained": 112,
-   "subscribersLost": 20
-  },
   {
    "date": "2026-10-23",
    "views": 1022896,
@@ -139,7 +132,7 @@
   },
   {
    "date": "2026-11-09",
-   "views": 613,
+   "views": 612,
    "watchMinutes": 386,
    "subscribersGained": 3,
    "subscribersLost": 1
@@ -153,28 +146,28 @@
   },
   {
    "date": "2026-11-11",
-   "views": 1153,
+   "views": 1127,
    "watchMinutes": 315,
    "subscribersGained": 1,
    "subscribersLost": 2
   },
   {
    "date": "2026-11-12",
-   "views": 914,
-   "watchMinutes": 538,
+   "views": 917,
+   "watchMinutes": 539,
    "subscribersGained": 1,
    "subscribersLost": 2
   },
   {
    "date": "2026-11-13",
-   "views": 1145,
-   "watchMinutes": 306,
+   "views": 1140,
+   "watchMinutes": 309,
    "subscribersGained": 0,
    "subscribersLost": 1
   },
   {
    "date": "2026-11-14",
-   "views": 1801,
+   "views": 1799,
    "watchMinutes": 327,
    "subscribersGained": 2,
    "subscribersLost": 1
@@ -197,43 +190,43 @@
  "countries": [
   {
    "country": "IN",
-   "views": 2753765
+   "views": 1316690
   },
   {
    "country": "US",
-   "views": 521
+   "views": 369
   },
   {
    "country": "ID",
-   "views": 200
+   "views": 162
   },
   {
    "country": "PK",
-   "views": 198
-  },
-  {
-   "country": "NP",
-   "views": 186
+   "views": 156
   },
   {
    "country": "KE",
-   "views": 146
+   "views": 122
+  },
+  {
+   "country": "NP",
+   "views": 97
   },
   {
    "country": "SG",
    "views": 86
   },
   {
+   "country": "GB",
+   "views": 54
+  },
+  {
+   "country": "BD",
+   "views": 52
+  },
+  {
    "country": "BR",
-   "views": 79
-  },
-  {
-   "country": "DE",
-   "views": 68
-  },
-  {
-   "country": "FR",
-   "views": 65
+   "views": 38
   }
  ],
  "ageGroups": [
@@ -243,19 +236,19 @@
   },
   {
    "group": "age18-24",
-   "percent": 13.6
+   "percent": 14
   },
   {
    "group": "age25-34",
-   "percent": 35
+   "percent": 34.5
   },
   {
    "group": "age35-44",
-   "percent": 35.9
+   "percent": 35.6
   },
   {
    "group": "age45-54",
-   "percent": 15.3
+   "percent": 15.6
   },
   {
    "group": "age55-64",
@@ -269,11 +262,11 @@
  "gender": [
   {
    "gender": "male",
-   "percent": 72.4
+   "percent": 73
   },
   {
    "gender": "female",
-   "percent": 27.3
+   "percent": 26.7
   },
   {
    "gender": "genderUserSpecified",
