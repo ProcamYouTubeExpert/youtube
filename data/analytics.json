@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-11-21T15:51:30.657Z",
+ "generatedAt": "2026-11-21T22:26:00.826Z",
  "sample": false,
  "startDate": "2026-10-25",
  "endDate": "2026-11-21",
  "totals": {
-  "views": 53757,
-  "watchMinutes": 25179,
+  "views": 54914,
+  "watchMinutes": 25739,
   "avgViewDurationSec": 68,
-  "subscribersGained": 81,
-  "subscribersLost": 97
+  "subscribersGained": 82,
+  "subscribersLost": 102
  },
  "daily": [
   {
@@ -185,12 +185,19 @@
    "watchMinutes": 636,
    "subscribersGained": 2,
    "subscribersLost": 6
+  },
+  {
+   "date": "2026-11-19",
+   "views": 1157,
+   "watchMinutes": 559,
+   "subscribersGained": 1,
+   "subscribersLost": 5
   }
  ],
  "countries": [
   {
    "country": "IN",
-   "views": 49007
+   "views": 50041
   },
   {
    "country": "US",
@@ -236,7 +243,7 @@
   },
   {
    "group": "age25-34",
-   "percent": 47.6
+   "percent": 47.7
   },
   {
    "group": "age35-44",
@@ -248,7 +255,7 @@
   },
   {
    "group": "age55-64",
-   "percent": 1.1
+   "percent": 1
   },
   {
    "group": "age65-",
@@ -262,7 +269,7 @@
   },
   {
    "gender": "female",
-   "percent": 12
+   "percent": 12.1
   },
   {
    "gender": "genderUserSpecified",
