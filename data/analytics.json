@@ -1,23 +1,16 @@
 {
- "generatedAt": "2026-11-21T22:26:00.826Z",
+ "generatedAt": "2026-11-22T04:26:11.244Z",
  "sample": false,
- "startDate": "2026-10-25",
- "endDate": "2026-11-21",
+ "startDate": "2026-10-26",
+ "endDate": "2026-11-22",
  "totals": {
-  "views": 54914,
-  "watchMinutes": 25739,
-  "avgViewDurationSec": 68,
-  "subscribersGained": 82,
-  "subscribersLost": 102
+  "views": 46213,
+  "watchMinutes": 22095,
+  "avgViewDurationSec": 69,
+  "subscribersGained": 72,
+  "subscribersLost": 98
  },
  "daily": [
-  {
-   "date": "2026-10-25",
-   "views": 8695,
-   "watchMinutes": 3642,
-   "subscribersGained": 10,
-   "subscribersLost": 4
-  },
   {
    "date": "2026-10-26",
    "views": 5422,
@@ -174,8 +167,8 @@
   },
   {
    "date": "2026-11-17",
-   "views": 1458,
-   "watchMinutes": 508,
+   "views": 1452,
+   "watchMinutes": 507,
    "subscribersGained": 2,
    "subscribersLost": 4
   },
@@ -197,11 +190,7 @@
  "countries": [
   {
    "country": "IN",
-   "views": 50041
-  },
-  {
-   "country": "US",
-   "views": 137
+   "views": 42079
   },
   {
    "country": "PK",
@@ -216,8 +205,8 @@
    "views": 86
   },
   {
-   "country": "KE",
-   "views": 51
+   "country": "US",
+   "views": 68
   },
   {
    "country": "GB",
@@ -235,45 +224,41 @@
  "ageGroups": [
   {
    "group": "age13-17",
-   "percent": 0.8
+   "percent": 0.6
   },
   {
    "group": "age18-24",
-   "percent": 25.5
+   "percent": 25.7
   },
   {
    "group": "age25-34",
-   "percent": 47.7
+   "percent": 48.5
   },
   {
    "group": "age35-44",
-   "percent": 19.4
+   "percent": 19.3
   },
   {
    "group": "age45-54",
-   "percent": 5.3
+   "percent": 5
   },
   {
    "group": "age55-64",
-   "percent": 1
+   "percent": 0.8
   },
   {
    "group": "age65-",
-   "percent": 0.3
+   "percent": 0.1
   }
  ],
  "gender": [
   {
    "gender": "male",
-   "percent": 87.9
+   "percent": 87.5
   },
   {
    "gender": "female",
-   "percent": 12.1
-  },
-  {
-   "gender": "genderUserSpecified",
-   "percent": 0
+   "percent": 12.5
   }
  ],
  "errors": []
