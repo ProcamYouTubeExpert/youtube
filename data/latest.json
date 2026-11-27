@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T09:13:42.089Z",
+ "generatedAt": "2026-11-27T10:17:42.692Z",
  "sample": false,
  "channel": {
   "id": "UCFcBDqa1WtDlBExpx_y0nAQ",
@@ -9,7 +9,7 @@
   "subscribers": 16800,
   "hiddenSubscriberCount": false,
   "views": 13013314,
-  "videos": 725
+  "videos": 726
  },
  "topVideos": [
   {
@@ -17,7 +17,7 @@
    "title": "Vedanta Delhi Half Marathon | English Commentary",
    "publishedAt": "2026-10-18T04:25:07Z",
    "thumbnail": "https://i.ytimg.com/vi/4EIdFPoDtrA/mqdefault.jpg",
-   "views": 3236316,
+   "views": 3236317,
    "likes": 1237,
    "comments": 7
   },
@@ -35,7 +35,7 @@
    "title": "Vedanta Delhi Half Marathon 2026 | Finish Cam",
    "publishedAt": "2026-10-18T09:27:05Z",
    "thumbnail": "https://i.ytimg.com/vi/44Ea_XnkhY4/mqdefault.jpg",
-   "views": 1412163,
+   "views": 1412162,
    "likes": 1156,
    "comments": 16
   },
@@ -121,6 +121,24 @@
    "comments": 0
   },
   {
+   "id": "Ll6pLx9ArrI",
+   "title": "Wudinesh Alemu Breaks the Tape! 🏁 International Elite Women │ VDHM 2026",
+   "publishedAt": "2026-10-18T09:03:57Z",
+   "thumbnail": "https://i.ytimg.com/vi/Ll6pLx9ArrI/mqdefault.jpg",
+   "views": 124636,
+   "likes": 792,
+   "comments": 3
+  },
+  {
+   "id": "ja9m8KbdXhg",
+   "title": "Indian Elite Men Highlights (Hemant, Shailesh & Mathur) │ VDHM 2026",
+   "publishedAt": "2026-10-18T09:03:47Z",
+   "thumbnail": "https://i.ytimg.com/vi/ja9m8KbdXhg/mqdefault.jpg",
+   "views": 118771,
+   "likes": 1382,
+   "comments": 6
+  },
+  {
    "id": "q6L1ZrxwIuw",
    "title": "Dilli, Tussi Great Ho! Delhi Half Marathon 2026 Ka Josh | 18 Oct",
    "publishedAt": "2026-10-16T11:22:51Z",
@@ -161,7 +179,7 @@
    "title": "Matata Wins Delhi! 🔥 New Course Record | VDHM 2026 #Shorts",
    "publishedAt": "2026-10-18T04:05:53Z",
    "thumbnail": "https://i.ytimg.com/vi/BkeWxYf9lhM/mqdefault.jpg",
-   "views": 54283,
+   "views": 54282,
    "likes": 1001,
    "comments": 22
   },
@@ -218,27 +236,18 @@
    "views": 38849,
    "likes": 14,
    "comments": 0
-  },
-  {
-   "id": "iDfszyMO0NY",
-   "title": "Medal Of Unity | #TCSW10K",
-   "publishedAt": "2020-12-11T14:27:20Z",
-   "thumbnail": "https://i.ytimg.com/vi/iDfszyMO0NY/mqdefault.jpg",
-   "views": 38228,
-   "likes": 29,
-   "comments": 1
-  },
-  {
-   "id": "vMrAw9Sd1Fc",
-   "title": "Message for Runners from Carl Lewis",
-   "publishedAt": "2014-05-16T13:04:42Z",
-   "thumbnail": "https://i.ytimg.com/vi/vMrAw9Sd1Fc/mqdefault.jpg",
-   "views": 37698,
-   "likes": 19,
-   "comments": 0
   }
  ],
  "recentVideos": [
+  {
+   "id": "SWKZB8jqdyg",
+   "title": "Gulveer Singh | ARMY SE AAYA, TRACK PAR CHHAAYA ! (TSK 25K)",
+   "publishedAt": "2026-11-27T09:20:51Z",
+   "thumbnail": "https://i.ytimg.com/vi/SWKZB8jqdyg/mqdefault.jpg",
+   "views": 26,
+   "likes": 3,
+   "comments": 1
+  },
   {
    "id": "lILAJW1kngU",
    "title": "Coach Se Seekhi Race, Phir Dikhaayi Apni Pace | Kenenisa Bekele vs Haile  (2003 Paris & TSK 25K)",
@@ -337,15 +346,6 @@
    "views": 916,
    "likes": 18,
    "comments": 3
-  },
-  {
-   "id": "T4ZkhG9gTyc",
-   "title": "Feel Kolkata's Energy! Tata Steel World 25K Kolkata 2026 🏃‍♂️",
-   "publishedAt": "2026-11-12T07:24:10Z",
-   "thumbnail": "https://i.ytimg.com/vi/T4ZkhG9gTyc/mqdefault.jpg",
-   "views": 604,
-   "likes": 14,
-   "comments": 4
   }
  ]
 }
