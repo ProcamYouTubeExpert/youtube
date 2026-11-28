@@ -1,23 +1,16 @@
 {
- "generatedAt": "2026-11-27T19:33:04.607Z",
+ "generatedAt": "2026-11-28T02:09:30.082Z",
  "sample": false,
- "startDate": "2026-10-31",
- "endDate": "2026-11-27",
+ "startDate": "2026-11-01",
+ "endDate": "2026-11-28",
  "totals": {
-  "views": 32027,
-  "watchMinutes": 13222,
-  "avgViewDurationSec": 58,
-  "subscribersGained": 53,
-  "subscribersLost": 88
+  "views": 29925,
+  "watchMinutes": 11991,
+  "avgViewDurationSec": 56,
+  "subscribersGained": 45,
+  "subscribersLost": 87
  },
  "daily": [
-  {
-   "date": "2026-10-31",
-   "views": 3150,
-   "watchMinutes": 1519,
-   "subscribersGained": 10,
-   "subscribersLost": 4
-  },
   {
    "date": "2026-11-01",
    "views": 1991,
@@ -185,12 +178,19 @@
    "watchMinutes": 532,
    "subscribersGained": 4,
    "subscribersLost": 7
+  },
+  {
+   "date": "2026-11-25",
+   "views": 1048,
+   "watchMinutes": 288,
+   "subscribersGained": 2,
+   "subscribersLost": 3
   }
  ],
  "countries": [
   {
    "country": "IN",
-   "views": 28024
+   "views": 25882
   },
   {
    "country": "PK",
@@ -219,6 +219,14 @@
   {
    "country": "JP",
    "views": 0
+  },
+  {
+   "country": "TR",
+   "views": 0
+  },
+  {
+   "country": "UZ",
+   "views": 0
   }
  ],
  "ageGroups": [
@@ -228,29 +236,29 @@
   },
   {
    "group": "age18-24",
-   "percent": 25.1
+   "percent": 25
   },
   {
    "group": "age25-34",
-   "percent": 50.9
+   "percent": 52
   },
   {
    "group": "age35-44",
-   "percent": 20
+   "percent": 19.4
   },
   {
    "group": "age45-54",
-   "percent": 3.8
+   "percent": 3.3
   }
  ],
  "gender": [
   {
    "gender": "male",
-   "percent": 85.2
+   "percent": 84.8
   },
   {
    "gender": "female",
-   "percent": 14.8
+   "percent": 15.2
   }
  ],
  "errors": []
